@@ -4,10 +4,8 @@ title: Novels
 url: /novels/
 ---
 
-<ul>
+<div class="noList">
     {% for novel in site.novels %}
-      <li>
         <h2><a href="{{ novel.url }}">{{ novel.title }}</a></h2>
-      </li>
     {% endfor %}
-  </ul>
+    </div>
