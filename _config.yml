@@ -51,7 +51,7 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 disqus:
-    shortname: eontec
+    shortname: "eontec"
 collections:
   novels:
     output: true
