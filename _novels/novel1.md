@@ -7,7 +7,7 @@ name: "Black Guild Company Employee Inadvertently Broadcasts Nationwide Video of
 
 <h6>Author: Kumano Genkotsu</h6>
 
-
+<h4><u>Description</u></h4>
 Makoto Tanaka, an office worker belonging to the Black Guild.
 
 Despite being one of the world's top-class explorers, he was overworked by the guild for a low monthly salary and spent his days with dead eyes.
