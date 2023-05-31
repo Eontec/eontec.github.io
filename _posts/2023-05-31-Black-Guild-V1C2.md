@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-[Previous Chapter][{% link _posts/2023-05-31-Black-Guild-V1C1.md %}] | Next chapter
+[Previous Chapter]({% link _posts/2023-05-31-Black-Guild-V1C1.md %}) | Next chapter
 
 TL: Sam
 
@@ -16,7 +16,7 @@ TL: Sam
 　I run lightly through the dungeon.
 
 　Dungeons are roughly divided into upper, middle, lower, and deep layers, but what I'm aiming for right now is the deepest layer, the "deep layer."
-
+<!--more-->
 　Normally, it's a theory to go down little by little, but I don't have time for that right now. So I decided to go deep into the depths at once.
 
 "Haa... I'm depressed. Sometimes I want to go home and sleep peacefully. I want to eat something warm..."
@@ -194,4 +194,4 @@ TL: Sam
 TL Note: In case you haven't noticed, Regular quotes are for dialogue, while the blocks are for comments
 
 
-[Previous Chapter][{% link _posts/2023-05-31-Black-Guild-V1C1.md %}] | Next chapter
+[Previous Chapter]({% link _posts/2023-05-31-Black-Guild-V1C1.md %}) | Next chapter

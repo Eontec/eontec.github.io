@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-[Next Chapter][{% link _posts/2023-05-31-Black-Guild-V1C2.md %}]
+[Next Chapter]({% link _posts/2023-05-31-Black-Guild-V1C2.md %})
 
 Tl: Sam
 
@@ -15,7 +15,7 @@ Marriage is the graveyard of life
 There is such a word, but I think it is a little different.
 
 "Employment is the graveyard of life..."
-
+<!--more-->
 　I, Makoto Tanaka, a salaried worker, murmured to myself while looking at the email describing today's work.
 
 　The quota written there was not an amount that could be finished within the specified time. Overtime confirmed today too... I let out a deep sigh.
@@ -125,4 +125,4 @@ There is such a word, but I think it is a little different.
 TL Note: I just started with this novel, It’s my first project. I’m somewhat occupied with school a lot of the time, so updates might not be regular, but I’ll definitely be as consistent as possible.
 
 
-[Next Chapter][{% link _posts/2023-05-31-Black-Guild-V1C2.md %}]
+[Next Chapter]({% link _posts/2023-05-31-Black-Guild-V1C2.md %})
