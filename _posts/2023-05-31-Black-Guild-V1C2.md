@@ -99,7 +99,7 @@ TL: Sam
 
 「I came from the bulletin board, what’s happening?」
 
-「Shibuya Dungeon, Missed footing, Falling」
+「Shibuya Dungeon, Accidentally streaming, Falling」
 
 「I think I understand」
 
