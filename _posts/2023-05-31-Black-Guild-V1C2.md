@@ -5,6 +5,8 @@ category: black guild
 comments: true
 ---
 
+[Previous Chapter][{% link _posts/2023-05-31-Black-Guild-V1C1.md %}] | Next chapter
+
 TL: Sam
 
 …
@@ -186,3 +188,10 @@ TL: Sam
 "Now, it's time for business...! ”
 
 　I held the sword firmly in my right hand and plunged into the crowd of monsters.
+
+...
+
+TL Note: In case you haven't noticed, Regular quotes are for dialogue, while the blocks are for comments
+
+
+[Previous Chapter][{% link _posts/2023-05-31-Black-Guild-V1C1.md %}] | Next chapter

@@ -5,6 +5,8 @@ category: black guild
 comments: true
 ---
 
+[Next Chapter][{% link _posts/2023-05-31-Black-Guild-V1C2.md %}]
+
 Tl: Sam
 
 ...
@@ -121,3 +123,6 @@ There is such a word, but I think it is a little different.
 ...
 
 TL Note: I just started with this novel, It’s my first project. I’m somewhat occupied with school a lot of the time, so updates might not be regular, but I’ll definitely be as consistent as possible.
+
+
+[Next Chapter][{% link _posts/2023-05-31-Black-Guild-V1C2.md %}]

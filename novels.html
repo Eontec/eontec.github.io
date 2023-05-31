@@ -3,7 +3,9 @@ layout: default
 title: Novels
 url: /novels/
 ---
+<h2>{{page.title}}</h2>
 
+<p><br>__________________</p>
 <div class="noList" style="padding-bottom: 15px;">
     {% for novel in site.novels %}
         <h4><a href="{{ novel.url }}">{{ novel.title }}</a></h4>
