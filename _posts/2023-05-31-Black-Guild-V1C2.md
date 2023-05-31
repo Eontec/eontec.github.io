@@ -21,7 +21,7 @@ TL: Sam
 
 "Haa... I'm depressed. Sometimes I want to go home and sleep peacefully. I want to eat something warm..."
 
-　On the way, complaining to no one in particular.
+　I continue on the way, complaining to no one in particular.
 
 　The video is taken, but the president doesn't see such a moving scene. This much should be allowed.
 
