@@ -7,7 +7,7 @@ comments: true
 
 Tl: Sam
 
-***
+...
 
 Marriage is the graveyard of life
 There is such a word, but I think it is a little different.
@@ -88,36 +88,36 @@ There is such a word, but I think it is a little different.
 
 
 
-"Hmm? What is this delivery?"
+「Hmm? What is this delivery?」
 
-"It's titled ‘For Company Records’, but maybe you've set it up wrong?"
+「It's titled ‘For Company Records’, but maybe you've set it up wrong?」
 
-"He didn't realize he was streaming. It seems he didn't even read the comments."
+「He didn't realize he was streaming. It seems he didn't even read the comments.」
 
-"I mean, this is Shibuya Dungeon, isn't it? He’s diving deep alone, but is it okay?"
+「I mean, this is Shibuya Dungeon, isn't it? He’s diving deep alone, but is it okay?」
 
-"This is a suicide stream."
+「This is a suicide stream.」
 
-"You’ll die quickly if you go to large dungeons without at least three people."
+「You’ll die quickly if you go to large dungeons without at least three people.」
 
-"Hey, 3 people in the same room is too small lol"
+「Hey, 3 people in the same room is too small lol」
 
-"Well, this channel doesn't usually stream."
+「Well, this channel doesn't usually stream.」
 
-"This is the Black Dog Guild channel, right? Is the office worker in this suit a member of the guild? "
+「This is the Black Dog Guild channel, right? Is the office worker in this suit a member of the guild? 」
 
-"He's not on the guild member list on the official website."
+「He's not on the guild member list on the official website.」
 
-"Hey, there's today's quota in the summary column, but it's not the amount you can do by yourself lol."
+「Hey, there's today's quota in the summary column, but it's not the amount you can do by yourself lol.」
 
-"It's true lol I think it's a typo, but if it's serious the black dog guild is too black lol"
+「It's true lol I think it's a typo, but if it's serious the black dog guild is too black lol」
 
-"It's not just black, it's very bad lol"
+「It's not just black, it's very bad lol」
 
-"Looks interesting. I'll let the people on the bulletin board know."
+「Looks interesting. I'll let the people on the bulletin board know.」
 
-"I think I've seen this person before. Where did you see him?"
+「I think I've seen this person before. Where did you see him?」
 
-***
+...
 
 TL Note: I just started with this novel, It’s my first project. I’m somewhat occupied with school a lot of the time, so updates might not be regular, but I’ll definitely be as consistent as possible.
