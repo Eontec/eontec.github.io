@@ -1,13 +1,25 @@
 ---
 layout: novel
-category: poach
-title: "Default Novel"
+category: Black Guild
+title: "Black Guild Company Employee Inadvertently Broadcasts Nationwide Video of Fighting Against S-Class Monsters on Company Line ~Corporate Slave Kensei Becomes a Streamer"
+name: "Black Guild Company Employee Inadvertently Broadcasts Nationwide Video of Fighting Against S-Class Monsters on Company Line ~Corporate Slave Kensei Becomes a Streamer"
 ---
 
-Proident incididunt Lorem est elit quis duis Lorem anim sunt veniam qui consectetur. Et commodo eiusmod dolore ea do anim duis sint. Anim qui adipisicing nulla est ipsum aliquip nostrud sit est et esse anim voluptate aliquip. Enim occaecat laboris magna eu nisi officia sunt. Quis occaecat fugiat sit esse commodo ex adipisicing et.
+<h6>Author: Kumano Genkotsu</h6>
 
-Quis pariatur cupidatat duis do veniam mollit elit ex laborum esse. Ipsum id elit mollit nostrud consequat tempor dolore excepteur aliquip nisi non reprehenderit quis. Ullamco aute aliqua incididunt laborum. Cupidatat nulla pariatur Lorem consectetur irure ad ullamco sit exercitation.
 
-Deserunt id excepteur do irure dolore. Nostrud adipisicing proident est id aute in eu consectetur commodo consequat. Ea sint dolore veniam in amet ea proident in laboris incididunt. Culpa ut id adipisicing anim irure nisi consequat eiusmod minim ex irure ut proident. Ullamco culpa aliquip laboris ullamco pariatur laboris ea exercitation nostrud excepteur id duis consequat.
+Makoto Tanaka, an office worker belonging to the Black Guild.
 
-Laboris fugiat sunt sint et adipisicing. Exercitation et ea adipisicing quis fugiat exercitation adipisicing dolor. Dolor nisi minim sint est eu. Ex ex ex minim ut aute ipsum laborum. Aliqua consequat enim nulla enim.
+Despite being one of the world's top-class explorers, he was overworked by the guild for a low monthly salary and spent his days with dead eyes.
+
+One day, Tanaka mistakenly distributes a video for recording to the company nationwide.
+Viewers who saw Tanaka's unconventional power went wild, and the distribution eventually attracted 100 million people.
+
+Tanaka suddenly becomes a person of the moment.
+The president of the guild he belongs to gets angry at him and yells at him.
+
+Hearing this, Tanaka is blown away and leaves the guild saying, "Then I'll quit."
+
+Tanaka, who has become unemployed, is active as a free dungeon broadcaster and becomes more and more famous.
+On the other hand, the guild that banished Tanaka was on the verge of collapse.
+>
