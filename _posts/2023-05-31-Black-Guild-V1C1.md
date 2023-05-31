@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BG - Volume 1 Chapter 1"
-category: Black guild
+category: black guild
 comments: true
 ---
 
