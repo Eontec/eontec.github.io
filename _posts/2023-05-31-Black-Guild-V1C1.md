@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 1 Chapter 1"
+title: "BG - Volume 1 Chapter 1: Tanaka dives into the dungeon"
 category: black guild
 comments: true
 ---
