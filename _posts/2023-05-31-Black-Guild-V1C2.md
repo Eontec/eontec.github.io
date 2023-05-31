@@ -56,7 +56,7 @@ TL: Sam
 "Now then. Shall we go to the depths?"
 
 
-　Shibuya underground dungeon is large in the centercolonnade・・・・It has become. So if you jump down that big hole, you can go to the depths at once.
+　The central part of the Shibuya underground dungeon is a large atrium...  So if you jump down that big hole, you can go to the depths at once.
 
 　I reached the atrium and jumped down from there.
 
