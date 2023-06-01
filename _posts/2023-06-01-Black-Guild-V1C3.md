@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-05-31-Black-Guild-V1C2.md %}) \| Next chapter
+##### [Previous Chapter]({% link _posts/2023-05-31-Black-Guild-V1C2.md %}) \| [Next chapter]({% link _posts/2023-06-01-Black-Guild-V1C4.md %})
 
 
 TL: Sam
@@ -153,4 +153,4 @@ It’s more persistent than ever today. ...... Of course, I ignore it, because I
 「50 million watchers!? It's a festival!」
 
 
-##### [Previous Chapter]({% link _posts/2023-05-31-Black-Guild-V1C2.md %}) \| Next chapter
+##### [Previous Chapter]({% link _posts/2023-05-31-Black-Guild-V1C2.md %}) \| [Next chapter]({% link _posts/2023-06-01-Black-Guild-V1C4.md %})
