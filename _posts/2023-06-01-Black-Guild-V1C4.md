@@ -18,6 +18,7 @@ Tl: Sam
 　The Tyrant Dragon fills its mouth with flames.
 
 　The firepower of his breath is tremendous. If I were to fall victim to it, I would burn up without even a coal left.
+<!--more-->
 
 　The most important thing to remember is that the best way to get the most out of your investment is to make sure that you are getting the most out of your investment.
 
