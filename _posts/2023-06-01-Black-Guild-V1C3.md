@@ -110,7 +110,7 @@ TL: Sam
 
 「I no longer feel uncomfortable that I can't see his movements」
 
-「Amazing! Who is he!? A famous explorer?」(Tl: THhs is said in English to show it's a foreigner)
+「Amazing! Who is he!? A famous explorer?」(Tl: This is said in English to show it's a foreigner)
 
 「Finally, foreigners started coming.」
 
