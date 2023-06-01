@@ -19,6 +19,7 @@ TL: Sam
 　It was a group of ogres that rushed in while raising their roars.
 
 　A frightening face on a muscular body. I had a hard time when I fought for the first time. However,
+<!--more-->
 
 
 
