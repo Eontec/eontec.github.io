@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-01-Black-Guild-V1C3.md %}) \| Next chapter
+##### [Previous Chapter]({% link _posts/2023-06-01-Black-Guild-V1C3.md %}) \| [Next Chapter]({% link _posts/2023-06-02-Black-Guild-V1C5.md %})
 
 
 Tl: Sam
@@ -162,4 +162,4 @@ The opponent is the Tyrant Dragon!
 "I wonder if I'm going to be forced to write a report ......."
 
 
-##### [Previous Chapter]({% link _posts/2023-06-01-Black-Guild-V1C3.md %}) \| Next chapter
+##### [Previous Chapter]({% link _posts/2023-06-01-Black-Guild-V1C3.md %}) \| [Next Chapter]({% link _posts/2023-06-02-Black-Guild-V1C5.md %})
