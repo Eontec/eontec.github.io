@@ -1,172 +1,222 @@
 ---
 layout: post
-title: "BG - Volume 1 Chapter 6: Tanaka Looks for His Next Steps"
+title: "BG - Volume 1 Chapter 7: Tanaka Set it up"
 category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-02-Black-Guild-V1C5.md %}) \| Next chapter
+##### [Previous Chapter]({% link _posts/2023-06-02-Black-Guild-V1C6.md %}) \| Next chapter
+
 
 Tl: Sam
 
 …
 
-"I'll give up deleting the video then. Can you think of a way to make this situation as small as possible?"
+"You! I hope you understand what you have done wrong ......!"
 
-"Hey, hey, what are you talking about, Tanaka?"
-<!--more-->
 
-　Adachi sighed deliberately.
+　Suda, the president of the Black Dog Guild, approaches me with an ogre-like expression on his face.
 
+　I should have been prepared for this, but when I hear his voice, my stomach starts to hurt. It seems that my mind was more fragile than I thought.
 
-"You've made a name for yourself, why would you want to throw it away?　You'll never get another chance like this."
 
-"What are you talking about?　I'm not a streamer or an influencer. Being famous won't do me any good. I'll just get sarcastic comments from my boss."
+　I've been listening to him for so many years that I'm completely ingrained in his corporate guts.
 
+　Thanks to the conversation I had with Adachi earlier, I can now look at myself objectively. If I hadn't talked to him, I might have surrendered at this point.
 
-　As soon as I said the word "boss," my stomach began to churn.
 
-　I've eaten acid slime that could dissolve iron, but my stomach is not susceptible to stress.
+"Because of that stream, the company's reputation is in ruins!　How are you going to take responsibility for that!"
 
 
-"I'm so ingrained in the spirit of corporate slavery, Tanaka. You know what?　You should quit your job. I saw your eyes in the video, and your dark circles are too dark. I bet you're still working for that Suda guy for a low salary, aren't you?"
+　Suda yelled at me, his face turning red.
 
-"I can't deny that......."
+　This is an everyday occurrence in our guild. He has no great managerial skills, but he is very good at using fear to control his employees.
 
 
-　The person named "Suda" that Adachi mentioned is the president of the company I work for.
+　He has a great talent for running a black company. It's ruined my body and soul. I owe him a debt of gratitude, but if I don't ...... continue like this, I'm doomed.
 
-　I, Adachi, and Suda were classmates and used to play together when we were in elementary and junior high school. We used to play together when we were in elementary and junior high school.
+　I want to live for myself from now on.
 
 
-"But I owe the president, Suda, a debt of gratitude. To suddenly quit ...... is just not right."
+"... Other employees will come soon.  Then I'll beat you down. Prepare yourself."
 
-"When your parents got sick, he lent you money, didn't he?　You've already returned the money and paid him back for that favor. Come on, live for yourself."
 
+　Suda smiled wickedly.
 
-　When he said that, I felt my heart lighten.
+　I'm sure he's enjoying the sermon. He always says he's doing it for your sake, but that's a lie.
 
-　I had been so busy that I had never thought about that.
+　He's a scumbag who likes to bully people who can never fight back. I'm so glad I was able to wake up to this.
 
 
-　I had been too busy to think about it.
+　Even though I'm at ......, I still get sick to my stomach and my legs when I'm in front of this guy. At this rate, I doubt I'll be able to successfully rebut him.
 
+　As I'm thinking about what to do, my phone vibrates.
 
-"It's about Suda. 'If you quit here, you won't find another job!' is what he said"
 
+"Hmm?"
 
-"Damn, he's got that corrupt president thing going for him, too. Tanaka, don't take those words seriously. There are plenty of guilds that would love to have you. Besides, you don't have to belong to a company, you can go freelance."
 
-"But you can't make money as a freelancer. I don't have the qualifications to cash in."
+　I secretly check my phone so that Suda doesn't find out.
 
+　I see a message from Adachi, who I had been talking to earlier. What in the world is going on?
 
-　The things you get in dungeons cannot be converted directly into yen.
 
-　The first thing you need to do is to convert them into a special currency called "G." Then, you need to convert the "G" into Yen.
+「Since it's you, you're still scared of Suda, right?　If that's the case, think, 'But I can kill this guy in an instant.' Then you won't be afraid.」
 
 
-　To convert it into yen, you need a qualification, which is usually held by a company and not by an individual.
+　...... I see.
 
+　Suda used to be an explorer, so he's stronger than most people, but he hasn't dived in dungeons for a long time. I'm sure I'm stronger than him.
 
-　It's a troublesome system, but I heard that if you don't do this, the economy can be easily destroyed.
 
-　The things you can get in the dungeon are that valuable.
+　If you look closely, you will see that Suda's movements are full of gaps, not those of a warrior.
 
+　If I close the distance in 0.2 seconds and hit him in the heart, ...... yeah, it would take less than a second to kill him.
 
-　But Adachi should know these basic facts.
 
+　Huh?　If you think about it that way, it might not be scary. Tyrant dragons are much scarier.
 
-"I'm not asking you to become a freelance explorer. I'm asking you to become a dungeon streamer."
+　I used to be afraid that they would make me quit my job, but now I don't care if I quit, and there's not a single part of me that's afraid.
 
-"Dungeon Streamer: ...... Hey."
 
+　I can do this.
 
-"Dungeon streamers, as the name implies, are people who stream their dungeon dives."
+　I decided that I am ready to fight this time, so I secretly touch my phone and do a certain operation. Once I do this, there's no going back.
 
-　It is true that some famous people are making a lot of money, but can I be a dungeon streamer?
 
+"Okay, ......, we've got enough people here. Tanaka, let's start ......."
 
-"I won't force you to become one. If you do, I'll do my best to support you."
 
-"That's reassuring. I'm counting on you."
+　When about 10 employees gathered, Suda came in front of me with a wicked smile on his face.
 
+　I knew he was having fun.
 
-　Adachi smiled happily when he said that.
 
-　Adachi works for a company that supports explorers. He must know a lot about dungeon streaming.
+"Tell me, Tanaka, what you have done. Make it clear to the other employees!"
 
-　He's a well-tempered guy, but this guy has always been dependable.
+　Suda says in a voice so loud that the office shakes.
 
+　This is his usual phrase. First, he makes the employee explain and instills a sense of guilt.
 
-"... I'm quitting the company, huh? I can't imagine it."
+　Then, after getting them to talk, he interrupts them, silences them, and then yells at them to take control of the conversation.
 
 
-　When I think about it, I hesitate.
+　Then the employee shrinks and can't say anything. He's really a bad guy.
 
-　Unemployed is too heavy a word for someone my age.
+　The other employees are remembering what he did to them, or perhaps they have a dark look on their faces. I would have had the same look on my face.
 
+"It was my fault for making a mistake in the stream settings and leaking the contents of the business to the outside world. I do feel bad about that."
 
-　I was thinking like this when Adachi, perhaps sensing how I was feeling, started talking to me.
+　Saying that, Suda gave a disgusting smile.
 
+　I guess the pattern for breaking my heart is building up in my head from here.
 
-"I hate to say this, but ...... I've always admired you, you know?"
+　If it had been before, things might have gone accordingly, but not on this particular day.
 
-"What?　You admire me?"
+"But that's it. Right now the Internet is giving the Black Dog Guild a bad name, but it's all your fault. I had nothing to do with it."
 
+"......You, what did you just say?'
 
-　The sudden words upset me.
 
-　What on earth do you mean?
+　Suda, who looked surprised, belatedly realized that what he had said had been denied, and his face turned red.
 
 
-"I used to admire being an explorer, too. I thought I'd be active in dungeon diving. But when I saw your fighting style, I thought, 'If there's a great guy like you, I don't have to dive.' "
+" 'I had nothing to do with it'?!　Who the hell do you think you are?!"
 
-"Adachi ......"(Tl: Just wanted to add a "no homo" here cuz there's no yaoi tag)
 
+　Suda angrily kicked a nearby trash can.
 
-　I didn't know you felt that way. The most important thing to remember is that you should never be afraid to ask for help.
+　The trash inside scatters, and the employees tremble at the sight of it.
 
 
-"That's why I got a job to support explorers. To support someone someday."
+"You understand that this guild is in the black, don't you, Suda?　It just came to light. If what I didn't do spread, it's my fault, but what I did spread. And you were the one who made me do it."
 
-"What?　Who is that? Do I know you?"
+"Are you saying that our company is black?　I don't think so!　We pay you a minimum wage and give you a day off once a month!　And who is it that picked up you scum that no other guild would hire to work for them in the first place?"
 
-"...... Well, you've always been a little slow, haven't you?"
 
+　I laugh a little in my heart at the collection of black company quotes that overflow like hot water when I poke them lightly.
 
-　 He was rude.
+　I wonder how many people hear these words and think, 'This guild is doing it right.' I'd like to take a survey.
 
 
-"Anyway, I'll tell you what. If you have a hard time in your current job, you should quit it immediately. If you want, I can hire you as a tea waiter at my company."
+"Aren't you the one who cuts our salary? 　And even your time off is below the Labor Standards Act for Explorers. Do you think I haven't noticed?"
 
-"......I must be pretty sick to find that offer so appealing."
+"Guu....... That's fine! I also do government work! That means I'm the government!"
 
 
-　When I say this jokingly, Adachi laughs and says, "Yeah, I'm very sick.
+　Oh, this is no good.
 
-　I feel much calmer after talking to this guy. I think I can make a calm decision now.
+　This guild is already blacked out. The other employees are backing down. They will be leaving soon.
 
 
-"You can even beat a Tyrant Dragon," Adachi said. "Don't let Suda beat you.
+......Well, now that I've gotten a lot out of him, it's time to break the story.
 
-"Thank you. I'll be in touch."
+　I don't want to hear any more of his annoying voice.
 
 
-　After a short exchange of words, he hangs up the phone.
+"Suda, I'm really sorry - I've known you for a long time."
 
-　I looked at my watch and saw that it was already time for me to leave for work. It was time for the other employees to arrive.
+"Oh? What are you talking about?”
 
 
-　Just as I was thinking this, the door to the office suddenly opened with a loud bang!　The door opens with a loud bang.
+　I took out my phone and showed him the screen.
 
-　The person who entered the office stared at me as soon as he saw me.
+　There's a huge amount of comments flowing in there. ......
 
 
-"......Tanaka, I hope you're ready for this."
+「Wow, wow, the black quotes keep coming up.」
 
+「The darkness of Japan.」
 
-　Akihiro Suda, the president of the Black Dog Guild and my childhood friend, said in a hushed voice.(Tl: Such a big intro to such a minor villain)
+「This is already a police matter, isn't it?」
 
+「This is too much!」
 
+「 It's been a long time since I've seen a livestream this exciting.」
 
-##### [Previous Chapter]({% link _posts/2023-06-02-Black-Guild-V1C5.md %}) \| Next chapter
+「Hey, Mr. President, are you watching this?」
+
+「Hey, how do you feel now?　How do you feel?」
+
+「Bankruptcy confirmed.」
+
+「Thinking about it, If this is the case, the president can no longer escape.」
+
+「Thank God for the retirement RTA.」
+
+「I feel a great sense of unity.」
+
+「I'll never be a company employee again... ......, even though the dark circles in his eyes are cute...」
+
+「I think I'm going to retire too ......」
+
+
+"Hey, what the hell is this ......!"
+
+
+　Suda's face turns blue.
+
+　He seems to have finally understood his situation.
+
+
+"These days drones are very sophisticated, aren't they, Suda? They even have a camouflage mode. Thanks to that, I was able to stream this without being detected."
+
+
+　I operated my phone to bring out the drone, which had disappeared until now.
+
+　Yes, I had streamed the whole sequence of events on the D-tube. Thanks to my streaming incident, the number of subscribers to the Black Dog Guild's channel is exploding. Soon, viewers would be flocking to the site.
+
+
+"Guu, this ...... stupid ......!"
+
+"Give it up, Suda. It's time to pay your tribute."
+
+
+　I told Suda, who was trembling with anger.
+
+...
+
+Tl Note: I managed to push out one extra chapter today
+
+
+##### [Previous Chapter]({% link _posts/2023-06-02-Black-Guild-V1C6.md %}) \| Next chapter
