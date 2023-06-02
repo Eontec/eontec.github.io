@@ -16,6 +16,7 @@ Tl: Sam
 
 
 　Suda, the president of the Black Dog Guild, approaches me with an ogre-like expression on his face.
+<!--more-->
 
 　I should have been prepared for this, but when I hear his voice, my stomach starts to hurt. It seems that my mind was more fragile than I thought.
 
