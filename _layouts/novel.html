@@ -18,11 +18,11 @@ layout: default
     <ul>
         {%- assign filtered_posts = site.posts | where: 'category', page.category -%}
         {%- for post in filtered_posts -%}
-            <li><article>
+            <li>
                 <h5>
                     <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
                 </h5>
-            </article></li>
+            </li>
         {%- endfor -%}
     </ul>
 </div>
