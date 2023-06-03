@@ -157,7 +157,9 @@ One is an elite, the other a corporate slave. Why is there such a gap between th
 ...
 
 
-Tl Note: So I also got 3 chapters out today, And We've Officially resched the end of Volume One, I'll go back to 2 chapters per release and if all goes well I'll catch up with the author before long, luckily, Author-san is active with releases, so we won't be getting cut off antime soon. Maybe I'll pickup another novel then, give comments and suggestions
+Tl Note: So I also got 3 chapters out today, And We've Officially resched the end of Volume One, I'll go back to 2 chapters per release and if all goes well I'll catch up with the author before long, luckily, Author-san is active with releases, so we won't be getting cut off antime soon. Maybe I'll pickup another novel then, give comments and suggestions. There's also some inconsistencies with the Organization Names, so someone should help me point them out...
+I'm going with the ones in chapter 10 tho, I spent more time getting those names
+
 
 
 ##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C9.md %}) \| Next chapter
