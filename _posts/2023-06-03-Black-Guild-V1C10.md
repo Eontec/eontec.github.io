@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 1 Chapter 10: Tanaka Retires in Style"
 category: black guild
 comments: true
+date:   2023-06-03 21:32:02 +0100
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C9.md %}) \| Next chapter

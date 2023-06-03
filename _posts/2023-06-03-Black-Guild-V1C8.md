@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 1 Chapter 8: Tanaka gives double payback."
 category: black guild
 comments: true
+date:   2023-06-03 21:28:02 +0100
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-06-02-Black-Guild-V1C7.md %}) \| [Next Chapter]({% link _posts/2023-06-03-Black-Guild-V1C9.md %})
