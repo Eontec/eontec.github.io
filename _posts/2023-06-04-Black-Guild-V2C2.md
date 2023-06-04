@@ -175,4 +175,4 @@ I asked as I munched on the steak that had been brought to me.
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C8.md %}) \| [Next Chapter]({% link _posts/2023-06-04-Black-Guild-V2C3.md %})
