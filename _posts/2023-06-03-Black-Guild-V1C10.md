@@ -6,7 +6,7 @@ comments: true
 date:   2023-06-03 21:32:02 +0100
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C9.md %}) \| Next chapter
+##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C9.md %}) \| [Next chapter]({% link _posts/2023-06-04-Black-Guild-V2C1.md %})
 
 
 Tl: Sam
@@ -162,4 +162,4 @@ I'm going with the ones in chapter 10 tho, I spent more time getting those names
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C9.md %}) \| Next chapter
+##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C9.md %}) \| [Next chapter]({% link _posts/2023-06-04-Black-Guild-V2C1.md %})
