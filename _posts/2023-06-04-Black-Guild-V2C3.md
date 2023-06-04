@@ -19,6 +19,7 @@ Tl: Sam
 　I bow to the drone.
 
 　I've heard that D-tubers get a more cheerful, carefree vibe, but I decided to do it in this polite, working-class manner. It's easier for me to be polite, and Adachi thinks it's funny.
+<!--more-->
 
 　Comments begin to flow.
 

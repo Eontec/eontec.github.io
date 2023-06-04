@@ -21,6 +21,7 @@ Tl: Sam
 
 
 　I haven't had such a pleasant morning in months...... or even years.
+<!--more-->
 
 　I couldn't sleep well on my occasional days off because of the dread of the next day's work. From now on, I can sleep as much as I want every day, and it makes me feel lighter.
 

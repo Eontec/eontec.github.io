@@ -20,6 +20,7 @@ Tl: Sam
 「I've fallen before. I'm already used to it.」
 
 「Is this your first time streaming Shachiken?　Relax,」
+<!--more-->
 
 「No one's used to it.」
 

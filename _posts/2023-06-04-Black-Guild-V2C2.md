@@ -18,6 +18,7 @@ Adachi's document was quite detailed.
 
 
 　I don't usually watch D-tube (I was too busy to watch it), so it was very helpful.
+<!--more-->
 
 　Adachi also gave me a drone for streaming as an added bonus. He said it was a discontinued model, but it was still quite usable. This is a big help, too.
 
