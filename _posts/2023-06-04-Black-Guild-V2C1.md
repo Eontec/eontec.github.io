@@ -3,10 +3,9 @@ layout: post
 title: "BG - Volume 2 Chapter 1: Tanaka sleeps well"
 category: black guild
 comments: true
-date:   2023-06-03 21:30:02 +0100
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C10.md %}) \| [Next Chapter]({% link _posts/2023-06-10-Black-Guild-V2C2.md %}) 
 
 
 Tl: Sam
@@ -162,4 +161,4 @@ I made it in my spare time from work," he said. You don't know much about stream
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-03-Black-Guild-V1C8.md %}) \| [Next Chapter]({% link _posts/2023-06-10-Black-Guild-V2C2.md %}) 
