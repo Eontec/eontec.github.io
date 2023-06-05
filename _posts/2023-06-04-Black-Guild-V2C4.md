@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-04-Black-Guild-V2C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-04-Black-Guild-V2C3.md %}) \| [Next Chapter]({% link _posts/2023-06-05-Black-Guild-V2C5.md %})
 
 
 Tl: Sam
@@ -260,4 +260,4 @@ I noticed a large gray rat coming toward us.
 Tl Note: 4 today!! \*pats myself on the back\*
 
 
-##### [Previous Chapter]({% link _posts/2023-06-04-Black-Guild-V2C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-04-Black-Guild-V2C3.md %}) \| [Next Chapter]({% link _posts/2023-06-04-Black-Guild-V2C5.md %})
