@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-05-Black-Guild-V2C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-05-Black-Guild-V2C6.md %}) \| [Next Chapter]({% link _posts/2023-06-06-Black-Guild-V2C8.md %})
 
 
 Tl: Sam
@@ -213,4 +213,4 @@ I put the sword back into its scabbard completely and started walking towards Ho
 Tl Note: I managed another chapter yayyyy.......
 
 
-##### [Previous Chapter]({% link _posts/2023-06-05-Black-Guild-V2C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-05-Black-Guild-V2C6.md %}) \| [Next Chapter]({% link _posts/2023-06-06-Black-Guild-V2C8.md %})
