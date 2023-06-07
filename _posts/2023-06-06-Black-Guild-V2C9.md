@@ -16,7 +16,7 @@ Tl: Sam
 
 
 　I ask her before resuming my stream, having finished treating her injuries.
-
+<!--more-->
 　The level of danger is totally different between the upper and middle levels. With her ability to deal with the ogre to some extent, she would probably be fine in the upper levels, but the middle levels are dangerous.
 
 　She might be able to win a head-on fight with a monster in the middle tier, but in the middle tier, the monsters have more options, such as surprise attacks from behind, attacks from a distance, poison and traps, and so on.
