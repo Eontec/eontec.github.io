@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-06-Black-Guild-V2C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-06-Black-Guild-V2C8.md %}) \| [Next Chapter]({% link _posts/2023-06-06-Black-Guild-V2C10.md %})
 
 
 Tl: Sam
@@ -211,4 +211,4 @@ She shakes her head. My family is poor and I have to take care of my younger bro
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-06-Black-Guild-V2C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-06-Black-Guild-V2C8.md %}) \| [Next Chapter]({% link _posts/2023-06-06-Black-Guild-V2C10.md %})
