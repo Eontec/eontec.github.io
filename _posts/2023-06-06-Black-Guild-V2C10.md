@@ -15,6 +15,7 @@ Tl: Sam
 
 
 “I'm sorry for cuting off the stream so abruptly. Now I am going to escape from the West Shinjuku Cliff Dungeon, where something unusual is happening, with Hoshino-san."
+<!--more-->
 
 
 「We're going to start as if nothing happened, lmao.」
