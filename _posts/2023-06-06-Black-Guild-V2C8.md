@@ -79,7 +79,7 @@ Tl: Sam
 
 　The comments said whatever they wanted.
 
-　I wouldn't even touch her. I'm at least five years older than this girl. From her point of view, I must look like an old man. (Tl: 25 and 30)
+　I wouldn't even touch her. I'm at least five years older than this girl. From her point of view, I must look like an old man. (Tl: 25 and 20)
 
 　She seems like a nice girl, so she may feel indebted to me, but romantic feelings are different from that.
 
