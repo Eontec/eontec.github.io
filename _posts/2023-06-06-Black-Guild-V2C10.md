@@ -25,6 +25,7 @@ Tl: Sam
 「Holy shit, it's back on ━━━━(゜∀゜)━━━━!」
 
 「I'm sure everyone remembers all that.」
+<!--more-->
 
 「Streaming resumed (after two minutes).」
 
