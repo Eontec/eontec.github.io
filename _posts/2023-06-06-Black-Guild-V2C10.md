@@ -6,7 +6,7 @@ comments: true
 date: 2023-06-06 21:32:02 +0100
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-06-Black-Guild-V2C9.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-06-Black-Guild-V2C9.md %}) \| [Next Chapter]({% link _posts/2023-06-07-Black-Guild-V2C11.md %})
 
 
 Tl: Sam
@@ -211,4 +211,4 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-06-Black-Guild-V2C9.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-06-Black-Guild-V2C9.md %}) \| [Next Chapter]({% link _posts/2023-06-07-Black-Guild-V2C11.md %})
