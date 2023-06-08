@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-07-Black-Guild-V2C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-07-Black-Guild-V2C12.md %}) \| [Next Chapter]({% link _posts/2023-06-08-Black-Guild-V2C14.md %}) 
 
 
 Tl: Sam
@@ -165,4 +165,4 @@ These are ingredients from the dungeon. I'm going to use them to make an "exquis
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-07-Black-Guild-V2C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-07-Black-Guild-V2C12.md %}) \| [Next Chapter]({% link _posts/2023-06-08-Black-Guild-V2C14.md %})
