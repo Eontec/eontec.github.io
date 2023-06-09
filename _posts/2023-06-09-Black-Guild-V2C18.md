@@ -24,6 +24,7 @@ Tl: Sam
 　I adjust my stance in the air and land on my feet.
 
 　Then, I gently put down Hoshino, who was holding me in her arms, on the ground.
+<!--more-->
 
 "Kyuu....."
 
