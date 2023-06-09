@@ -21,6 +21,7 @@ Tl: Sam
 
 
 『Grrrraaaa......!』
+<!--more-->
 
 
 　The mount dragon opened his mouth wide and looked at me.
