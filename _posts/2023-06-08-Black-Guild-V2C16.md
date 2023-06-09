@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-08-Black-Guild-V2C15.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-08-Black-Guild-V2C15.md %}) \| [Next Chapter]({% link _posts/2023-06-09-Black-Guild-V2C17.md %})
 
 
 Tl: Sam
@@ -169,4 +169,4 @@ The wall of the cave we are in was gouged out with a bang as Hoshino swung the s
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-08-Black-Guild-V2C15.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-08-Black-Guild-V2C15.md %}) \| [Next Chapter]({% link _posts/2023-06-09-Black-Guild-V2C17.md %})
