@@ -1,199 +1,215 @@
 ---
 layout: post
-title: "BG - Volume 2 Chapter 18: Tanaka makes a deduction"
+title: "BG - Volume 2 Chapter 19: Tanaka Destroys The Mountain "
 category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-09-Black-Guild-V2C17.md %}) \| [Next Chapter]({% link _posts/2023-06-09-Black-Guild-V2C19.md %})
-
+##### [Previous Chapter]({% link _posts/2023-06-09-Black-Guild-V2C18.md %}) \| [Next Chapter]
 
 
 Tl: Sam
 
 …
 
-　Relying on the light that shines into my body, I push my way through the monster's body.
+『Goaaaaaaaah!!!』
 
-　Suddenly, the surroundings become bright. It seems that I was able to get out safely.
 
+　As I run forward, the mount dragon roars in fury.
 
-"......Yoop!"
+　I guess it had never experienced being thrown down before. He looks pretty angry.
 
 
-　I adjust my stance in the air and land on my feet.
+『Grrrraaaa......!』
 
-　Then, I gently put down Hoshino, who was holding me in her arms, on the ground.
 
-"Kyuu....."
+　The mount dragon opened his mouth wide and looked at me.
 
+　Then his mouth began to glow red.
 
-　My eyes are rolling because I moved pretty fast, but I'm not injured and I'm not covered in blood.  I'm sure I'll be able to move right away
 
+　The next moment I thought "No way," and a huge heat ray shoots out of the mount dragon's mouth. I quickly stepped to the side and was able to avoid it, but the dungeon wall where the heat ray hit was melted to mush.
 
-"Hoshino, are you okay?"
 
-"Hiyayi......, I can do it!"
+"I never thought a solid dungeon wall could be like this. Looks pretty hot if it hits. ......"
 
 
-　Hoshino regains consciousness clearly with a slap on the face.
+「Is it only hot ......?」
 
-　The monster that had been eating us was now visible.
+「That's the end of the story」
 
+「People would be vaporized by something like this.」
 
-"I see, it was him. ......」
+「I'm sure Tanaka will be fine.」
 
-"And it's huge!　What is this monster?」
+「I'm shaking because it looks like he's really going to be okay.」
 
 
-　What loomed up in front of us was a earth dragon so large it could be mistaken for a mountain.
+　But still, a mount dragon can't blow heat rays, can it?
 
-　The earth dragon is a wingless dragon species that walks on four legs. Because they cannot fly, their legs tend to be strong and their bodies hard.
+　This one is not only big, but it seems to be a very special one. If we don't defeat it soon, it might affect the outside too.
 
 
-　The dragon in front of me had scales made of hard rock, hard enough to repel even a half-hearted attack. If I were to fight it with my bare hands, it would give me a hard time.
+　If the magic essence concentration in the dungeon rises too high, the magic essence concentration in the space outside the dungeon ......, where ordinary people live, will also rise.
 
+　When this happens, monsters leave the dungeon and begin to attack ordinary citizens.
 
-"Tanaka-san. This monster is ......"
+　This phenomenon, called a "monster disaster," rarely happens, but once it does, the damage is enormous.
 
-“It's an S-class monster, the “Mounted Dragon". Also known as the "mountain dragon," it is a huge earth dragon with a rocky body,......, but I've never seen one this large before. It is probably an abnormally grown individual. This guy must have caused the monsters in the deeper levels to flee to the lower and middle levels."
 
+　Last year, I believe, the news reported that a small country was destroyed by this phenomenon.
 
-　A normal mount dragon is about 10 to 20 meters in length.
+　We can't let that happen in Japan.
 
-　The one in front of you, however, is a hundred meters long. It looks as if the 'mountain' is really moving.
 
+『Gaaaah!』
 
-「That's a monster!　It's huge!」
 
-「It's too big! ......」
+　The mount dragon moves its body at a speed that doesn't match its huge body, and tries to crush me with its foot.
 
-「I didn't know there was such a thing as an abnormally growing individual.」
+　It would have been painful to be trampled by this huge body. I jumped to the side to avoid it, but the mount dragon swung its legs down on me again and again in an insistent attempt to crush me.
 
-「Isn't that something humans can do something about?」
 
-「It looks like it could take a missile.」
+「I'm so scared lol.」
 
-「I don't think even Shachiken would be able to do that.　they got out of its body, so it's better to escape.」
+「Oh, the mountain is coming down.」
 
-「Yes, that's true.」
+「It feels so immersive.」
 
+「It's shaking so much. It's like an earthquake.」
 
-　A few of the comments here and there recommend that we run away.
+「Sometimes it's sunny, sometimes it's a mountain.」
 
-　Mount dragons are slow. It would not be that difficult to escape. However,
+「But seriously, how is he going to knock it down?　I mean, it's impossible for a single person to take down a mountain.」
 
+「Well, I'm sure it'll be fine. I don't know how he'll do it though.」
 
-"Thank you for your concern. However, if we do not defeat this individual now, the abnormal situation will not stop. It is difficult for the government to defeat an individual that has grown so large. ...... If left unchecked, there may be casualties."
+「I live in Shinjuku and it's shaking a little ......」
 
+「There was a real earthquake and I'm really feeling it...」
 
-　The government has a group called the "Subjugation Division" that specializes in hunting monsters.
 
-　But they have their hands full and are not getting enough work done. The government is also working with the Black Dog Guild, so I know what I'm talking about.
+　As I looked at the comments while avoiding it, I realized to my surprise that this shaking was happening all the way up to the top of the dungeon. This might cause some injuries if we don't settle this soon.
 
-Amatsuki, the chief of the Subjugation Division, must not be getting much sleep either. So it wouldn't be a bad idea to make her owe me a favor.
 
+'Gah!'
 
-"I'm sorry, Hoshino. Can you wait a little while before you leave?"
 
-"........!　Yes!　Of course!"
+　The mount dragon swung its leg down as hard as it could.
 
-"Thank you. Just give me a minute."
+　I ducked it and fired a blow with my iai.
 
 
-　My companion agrees, and I walk up to the mount dragon.
+"Tanaka-style kenjutsu, Blink!"
 
-　Although it has not yet attacked me in alarm, the mount dragon seems to be annoyed at having its belly split open.
 
-　It is glaring at me with a low roar of "guuuuuu......".
+　With a "Ging!"　The front legs of the mount dragon are sliced in two.
 
+　The mount dragon loses its balance and falls to the ground, hitting its head hard against the ground.
 
-『Gaaaahhh!』
 
+「Seriously, he did it!」
 
-　The mount dragon attacks me with a cry.
+「Such a thick leg in an instant .......」
 
-　It's a body slam that has no tricks up its sleeve. But when a mount dragon with the mass of a mountain unleashes it, it becomes a special move.
+「Shachiken is the strongest!　Shachiken is the strongest!」
 
+「Today's tie was amazing. Are there any overseas visitors here?」
 
-「Aaahhhh!」
+「It looks like overseas D-tubers spread the word. I think some overseas D-tubers have spread the word that the samurai from back then is still at it.」
 
-「A mountain attacked him!」
+「I remember when the first stream went viral. I miss it.」
 
-「It looks like a landslide.」
+「This is a composite video, right?　Please tell me it is!」 （Tl: said in English)
 
-「This is already a disaster.」
+「Here we go!」
 
-「Oh, oh, oh, oh, he's dead.」
+「First time in Shachiken, huh?　Well, take your time.」
 
+「You're just starting to act like you're an old-timer.」
 
-　A moving mountain looms in front of us.
 
-　I caught the blow from the mount dragon with my bare hands, right in front of ...... it.
+『Gaaaah ......aaaah!"』
 
 
-"Hmph......!"
+　The mount dragon grunts in pain as its leg falls off.
 
+　When the mount dragon tried to approach to finish him off, he pressed the severed side of his arm against a rock that had fallen nearby.
 
-　I spread my hands out to catch the mount dragon's head.
+　The next moment, the rock changed shape and became a new leg of the mount dragon.
 
-　The mount dragon's body stops with a thud,......, though it moves backward a little bit.
 
+　I never would have guessed that a fallen rock could repair a body, what kind of regenerative power does he have? Maybe that's the reason why this thing has grown so big.
 
-"Heavy as a rock,......."
+　Maybe it grew up by taking in all the rocks in the area.
 
 
-「Heavy as a rock,......, but not?」
+But ...... it's still the same thing. It can only regenerate so many times, right?
 
-「Why are you catching the mountain?」
 
-「How many tons do you think it weighs?」
+　If it regenerates, you can cut it over and over again.
 
-「This is already a glitch, isn't it?」
+　When I took a step closer, the mount dragon stepped back, still staring at me. It seems that the blow I had just struck had put him on alert.
 
-「It's just a weird level of strength.」
 
-「It doesn't matter if it's a sword or not, it's a physical monster.」
+「[Sad news] Mount Dragon-san is scared.」
 
-「He's pulling Yui-chan too!」
+「Dragon is scared!　Hey hey hey!」
 
-「Look at her face, it's red, I think she's falling in love with him.」
+「Its legs are shaking. He's so cute.」
 
-「He's too much of a fighter.」
+「Mount Dragon, I'm crying because he's being mounted by the viewers.」
 
+「I pity him!」
 
-『Gau ......?』
+「If I ever become a monster, I don't want to meet Shachiken alone.」
 
+「Tanaka!　Finish it!」
 
-　The mount dragon, whose own body has stopped, sounds puzzled.
 
-　It doesn't seem to understand what's going on.
+　I approach, wondering where to slash next.
 
+　Then, the mount dragon said, 『Gyuaaaaaah!』 a high-pitched squeal that I had never heard before.
 
-　I took advantage of the opportunity to put some strength into my arm and threw the mount dragon forward.
+I was wondering what the hell was hmming, and one after another, wizard-type monsters appeared through the cracks in the rock shell of the mount dragon and surrounded me.
 
-　The mounted dragon floated in the air for a few seconds, then fell to the ground with a roar.
 
+"...... come to think of it, you guys were in on it, weren't you?”
 
-"This much won't work, will it?　I'll deal with you."
 
-『Uhu......!』
+　I was originally in the belly of the mount dragon because of the black-robed wizard. These guys had a cooperative symbiotic relationship with the dragons.
 
 
-　Mount Dragon stood up and we exchanged glances.
+　The dragon provides a comfortable home away from the enemy, and the wizards provide fresh food for the dragon's body and catch.　A tag team that no other monster can compete with.
 
-　It's been a while since I've given it my all, but I don't seem to mind.
 
+『Gigi ......!』
 
-　I glance over at the time and see that it's now past 5pm.
 
-　It's almost 6:00 p.m. ......, which means it's almost closing time.
+　The wizards look at me and smile. They all look like they don't expect to lose.
 
-"I'm sorry, but I don't want to work overtime. I'll finish this at once."
 
+　But still, ......, it's annoying. I'm trying to get home on time, and you're getting in my way.
 
-　I declared and rushed out.
 
+"You guys are going to be my next opponent, ......?　I'll end this as soon as possible."
 
 
-##### [Previous Chapter]({% link _posts/2023-06-09-Black-Guild-V2C17.md %}) \| [Next Chapter]({% link _posts/2023-06-09-Black-Guild-V2C19.md %})
+「You look so scary!」
+
+「All office workers who are trying to leave on time have this look on their faces.」
+
+「This is a top-notch corporate warrior.」
+
+「Even the wizards are scared.」
+
+「A working man is a strong man.」
+
+「He's a company man who works 350 hours of overtime a month. He's got a different look.」
+
+
+　I regained my grip on my sword and slashed at the wizards.
+
+
+
+##### [Previous Chapter]({% link _posts/2023-06-09-Black-Guild-V2C18.md %}) \| [Next Chapter]
