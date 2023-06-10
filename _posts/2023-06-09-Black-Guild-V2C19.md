@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "BG - Volume 2 Chapter 19: Tanaka Destroys The Mountain "
+title: "BG - Volume 2 Chapter 19: Tanaka Destroys The Mountain"
 category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-09-Black-Guild-V2C18.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-09-Black-Guild-V2C18.md %}) \| [Next Chapter]({% link _posts/2023-06-10-Black-Guild-V2C20.md %})
+
 
 
 Tl: Sam
@@ -21,7 +22,6 @@ Tl: Sam
 
 
 『Grrrraaaa......!』
-<!--more-->
 
 
 　The mount dragon opened his mouth wide and looked at me.
@@ -30,6 +30,7 @@ Tl: Sam
 
 
 　The next moment I thought "No way," and a huge heat ray shoots out of the mount dragon's mouth. I quickly stepped to the side and was able to avoid it, but the dungeon wall where the heat ray hit was melted to mush.
+<!--more-->
 
 
 "I never thought a solid dungeon wall could be like this. Looks pretty hot if it hits. ......"
@@ -213,4 +214,5 @@ I was wondering what the hell was hmming, and one after another, wizard-type mon
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-09-Black-Guild-V2C18.md %}) \| [Next Chapter]
+
+##### [Previous Chapter]({% link _posts/2023-06-09-Black-Guild-V2C18.md %}) \| [Next Chapter]({% link _posts/2023-06-10-Black-Guild-V2C20.md %})
