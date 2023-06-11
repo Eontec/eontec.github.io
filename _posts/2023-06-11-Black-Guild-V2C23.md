@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 2 Chapter 22: Tanaka Rests"
+title: "BG - Volume 2 Chapter 23: Tanaka Rests"
 category: black guild
 comments: true
 ---
