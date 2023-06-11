@@ -22,6 +22,7 @@ Tl: Sam
 　I rub my eyes and wake up dozing.
 
 　This is the moment when I feel happiest after quitting my job. When I was a corporate employee, I couldn't sleep like this without worrying about the time. My phone still has a timer set to go off every five minutes.
+<!--more-->
 
 
 "There is nothing in particular to do today, so I'm just going to slack off. ......"
