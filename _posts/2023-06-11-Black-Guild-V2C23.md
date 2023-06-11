@@ -204,6 +204,7 @@ Hey, you're asking too much!　That's too much to ask!　I'm going to pay for it
 
 Tl Note: We've officially caught up with the author, which isn't bad, because I'm also going back to school this week(Wish I didn't need this degree). Slowing down isn't really a bad idea, unless I pick up another novel... 
 Really in line with the title of the chapter... 
+Edit literally before basically any of you even saw it: The author has posted two more chapters on another site, maybe she'll add them to syosetu later, maybe she won't, translation continues
 
 
 ##### [Previous Chapter]({% link _posts/2023-06-11-Black-Guild-V2C22.md %}) \| [Next Chapter]
