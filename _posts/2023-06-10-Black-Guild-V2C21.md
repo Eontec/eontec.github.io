@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-10-Black-Guild-V2C20.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-10-Black-Guild-V2C20.md %}) \| [Next Chapter]({% link _posts/2023-06-11-Black-Guild-V2C22.md %})
 
 
 
@@ -269,4 +269,4 @@ Tl: Sam
 Tl Note: Just 2 chapters today, but on the bright side(or not) we're getting closer to the author
 
 
-##### [Previous Chapter]({% link _posts/2023-06-10-Black-Guild-V2C20.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-10-Black-Guild-V2C20.md %}) \| [Next Chapter]({% link _posts/2023-06-11-Black-Guild-V2C22.md %})
