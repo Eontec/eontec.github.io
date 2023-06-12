@@ -270,7 +270,7 @@ It might be naive to say this, but I still have some sentiment toward Suda. It's
 ...
 
 
-*_Tl Note_: And with that We've officially caught up with the author(For real this time)... I haven' reacted so emotionally to a novel scene for quite a while. I'm a strong advocate for Amatsuki superiority, and at least that man-stealing witch didn't have her way (even though, she probably will cuz it's harem). Author uploads daily, so should I Translate one chapter a day? or two every two days? Let me know in the comments, I'll probably take a poll for it*
+*__Tl Note__: And with that We've officially caught up with the author(For real this time)... I haven' reacted so emotionally to a novel scene for quite a while. I'm a strong advocate for Amatsuki superiority, and at least that man-stealing witch didn't have her way (even though, she probably will cuz it's harem). Author uploads daily, so should I Translate one chapter a day? or two every two days? Let me know in the comments, I'll probably take a poll for it*
 
 
 
