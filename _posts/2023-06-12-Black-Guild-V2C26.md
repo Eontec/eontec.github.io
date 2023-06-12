@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 2 Chapter 25: Tanaka Becomes Popular"
+title: "BG - Volume 2 Chapter 26: Tanaka Receivs A Surprise"
 category: black guild
 comments: true
 ---
