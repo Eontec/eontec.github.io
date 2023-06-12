@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-11-Black-Guild-V2C22.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-11-Black-Guild-V2C22.md %}) \| [Next Chapter]({% link _posts/2023-06-12-Black-Guild-V2C24.md %})
 
 
 
@@ -207,4 +207,4 @@ Really in line with the title of the chapter...
 Edit literally before basically any of you even saw it: The author has posted two more chapters on another site, maybe she'll add them to syosetu later, maybe she won't, translation continues
 
 
-##### [Previous Chapter]({% link _posts/2023-06-11-Black-Guild-V2C22.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-11-Black-Guild-V2C22.md %}) \| [Next Chapter]({% link _posts/2023-06-12-Black-Guild-V2C24.md %})
