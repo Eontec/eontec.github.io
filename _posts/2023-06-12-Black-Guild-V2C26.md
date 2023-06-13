@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-12-Black-Guild-V2C25.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-12-Black-Guild-V2C25.md %}) \| [Next Chapter]({% link _posts/2023-06-13-Black-Guild-V3C1.md %})
 
 
 
@@ -274,4 +274,4 @@ It might be naive to say this, but I still have some sentiment toward Suda. It's
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-12-Black-Guild-V2C25.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-12-Black-Guild-V2C25.md %}) \| [Next Chapter]({% link _posts/2023-06-13-Black-Guild-V3C1.md %})
