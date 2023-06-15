@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-12-Black-Guild-V2C26.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-12-Black-Guild-V2C26.md %}) \| [Next Chapter]({% link _posts/2023-06-15-Black-Guild-V3C2.md %})
 
 
 
@@ -186,4 +186,4 @@ Tl Note: New Arc, New Heroine, Rui is acceptable plus she works (at the very lea
 [Vote here]( https://strawpoll.com/polls/GeZAOwGePnV )
 
 
-##### [Previous Chapter]({% link _posts/2023-06-12-Black-Guild-V2C26.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-12-Black-Guild-V2C26.md %}) \| [Next Chapter]({% link _posts/2023-06-15-Black-Guild-V3C2.md %})
