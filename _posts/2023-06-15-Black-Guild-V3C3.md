@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 3 Chapter 3: Tanaka Meets the Minister"
+title: "BG - Volume 3 Chapter 3: Tanaka Recieves an Apology"
 category: black guild
 comments: true
 ---
@@ -91,7 +91,7 @@ Dojima-san cut down the huge pine tree with a huge pair of scissors that looked 
 　However, when the monsters came out of the dungeon, it was a different story. The government decided to destroy the Imperial Palace dungeon.
 
 
-"A total of 300 skilled explorers gathered to destroy the "dungeon core," the key element of the dungeon. Even thinking about it now, that team was the strongest lineup. I, your Master, Amatsuki ......, and Tachibana were all very talented."
+"A total of 300 skilled explorers gathered to destroy the "dungeon core," the key element of the dungeon. Even thinking about it now, that team was the strongest lineup. I, your Master, Amatsuki ......, and you were all very talented."
 
 "I would appreciate it if you would stop talking about ...... master."
 
