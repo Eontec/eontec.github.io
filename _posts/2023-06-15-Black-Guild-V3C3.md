@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-15-Black-Guild-V3C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-15-Black-Guild-V3C2.md %}) \| [Next Chapter]({% link _posts/2023-06-16-Black-Guild-V3C4.md %})
 
 
 
@@ -178,4 +178,4 @@ Dojima-san cut down the huge pine tree with a huge pair of scissors that looked 
 
 [Update Schedule Vote]( https://strawpoll.com/polls/GeZAOwGePnV )
 
-##### [Previous Chapter]({% link _posts/2023-06-15-Black-Guild-V3C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-15-Black-Guild-V3C2.md %}) \| [Next Chapter]({% link _posts/2023-06-16-Black-Guild-V3C4.md %})
