@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-15-Black-Guild-V3C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-15-Black-Guild-V3C3.md %}) \| [Next Chapter]({% link _posts/2023-06-17-Black-Guild-V3C5.md %})
 
 
 
@@ -218,4 +218,4 @@ I bowed to Isumi-san, who offered me a cup of tea and [yokan]( https://en.wikipe
 
 [Update Schedule Vote]( https://strawpoll.com/polls/GeZAOwGePnV )
 
-##### [Previous Chapter]({% link _posts/2023-06-15-Black-Guild-V3C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-15-Black-Guild-V3C3.md %}) \| [Next Chapter]({% link _posts/2023-06-17-Black-Guild-V3C5.md %})
