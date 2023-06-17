@@ -80,6 +80,7 @@
 		rel="canonical"
 		href="{{ page.url | replace:'index.html','' | prepend: site.url }}"
 	/>
-
+	{%- include google_ads.html -%}
+	
 	{%- include google_analytics.html -%}
 </head>
