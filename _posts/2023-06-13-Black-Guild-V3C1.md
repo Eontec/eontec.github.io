@@ -27,6 +27,7 @@ I was dressed in a suit and headed for the "Ministry of Monster Countermeasures"
 
 
 　I'm not sure why, it's not because I ate too much ......, it's because of Amatsuki.
+<!--more-->
 
 　Even after one night, I still feel agony when I remember the feeling of kissing at a moment's notice. I couldn't sleep well today because of it.
 
