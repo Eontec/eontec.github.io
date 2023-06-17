@@ -37,7 +37,7 @@ Tl: Sam
 "That's ......."
 
 
-　But the way he looks at me is suspicious.
+　But the way they look at me is suspicious.
 
 　Hmmm, I guess they don't trust me. Well, when a dull guy like him suddenly becomes famous, it's no wonder people look at him with suspicion.
 
