@@ -304,7 +304,7 @@ Tl: Sam
 　Kimura was hit hard in the face with a "mehkii" sound and was blown away by the impact, spinning several times in the air before falling to the ground.
 
 
-「Oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!」
+「Oooooooooooooo!」
 
 「I still can't see you at all, lmao.」
 
