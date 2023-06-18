@@ -203,7 +203,7 @@ Tl: Sam
 
 Tl Note: That's it for the poll, apparently, you guys want one chapter a day. Also, I'm thinking of taking up another novel, but the releases of that will be pretty much radom, put your thoughts/recomendations in the comments. I'll give updates later  if I decide to ofollow through, might even put it on patreon first.    
 Anyway    
-#####Vote Results
+##### Vote Results    
 <div class="strawpoll-embed" id="strawpoll_GeZAOwGePnV" style="height: 800px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GeZAOwGePnV" src="https://strawpoll.com/embed/polls/GeZAOwGePnV" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>
 
 
