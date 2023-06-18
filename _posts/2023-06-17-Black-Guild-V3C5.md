@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-16-Black-Guild-V3C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-16-Black-Guild-V3C4.md %}) \| [Next Chapter]({% link _posts/2023-06-18-Black-Guild-V3C6.md %})
 
 
 
@@ -352,4 +352,4 @@ Tl Note: Today is the last day for the voting, well, till I translate the next c
 
 [Update Schedule Vote]( https://strawpoll.com/polls/GeZAOwGePnV )
 
-##### [Previous Chapter]({% link _posts/2023-06-16-Black-Guild-V3C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-16-Black-Guild-V3C4.md %}) \| [Next Chapter]({% link _posts/2023-06-18-Black-Guild-V3C6.md %})
