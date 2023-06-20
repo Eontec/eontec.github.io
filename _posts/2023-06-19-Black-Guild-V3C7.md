@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 3 Chapter 6: Tanaka Gets Provoked"
+title: "BG - Volume 3 Chapter 7: Tanaka Gets Provoked"
 category: black guild
 comments: true
 ---
