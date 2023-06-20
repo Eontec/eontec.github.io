@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-18-Black-Guild-V3C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-18-Black-Guild-V3C6.md %}) \| [Next Chapter]({% link _posts/2023-06-20-Black-Guild-V3C8.md %})
 
 
 
@@ -291,4 +291,4 @@ Tl: Sam
 Tl Note: What a development, Even I couldn't predict it, but it doesn't feel forced (Except for like the actual forcing aand instigation), 10/10. And Rin couldn't possibly think she beats her boss/adopted elder sister in any way. I'll sail the Amatsuki Ship till either I or she dies.
 
 
-##### [Previous Chapter]({% link _posts/2023-06-18-Black-Guild-V3C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-18-Black-Guild-V3C6.md %}) \| [Next Chapter]({% link _posts/2023-06-20-Black-Guild-V3C8.md %})
