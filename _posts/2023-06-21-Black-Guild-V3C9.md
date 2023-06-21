@@ -231,5 +231,10 @@ Tl: Sam
 
 
 
+...
+
+
+Tl Note: So turns out I can no longer use Tanaka Sytle, cuz Even the person hates it, I'll go back to the default. Amatsuki literaly confessed in the comment section. We got a backstory drop. A lot more than I expected happened this chapter
+
 
 ##### [Previous Chapter]({% link _posts/2023-06-20-Black-Guild-V3C8.md %}) \| [Next Chapter]
