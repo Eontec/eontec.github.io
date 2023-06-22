@@ -113,10 +113,10 @@ Tl: Sam
 　A short time after this exchange,......, Tachibana-san died in the dungeon just below the Imperial Palace.
 
 
-　The seven years that have passed since that incident, there are fewer people who remember Mr. Tachibana, but I will never forget him or the swordsmanship he taught me.
+　The seven years that have passed since that incident, there are fewer people who remember Tacibana-san, but I will never forget her or the swordsmanship she taught me.
 
 
-　As long as this sword is inherited, I can proudly say that Mr. Tachibana is still alive.
+　As long as this sword is inherited, I can proudly say that Tacibana-san is still alive.
 
 
 
