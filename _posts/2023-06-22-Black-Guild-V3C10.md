@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 3 Chapter 9: Tanaka Gets Ecposed"
+title: "BG - Volume 3 Chapter 10: Tanaka Gets Ecposed"
 category: black guild
 comments: true
 ---
