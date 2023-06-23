@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "BG - Volume 3 Chapter 10: Tanaka Gets Ecposed"
+title: "BG - Volume 3 Chapter 10: Tanaka Gets Exposed"
 category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-21-Black-Guild-V3C9.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-21-Black-Guild-V3C9.md %}) \| [Next Chapter]({% link _posts/2023-06-23-Black-Guild-V3C11.md %})
 
 
 Tl: Sam
@@ -144,4 +144,4 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-21-Black-Guild-V3C9.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-21-Black-Guild-V3C9.md %}) \| [Next Chapter]({% link _posts/2023-06-23-Black-Guild-V3C11.md %})
