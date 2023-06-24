@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-22-Black-Guild-V3C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-22-Black-Guild-V3C10.md %}) \| [Next Chapter]({% link _posts/2023-06-24-Black-Guild-V3C12.md %})
 
 
 Tl: Sam
@@ -195,4 +195,4 @@ Isumi checked Dojima's injuries while saying, "Several bones are broken, but it 
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-22-Black-Guild-V3C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-22-Black-Guild-V3C10.md %}) \| [Next Chapter]({% link _posts/2023-06-24-Black-Guild-V3C12.md %})
