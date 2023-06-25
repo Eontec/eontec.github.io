@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-23-Black-Guild-V3C11.md %}) \| [Next Chapter]({% link _posts/2023-06-25-Black-Guild-V3C13.md %})
+##### [Previous Chapter]({% link _posts/2023-06-23-Black-Guild-V3C11.md %}) \| [Next Chapter]({% link _posts/2023-06-25-Black-Guild-V4C1.md %})
 
 
 Tl: Sam
@@ -199,4 +199,4 @@ I'll be in touch. Did you change your email address?
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-23-Black-Guild-V3C11.md %}) \| [Next Chapter]({% link _posts/2023-06-25-Black-Guild-V3C13.md %})
+##### [Previous Chapter]({% link _posts/2023-06-23-Black-Guild-V3C11.md %}) \| [Next Chapter]({% link _posts/2023-06-25-Black-Guild-V4C1.md %})
