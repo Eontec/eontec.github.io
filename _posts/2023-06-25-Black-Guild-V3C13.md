@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 3 Chapter 13: Tanaka Goes Out"
+title: "BG - Volume 4 Chapter 1: Tanaka Goes Out"
 category: black guild
 comments: true
 ---
