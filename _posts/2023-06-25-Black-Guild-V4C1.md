@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-24-Black-Guild-V3C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-24-Black-Guild-V3C12.md %}) \| [Next Chapter]({% link _posts/2023-06-26-Black-Guild-V4C2.md %})
 
 
 Tl: Sam
@@ -139,4 +139,4 @@ By the way, I had sent a message to Hoshino in advance that Rin was coming. It w
 
 Tl Note: Unexpected meeting of two harem members, and they seem to not have a bad dynamic. Still on with Amatsuki supremacy though, them man-stealers need to know their place, plus she's definitely the strongest of the three, and most influential.
 
-##### [Previous Chapter]({% link _posts/2023-06-24-Black-Guild-V3C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-24-Black-Guild-V3C12.md %}) \| [Next Chapter]({% link _posts/2023-06-26-Black-Guild-V4C2.md %})
