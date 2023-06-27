@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-25-Black-Guild-V4C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-25-Black-Guild-V4C1.md %}) \| [Next Chapter]({% link _posts/2023-06-27-Black-Guild-V4C3.md %})
 
 
 　We walked into a nearby café under Hoshino's guidance.
@@ -243,4 +243,4 @@ At this point, I remembered the last time I was with Amatsuki. No way they both 
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-25-Black-Guild-V4C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-25-Black-Guild-V4C1.md %}) \| [Next Chapter]({% link _posts/2023-06-27-Black-Guild-V4C3.md %})
