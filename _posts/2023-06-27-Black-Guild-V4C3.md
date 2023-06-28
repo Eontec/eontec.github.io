@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-26-Black-Guild-V4C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-26-Black-Guild-V4C2.md %}) \| [Next Chapter]({% link _posts/2023-06-28-Black-Guild-V4C4.md %})
 
 
 Tl: Sam
@@ -231,4 +231,4 @@ She is an old acquaintance of my master, Tachibana-san, and they used to dive to
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-26-Black-Guild-V4C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-26-Black-Guild-V4C2.md %}) \| [Next Chapter]({% link _posts/2023-06-28-Black-Guild-V4C4.md %})
