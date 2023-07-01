@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-28-Black-Guild-V4C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-28-Black-Guild-V4C4.md %}) \| [Next Chapter]({% link _posts/2023-07-01-Black-Guild-V4C6.md %})
 
 
 Tl: Sam
@@ -246,4 +246,4 @@ In her hands, she held two daggers that had been prepared for her.
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-28-Black-Guild-V4C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-28-Black-Guild-V4C4.md %}) \| [Next Chapter]({% link _posts/2023-07-01-Black-Guild-V4C6.md %})
