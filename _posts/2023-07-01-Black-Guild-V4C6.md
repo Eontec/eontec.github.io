@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-06-29-Black-Guild-V4C5.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-29-Black-Guild-V4C5.md %}) \| [Next Chapter]({% link _posts/2023-07-01-Black-Guild-V4C7.md %})
 
 
 Tl: Sam
@@ -193,4 +193,4 @@ You're a hero to me, Tanaka-san. So I won't get in your way. Please take care of
 
 
 
-##### [Previous Chapter]({% link _posts/2023-06-29-Black-Guild-V4C5.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-06-29-Black-Guild-V4C5.md %}) \| [Next Chapter]({% link _posts/2023-07-01-Black-Guild-V4C7.md %})
