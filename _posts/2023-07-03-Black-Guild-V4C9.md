@@ -22,7 +22,7 @@ Tl: Sam
 
 
 　The distance between the two was far enough. Besides, one was holding a sword and the other a gun.
-
+<!--more-->    
 　It was obvious which attack would hit first.
 
 
