@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-01-Black-Guild-V4C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-01-Black-Guild-V4C6.md %}) \| [Next Chapter]({% link _posts/2023-07-03-Black-Guild-V4C8.md %})
 
 
 Tl: Sam
@@ -322,4 +322,4 @@ Tl Note: Sorry for the Gaps in the Uploads, Actually Just Yeterday tbh. I upload
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-01-Black-Guild-V4C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-01-Black-Guild-V4C6.md %}) \| [Next Chapter]({% link _posts/2023-07-03-Black-Guild-V4C8.md %})
