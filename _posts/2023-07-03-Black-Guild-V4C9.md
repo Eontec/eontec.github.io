@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-03-Black-Guild-V4C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-03-Black-Guild-V4C8.md %}) \| [Next Chapter]({% link _posts/2023-07-04-Black-Guild-V4C10.md %})
 
 
 Tl: Sam
@@ -262,4 +262,4 @@ He puts his finger on the trigger of the gun,
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-03-Black-Guild-V4C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-03-Black-Guild-V4C8.md %}) \| [Next Chapter]({% link _posts/2023-07-04-Black-Guild-V4C10.md %})
