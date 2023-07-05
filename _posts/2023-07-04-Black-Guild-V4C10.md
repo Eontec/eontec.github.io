@@ -18,8 +18,9 @@ Tl: Sam
 　After safely defeating the suspicious people, I took a breath and said, "Phew."    
 　I looked around for any sign of them, but there didn't seem to be anyone else hiding. I guess I could consider it safe for the time being.	 
 
-As I was wondering what I should do now, Rin, who had sent the hostage girl to safety, came back to me.	 
-<!--more-->    
+As I was wondering what I should do now, Rin, who had sent the hostage girl to safety, came back to me.	   
+<!--more-->
+    
 "Sensei!"	 
 "Whoa!"	 
 
