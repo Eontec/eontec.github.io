@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-03-Black-Guild-V4C9.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-03-Black-Guild-V4C9.md %}) \| [Next Chapter]({% link _posts/2023-07-05-Black-Guild-V4C11.md %})
 
 
 
@@ -169,4 +169,4 @@ As I was wondering what I should do now, Rin, who had sent the hostage girl to s
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-03-Black-Guild-V4C9.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-03-Black-Guild-V4C9.md %}) \| [Next Chapter]({% link _posts/2023-07-05-Black-Guild-V4C11.md %})
