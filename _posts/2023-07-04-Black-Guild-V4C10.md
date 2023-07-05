@@ -140,7 +140,7 @@ As I was wondering what I should do now, Rin, who had sent the hostage girl to s
 "Mr. Dojima, I'm watching this feed, aren't I? You are watching this stream, aren't you?　If you're watching, please comment."	 
 
 「Eh?」   
-「What's up with you all of a sudden, Tanaka!」...
+「What's up with you all of a sudden, Tanaka!」   
 「I'm preparing to run away, but I'm also curious about the stream.」   
 「Are you watching, Minister?」   
 「Yes, yes! Are you watching, Minister Dojima?」   
