@@ -22,10 +22,10 @@ As I was wondering what I should do now, Rin, who had sent the hostage girl to s
 
 <!--more-->
 "Sensei!"\
-"Whoa!"\
+"Whoa!"
 
-　Rin jumped into my chest with all her might.  	 
-　It was so fast that I was about to be blown away, but I caught it with my legs. If I were a normal person, my sternum would be shattered. 	 
+　Rin jumped into my chest with all her might.       
+　It was so fast that I was about to be blown away, but I caught it with my legs. If I were a normal person, my sternum would be shattered.
 
 "Sensei......Thank you......!"	 
 
@@ -121,10 +121,10 @@ As I was wondering what I should do now, Rin, who had sent the hostage girl to s
 　...... I can't just leave this dungeon like this, can I?
 
 "Todo-san. Can I destroy this dungeon?"\ 
-"Eh, Eeehhhh!?　It is true that this dungeon is dangerous, but ...... I have no right to give you that permission. I am sorry ......."\ 
+"Eh, Eeehhhh!?　It is true that this dungeon is dangerous, but ...... I have no right to give you that permission. I am sorry ......."
 
 　Todo-san apologetically lowered his eyes.\
-　Dungeons are valuable resources. Destroying it without permission is strictly prohibited by law. No matter what the reason, breaking it would make me a criminal.\
+　Dungeons are valuable resources. Destroying it without permission is strictly prohibited by law. No matter what the reason, breaking it would make me a criminal.
 
 　However, I could not sit idly by and watch Rin in this state.\  
 　I could go under the radar, prepared to get caught, but that would make Rin feel responsible.\
