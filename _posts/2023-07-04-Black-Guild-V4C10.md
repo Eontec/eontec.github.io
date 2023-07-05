@@ -18,36 +18,35 @@ Tl: Sam
 　After safely defeating the suspicious people, I took a breath and said, "Phew."    
 　I looked around for any sign of them, but there didn't seem to be anyone else hiding. I guess I could consider it safe for the time being.	 
 
-As I was wondering what I should do now, Rin, who had sent the hostage girl to safety, came back to me.	   
+As I was wondering what I should do now, Rin, who had sent the hostage girl to safety, came back to me.\
+
 <!--more-->
-    
-"Sensei!"	 
-"Whoa!"	 
+"Sensei!"\
+"Whoa!"\
 
 　Rin jumped into my chest with all her might.  	 
 　It was so fast that I was about to be blown away, but I caught it with my legs. If I were a normal person, my sternum would be shattered. 	 
 
 "Sensei......Thank you......!"	 
 
-　Rin was trembling as she buried her face in my chest.	 
-　They took a hostage and had a gun pointed at her. The fear was immense. The emotions that had been suppressed were now overflowing.   	 
+　Rin was trembling as she buried her face in my chest.\	 
+　They took a hostage and had a gun pointed at her. The fear was immense. The emotions that had been suppressed were now overflowing.\
 
-"I'm proud of you, You are indeed my proud student."    
+"I'm proud of you, You are indeed my proud student."
 
-　I continued to stroke her head until she calmed down.	 
-　I felt really embarrassed because this was also being streamed, but right now it was more important to be there for Rin.
+　I continued to stroke her head until she calmed down.\
+　I felt really embarrassed because this was also being streamed, but right now it was more important to be there for Rin.\
 
-「It's so hot, isn't it?」    
-「You're doing it again.」	 
-「Tanaka!　Take responsibility!」    
-「I really envy you. I wish I could switch places with you.」    
-「It's true. I wish I could be hugged by Shachiken too!」    
-「 Yeah, yeah!」
-「Over there!」	 
-「The audience is seriously turning into meth heads.」	 
-「I can't tell if you're serious or not.」	 
-「Maybe 40% of them are serious.」 	 
-「There's a lot of them.」	 
+「It's so hot, isn't it?」\
+「You're doing it again.」\
+「Tanaka!　Take responsibility!」\
+「I really envy you. I wish I could switch places with you.」\
+「It's true. I wish I could be hugged by Shachiken too!」\
+「 Yeah, yeah!」\
+「Over there!」\
+「The audience is seriously turning into meth heads.」\
+「I can't tell if you're serious or not.」\
+「Maybe 40% of them are serious.」
 
 　As I ignored the comments that were saying whatever they wanted, about five people appeared who were rushing toward me.   	 
 　That outfit looks a lot like the one Rin is wearing. So are they from the Subjugation Division?  	 
