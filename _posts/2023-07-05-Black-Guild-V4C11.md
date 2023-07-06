@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-04-Black-Guild-V4C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-04-Black-Guild-V4C10.md %}) \| [Next Chapter]({% link _posts/2023-07-06-Black-Guild-V4C12.md %})
 
 
 
@@ -156,4 +156,4 @@ Tl Note: I madde a discord Server and added a Patreon Link. There's nothing on t
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-04-Black-Guild-V4C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-04-Black-Guild-V4C10.md %}) \| [Next Chapter]({% link _posts/2023-07-06-Black-Guild-V4C12.md %})
