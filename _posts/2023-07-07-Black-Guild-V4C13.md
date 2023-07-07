@@ -66,8 +66,7 @@ I immediately kicked off the wall and caught the freed Rin in mid-air. I was a l
 
 　I turned my head away from Rin, who asked me at close range, looking into my face.
 
-　It's no good. If you have evil feelings toward your students, you're not a qualified teacher.. I must think of Four Character idioms to calm my mind. Shintou doroku shiroto kozoku yakiniku teishoku: ...... [^1]
-
+　It's no good. If you have evil feelings toward your students, you're not a qualified teacher.. I must think of Four Character idioms to calm my mind. Shintou doroku shiroto kozoku yakiniku teishoku: ...... [1](#fn-1){:.fnref #fnref-1}
 
 「It's rare to see Shachiken being embarrassed.」
 
@@ -262,7 +261,7 @@ I immediately kicked off the wall and caught the freed Rin in mid-air. I was a l
 
 ……
 
-[^1]: Theyre Four Character Phrases/idioms, phrases (usualy but not always idiomatic) that have four characters (exists in both Chinese and Japanese). The ones here mean, in order: Clear the mind, All is vanity, but the last one is a little complicated, and has some history. It translates literally to A BBQ set meal, But is a parody on another Four Character Phrase that meant, “The weak are a meal for the strong”(Which is a very great quote), but two characters in the spelling have been replaced to give it its more tasty meaning 焼肉定食 -> 弱肉強食. The common urban legend is that a student answered 焼肉定食 instead of the intended answer 弱肉強食, when he was asked to fill the blank in the following phrase □肉□食. Took me quite a while to get
+[1](#fnref-1){:#fn-1}. Theyre Four Character Phrases/idioms, phrases (usualy but not always idiomatic) that have four characters (exists in both Chinese and Japanese). The ones here mean, in order: Clear the mind, All is vanity, but the last one is a little complicated, and has some history. It translates literally to A BBQ set meal, But is a parody on another Four Character Phrase that meant, “The weak are a meal for the strong”(Which is a very great quote), but two characters in the spelling have been replaced to give it its more tasty meaning 焼肉定食 -> 弱肉強食. The common urban legend is that a student answered 焼肉定食 instead of the intended answer 弱肉強食, when he was asked to fill the blank in the following phrase □肉□食. Took me quite a while to get
 
 
 
