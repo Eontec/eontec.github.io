@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-06-Black-Guild-V4C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-06-Black-Guild-V4C12.md %}) \| [Next Chapter]({% link _posts/2023-07-08-Black-Guild-V4C14.md %})
 
 
 
@@ -267,4 +267,4 @@ I immediately kicked off the wall and caught the freed Rin in mid-air. I was a l
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-06-Black-Guild-V4C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-06-Black-Guild-V4C12.md %}) \| [Next Chapter]({% link _posts/2023-07-08-Black-Guild-V4C14.md %})
