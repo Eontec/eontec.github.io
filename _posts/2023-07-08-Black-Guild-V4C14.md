@@ -185,7 +185,7 @@ Looking at it, Rin pointed one of the devices that the first subjugation divisio
 　I'd like to ask Mr. Dojima if I can get one next time, since it would be very useful.
 
 
-　Tch......!　This monster is not a Black Slime!"
+"Tch......!　This monster is not a Black Slime!"
 
 
 　Rin exclaimed as she looked at the device, wondering if the data was successfully read.
@@ -193,7 +193,7 @@ Looking at it, Rin pointed one of the devices that the first subjugation divisio
 　The deep despair on her face was evident. It seemed we were up against something pretty bad.
 
 
-"The name of this monster is 『Shogos』...... a rank EX disaster level monster.　There is no record of defeating it,......, and you are obliged to retreat immediately upon encountering it,......!"
+"The name of this monster is 『Shoggoth』...... a rank EX disaster level monster.　There is no record of defeating it,......, and you are obliged to retreat immediately upon encountering it,......!"
 
 
 
