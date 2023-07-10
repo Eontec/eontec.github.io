@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-07-Black-Guild-V4C13.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-07-Black-Guild-V4C13.md %}) \| [Next Chapter]({% link _posts/2023-07-10-Black-Guild-V4C15.md %})
 
 
 
@@ -198,4 +198,4 @@ Looking at it, Rin pointed one of the devices that the first subjugation divisio
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-07-Black-Guild-V4C13.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-07-Black-Guild-V4C13.md %}) \| [Next Chapter]({% link _posts/2023-07-10-Black-Guild-V4C15.md %})
