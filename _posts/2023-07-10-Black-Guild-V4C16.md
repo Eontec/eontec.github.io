@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-10-Black-Guild-V4C15.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-10-Black-Guild-V4C15.md %}) \| [Next Chapter]({% link _posts/2023-07-11-Black-Guild-V4C17.md %})
 
 
 
@@ -209,4 +209,4 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-10-Black-Guild-V4C15.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-10-Black-Guild-V4C15.md %}) \| [Next Chapter]({% link _posts/2023-07-11-Black-Guild-V4C17.md %})
