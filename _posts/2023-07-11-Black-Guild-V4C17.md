@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-10-Black-Guild-V4C16.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-10-Black-Guild-V4C16.md %}) \| [Next Chapter]({% link _posts/2023-07-12-Black-Guild-V4C18.md %})
 
 
 Tl: Sam
@@ -192,4 +192,4 @@ Tl Note: I really enjoyed translating this fight. First thing is the fact that t
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-10-Black-Guild-V4C16.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-10-Black-Guild-V4C16.md %}) \| [Next Chapter]({% link _posts/2023-07-12-Black-Guild-V4C18.md %})
