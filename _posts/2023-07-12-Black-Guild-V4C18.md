@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-11-Black-Guild-V4C17.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-11-Black-Guild-V4C17.md %}) \| [Next Chapter]({% link _posts/2023-07-13-Black-Guild-V4C19.md %})
 
 
 
@@ -234,4 +234,4 @@ As I was being dumbfounded by the meaningless comments, a large number of slimes
 
 Tl Note: Early Release cuz I'm not going to class today, and had to do something while i procastinate packing up my stuff
 
-##### [Previous Chapter]({% link _posts/2023-07-11-Black-Guild-V4C17.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-11-Black-Guild-V4C17.md %}) \| [Next Chapter]({% link _posts/2023-07-13-Black-Guild-V4C19.md %})
