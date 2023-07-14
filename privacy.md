@@ -1,6 +1,6 @@
 ---
 
-layout: Default
+layout: privacy
 title: Privacy Policy
 url: /privacy
 
