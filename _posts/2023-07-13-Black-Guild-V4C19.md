@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-12-Black-Guild-V4C18.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-12-Black-Guild-V4C18.md %}) \| [Next Chapter]({% link _posts/2023-07-14-Black-Guild-V4C20.md %})
 
 
 Tl: Sam
@@ -310,4 +310,4 @@ wa　After climbing up, the exit is just around the corner.
 　With that decision made, I headed home, hopping to get away from the crowds.
 
 
-##### [Previous Chapter]({% link _posts/2023-07-12-Black-Guild-V4C18.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-12-Black-Guild-V4C18.md %}) \| [Next Chapter]({% link _posts/2023-07-14-Black-Guild-V4C20.md %})
