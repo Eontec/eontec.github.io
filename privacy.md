@@ -56,4 +56,4 @@ You have the following rights with respect to your personal information:
 
 ## How to Contact Us
 
-If you have any questions about this privacy policy, please contact us at [https://eontec.github.io/About](https://eontec.github.io/About).
+If you have any questions about this privacy policy, please contact us at [https://eontec.github.io/about](https://eontec.github.io/about).
