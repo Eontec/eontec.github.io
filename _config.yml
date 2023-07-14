@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sam's Translations
-email: your-email@example.com
+email: ogoinjasamuel+siteforms@gmail.com
 description: >- # this means to ignore newlines until "url:"
-  Hobbyist translator for Japanese Novels I like. Maybe there'll be mistakes, I'm a work in progress
+  Hobbyist translator for Japanese Novels I like. Maybe there'll be mistakes, I'm a work in progress.
 
 url: https://eontec.github.io
 
@@ -40,8 +40,6 @@ navigation:
       url: /index.html
     - title: About
       url: /about
-    - title: Contact
-      url: /contact
     - title: Novels
       url: /novels
 
