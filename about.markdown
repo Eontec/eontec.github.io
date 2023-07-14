@@ -6,6 +6,9 @@ permalink: /about/
 <h1>{{ page.title }}</h1>
 Just a Hobbyist translator and hobbyist/beginner developer. I'm not so good at anything, but I'm trying my best
 
+<h2>Privacy Policy</h2>
+<p>The Privacy policy can be found <a href="https://eontec.github.io/privacy">here</a></p>
+
 <h2>Contact Me</h2>
    <p>For feedback and Enquiry,  <a href="mailto:ogoinjasamuel+siteforms@gmail.com">email me</a>, create an issue on <a href="https://github.com/Eontec/eontec.github.io">GitHub</a> or Fill the contact form below.</p>
 
