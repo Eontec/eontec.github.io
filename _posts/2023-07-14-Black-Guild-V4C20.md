@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-13-Black-Guild-V4C19.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-13-Black-Guild-V4C19.md %}) \| [Next Chapter]({% link _posts/2023-07-15-Black-Guild-V4C21.md %})
 
 
 Tl: Sam
@@ -210,4 +210,4 @@ From the atmosphere, he seemed to be a regular.
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-13-Black-Guild-V4C19.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-13-Black-Guild-V4C19.md %}) \| [Next Chapter]({% link _posts/2023-07-15-Black-Guild-V4C21.md %})
