@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 4 Chapter 20: Tanaka Recievs A Warm Reception"
+title: "BG - Volume 4 Chapter 21: Tanaka Recievs A Warm Reception"
 category: black guild
 comments: true
 ---
