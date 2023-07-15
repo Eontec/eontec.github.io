@@ -176,7 +176,7 @@ Tl: Sam
 .....
 
 
-Tl Note: I'm going to be busy (and not with my laptop) for a while, so There'll be no updates for the better part of this coming week. Tell all your friends about the novel, so they can come read it. See you on Friday or Thursday
+Tl Note: I'm going to be busy (and not with my laptop) for a while, so There'll be no updates for the better part of this coming week. Tell all your friends about the novel, so they can come read it. See you on Friday or Thursday. Oh and i just got my site indexed on google, you can either search for the novel or the site 'sie:eontec.github.io' and you'll see it. Major milestone, next is ads lol.
 
 
 
