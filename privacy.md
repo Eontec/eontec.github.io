@@ -10,7 +10,7 @@ url: /privacy
 
 ## Introduction
 
-This privacy policy describes how [your blog name] collects, uses, and shares your personal information when you visit our website and use our services.
+This privacy policy describes how Sam's Translations collects, uses, and shares your personal information when you visit our website and use our services.
 
 ## What Personal Information Do We Collect?
 
