@@ -89,7 +89,7 @@ After losing her family in a monster disaster, she was protected by Amatsuki, an
 
 There was a time when she was Tanaka's student, and she calls him "sensei".
 
-She am grateful to Tanaka for taking everything no matter how many problems she caused, and she was also interested in him as a member of the opposite sex and approached him, but she was not good at conveying such feelings, and Tanaka was insensitive. Unfortunately, she didn't notice it.
+She is grateful to Tanaka for taking everything no matter how many problems she caused, and she was also interested in him as a member of the opposite sex and approached him, but she was not good at conveying such feelings, and Tanaka was insensitive. Unfortunately, she didn't notice it.
 
 Specializes in dual-wielding daggers, and tosses the enemy with quick movements. She is also good at lightning magic.
 
@@ -117,7 +117,7 @@ He has a wife and a daughter.
 
 ■ Age: 25 years old
 
-■ Setting: Black Dog Guild president. Hw was classmates with Tanaka and Adachi in elementary and middle school.
+■ Setting: Black Dog Guild president. He was classmates with Tanaka and Adachi in elementary and middle school.
 
 He inherited his father's guild and became the president, but he was hated by the employees because he overworked them and made them work at low wages. However, no one was able to complain because he had high power harassment and was feared.
 
@@ -153,7 +153,7 @@ His combat ability is top class in the world. one of the returnees.
 
 ■ Age: 28
 
-■ Setting: Minister Dojima's secretary. He generously supports the minister, who tends to run wild.
+■ Setting: Minister Dojima's secretary. She generously supports the minister, who tends to run wild.
 
 She is an awakened person and has some fighting ability. She can use light magic and heal the wounded with healing magic.
 
