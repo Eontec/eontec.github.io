@@ -24,7 +24,7 @@ Tl: Sam
 ■ Setting: Black Guild, Black Dog guild explorer. he was a social worker
 
 With 350 hours of overtime per month and a labor-intensive working environment, he constantly worked alone in the depths of the dungeon, gaining power that far surpassed that of ordinary explorers.
-
+<!--more-->   
 However, at the cost of that, he suffered from mental illness and lost his self-esteem, but after leaving the guild, he gradually regained it.
 
 His fighting style is a lot of brute force with the strength of the strongest class of mankind. However, his sword skills are solid, and he is capable of a wide range of battles with the techniques inherited from his master.
