@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-##### [Previous Chapter]({% link _posts/2023-07-15-Black-Guild-V4C21.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-15-Black-Guild-V4C21.md %}) \| [Next Chapter]({% link _posts/2023-07-20-Black-Guild-V5C1.md %})
 
 
 Tl: Sam
@@ -187,4 +187,4 @@ Tl Note: Im still not free yet, but this is just a character description chapter
 its probably a bit more choppy. Next chapter(and Volume)on Thursday 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-15-Black-Guild-V4C21.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-15-Black-Guild-V4C21.md %}) \| [Next Chapter]({% link _posts/2023-07-20-Black-Guild-V5C1.md %})
