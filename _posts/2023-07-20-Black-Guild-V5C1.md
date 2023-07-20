@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 5 Chapter 1: Tanaka Recievs A Warm Reception"
+title: "BG - Volume 5 Chapter 1: Tanaka Introduces His Pet"
 category: black guild
 comments: true
 ---
