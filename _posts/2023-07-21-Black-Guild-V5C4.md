@@ -189,7 +189,7 @@ Tl: Sam
 
 ....
 
-Tl Note: One extra chapter to go
+Tl Note: One extra chapter. The Light novel has been announced by the author on her Tweeter. I'll check it out when it's released, especially for illustrations.
 
 
 
