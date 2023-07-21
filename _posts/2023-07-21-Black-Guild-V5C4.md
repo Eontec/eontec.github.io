@@ -24,6 +24,7 @@ Tl: Sam
 <!--more-->
 
 
+
 "I'm hungry."
 
 "You ate a while ago."
@@ -38,21 +39,21 @@ Tl: Sam
 
 
 
-"The exchange is too cute."
+「The exchange is too cute.」
 
-"If it were me, I'd feed her endlessly and fatten her up......"
+「If it were me, I'd feed her endlessly and fatten her up......」
 
-"I'm sure the feedings alone will bring in 100 million in the same session!"
+「I'm sure the feedings alone will bring in 100 million in the same session!」
 
-"I'm going to use the money I get from that stream to buy food and feed it in a stream and complete the ...... perpetual motion machine."
+「I'm going to use the money I get from that stream to buy food and feed it in a stream and complete the ...... perpetual motion machine.」
 
-"I also wanted to be called 'Gosujin' by Lili-tan for the rest of my life. ......"
+「I also wanted to be called 'Gosujin' by Lili-tan for the rest of my life. ......」
 
-"［\20000］goods......Please give me some Riri-tan merchandise.....(earnestly)."
+「［\20000］goods......Please give me some Riri-tan merchandise.....(earnestly).」
 
-"I have two hearts - one that wants to be kept by Tanaka and one that wants to be eaten by Lilitan......"
+「I have two hearts - one that wants to be kept by Tanaka and one that wants to be eaten by Lilitan......」
 
-"It's getting pretty much boiled down to the perverts, isn't it?"
+「It's getting pretty much boiled down to the perverts, isn't it?」
 
 
 
@@ -64,19 +65,19 @@ Tl: Sam
 
 
 
-"Otsuken!"
+「Otsuken!」
 
-"Thank you for your hard work!"
+「Thank you for your hard work!」
 
-"I had a great time today!"
+「I had a great time today!」
 
-"Otsu Riri!"
+「Otsu Riri!」
 
-"Please deliver Riri again!"
+「Please deliver Riri again!」
 
-"I'll be waiting for you with chururu!"
+「I'll be waiting for you with chururu!」
 
-"I'm looking forward to the next dungeon stream!"
+「I'm looking forward to the next dungeon stream!」
 
 
 
@@ -183,6 +184,7 @@ Tl: Sam
 
 
 　To my question, Riri only tilted her head and didn't answer me.
+
 
 
 ....
