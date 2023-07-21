@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-20-Black-Guild-V5C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-20-Black-Guild-V5C1.md %}) \| [Next Chapter]({% link _posts/2023-07-21-Black-Guild-V5C3.md %})
 
 Tl: Sam
 
@@ -263,4 +263,4 @@ Tl: Sam
 　And so Riri's delivery proceeded with great success.
 
 
-##### [Previous Chapter]({% link _posts/2023-07-20-Black-Guild-V5C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-20-Black-Guild-V5C1.md %}) \| [Next Chapter]({% link _posts/2023-07-21-Black-Guild-V5C3.md %})
