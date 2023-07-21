@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-21-Black-Guild-V5C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-21-Black-Guild-V5C2.md %}) \| [Next Chapter]({% link _posts/2023-07-21-Black-Guild-V5C4.md %})
 
 
 Tl: Sam
@@ -228,4 +228,4 @@ Tl: Sam
 
 Tl Note: I'm pretty free today, maybe I'll just catch up, I'll probably not. I'm thinking of going out
 
-##### [Previous Chapter]({% link _posts/2023-07-21-Black-Guild-V5C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-21-Black-Guild-V5C2.md %}) \| [Next Chapter]({% link _posts/2023-07-21-Black-Guild-V5C4.md %})
