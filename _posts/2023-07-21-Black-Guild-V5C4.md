@@ -33,7 +33,7 @@ Tl: Sam
 
 
 
-　Now that he's learning words, she's becoming more assertive.
+　Now that she's learning words, she's becoming more assertive.
 
 　I have to be careful not to spoil her too much.
 
