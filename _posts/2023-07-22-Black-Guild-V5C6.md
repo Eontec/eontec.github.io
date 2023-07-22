@@ -23,7 +23,7 @@ Tl: Sam
 　He lead me inside, and something smelled good.   
 　Hoshino was wearing an apron, which suggests that she was cooking for us. I hadn't had a home-cooked meal in maybe 10 years. I was looking forward to it.
 
-　As I arrived at the living room, I was greeted by a woman who said, "Welcome, Ms. Tanaka.
+　As I arrived at the living room, I was greeted by a woman who said,
 
 "Welcome, Tanaka-san. Thank you for coming."
 
