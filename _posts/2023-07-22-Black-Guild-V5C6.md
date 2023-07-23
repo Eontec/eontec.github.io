@@ -17,6 +17,7 @@ Tl: Sam
 　The wooden house looks a little old, and the floorboards creak and squeak as I walk around. It reminds me of my father's parents' house in the countryside.
 
 "Shachiken!　Over here!"
+<!--more-->
 
 　Ryota jumped off my shoulder and pulled my hand.
 
