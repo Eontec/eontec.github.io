@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-22-Black-Guild-V5C5.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-22-Black-Guild-V5C5.md %}) \| [Next Chapter]({% link _posts/2023-07-23-Black-Guild-V5C7.md %})
 
 
 Tl: Sam
@@ -170,4 +170,4 @@ Apparently, the relationship between parent and child is good.
 Tl Note: I love the way the chapter just went normally at first then descended into pure chaos. That's really just why I love this novel. 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-22-Black-Guild-V5C5.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-22-Black-Guild-V5C5.md %}) \| [Next Chapter]({% link _posts/2023-07-23-Black-Guild-V5C7.md %})
