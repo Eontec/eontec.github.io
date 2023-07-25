@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 5.2 Chapter 1: Tanaka Feasts"
+title: "BG - Volume 5.2 Chapter 1: Tanaka Does a Joint Stream"
 category: black guild
 comments: true
 ---
