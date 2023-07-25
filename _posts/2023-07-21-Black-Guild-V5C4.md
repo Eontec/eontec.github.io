@@ -193,4 +193,4 @@ Tl Note: One extra chapter. The Light novel has been announced by the author on 
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-21-Black-Guild-V5C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-21-Black-Guild-V5C3.md %}) \| [Next Chapter]({% link _posts/2023-07-22-Black-Guild-V5C5.md %})

@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-23-Black-Guild-V5C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-23-Black-Guild-V5C7.md %}) \| [Next Chapter]({% link _posts/2023-07-25-Black-Guild-V5.2C2.md %})
  
 
  Tl: Sam
@@ -170,4 +170,4 @@ comments: true
 
 Tl Note: The Volume is shown as Volume % in the Raws, So I'll use Volume 5.2 to show it's a new volume
 
-##### [Previous Chapter]({% link _posts/2023-07-23-Black-Guild-V5C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-23-Black-Guild-V5C7.md %}) \| [Next Chapter]({% link _posts/2023-07-25-Black-Guild-V5.2C2.md %})
