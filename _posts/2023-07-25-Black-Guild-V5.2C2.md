@@ -20,6 +20,7 @@ Tl: Sam
 　Some dungeons are filled with water or are made entirely of glass.
 
 "...... here we are!"
+<!--more-->
 
 　With a rustle, a nearby bush moved and a gray wolf appeared.    
 　It is the gray wolf, a monster that appears in the upper levels of the dungeon.   
