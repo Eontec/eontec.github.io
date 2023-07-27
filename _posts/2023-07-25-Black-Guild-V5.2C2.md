@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-25-Black-Guild-V5.2C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-25-Black-Guild-V5.2C1.md %}) \| [Next Chapter]({% link _posts/2023-07-27-Black-Guild-V5.2C3.md %})
  
 
 
@@ -115,4 +115,4 @@ Tl: Sam
 　No, I can do that, but please don't tell me I can do it when I haven't done it.
 
 
-##### [Previous Chapter]({% link _posts/2023-07-25-Black-Guild-V5.2C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-25-Black-Guild-V5.2C1.md %}) \| [Next Chapter]({% link _posts/2023-07-27-Black-Guild-V5.2C3.md %})
