@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-27-Black-Guild-V5.2C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-27-Black-Guild-V5.2C3.md %}) \| [Next Chapter]({% link _posts/2023-07-28-Black-Guild-V5.2C5.md %})
  
 
 
@@ -17,6 +17,7 @@ Tl: Sam
 
 　When a mimic is defeated, glittering coins, gems, and other items jingle out from inside.   
 　Mimics have the ability to break down the ores, gems, and human equipment they eat and turn them into treasure. I gratefully accept it.
+<!--more-->
 
 "Wow!　That's a great treasure!　But I thought you couldn't redeem things in the dungeon for cash on your own.......?"   
 "I guess so. But now that Adachi is working on it, it might be possible to do so. If so, I'll split it with Hoshino."   
@@ -106,4 +107,4 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-07-27-Black-Guild-V5.2C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-27-Black-Guild-V5.2C3.md %}) \| [Next Chapter]({% link _posts/2023-07-28-Black-Guild-V5.2C5.md %})
