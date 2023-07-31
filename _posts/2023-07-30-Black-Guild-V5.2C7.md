@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-29-Black-Guild-V5.2C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-29-Black-Guild-V5.2C6.md %}) \| [Next Chapter]({% link _posts/2023-07-31-Black-Guild-V5.2C8.md %})
 
 
 
@@ -151,4 +151,4 @@ Tl: Sam
 
 Tl Note: I'm thinking of taking up another novel, I'm still looking though, I'll make sure to keep you guys updated. There's also the discord server. I'd prefer you report issues there than in  the comments.
 
-##### [Previous Chapter]({% link _posts/2023-07-29-Black-Guild-V5.2C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-29-Black-Guild-V5.2C6.md %}) \| [Next Chapter]({% link _posts/2023-07-31-Black-Guild-V5.2C8.md %})
