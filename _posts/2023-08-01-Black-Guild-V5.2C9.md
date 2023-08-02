@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-31-Black-Guild-V5.2C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-31-Black-Guild-V5.2C8.md %}) \| [Next Chapter]({% link _posts/2023-07-02-Black-Guild-V5.2C10.md %})
 
 
 
@@ -111,4 +111,4 @@ Tl: Sam
 Tl Note: This man-straler is getting too much screen time. Oh well, the Volume <b>is<b> about her. Anyways, Happy New month guys. It's the beginning of the third month since I made this site... Thanks for all the views and support. It really means a lot and I'm quite lazy so I most definitely wouldn't have come this far without you guys, especially the people in the comments. Have a great month.
 
 
-##### [Previous Chapter]({% link _posts/2023-07-31-Black-Guild-V5.2C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-07-31-Black-Guild-V5.2C8.md %}) \| [Next Chapter]({% link _posts/2023-07-02-Black-Guild-V5.2C10.md %})
