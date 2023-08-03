@@ -7,7 +7,7 @@ permalink: /about/
 Hobbyist translator and beginner developer. Doing my best to deliver the best content that i can.
 
 
-<h3>Privacy Policy</h2>
+<h3>Privacy Policy</h3>
 <p>The Privacy policy can be found <a href="https://eontec.github.io/privacy">here</a></p>
 
 ### Cookie Policy
