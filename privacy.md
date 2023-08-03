@@ -12,7 +12,7 @@ Last Updated: [08/03/2023]
 
 ## Introduction
 
-Welcome to [Your Website Name]! This Privacy Policy explains how we collect, use, and protect your personal information when you visit and use our website. We are committed to complying with the General Data Protection Regulation (GDPR) to protect your privacy rights.
+Welcome to Sam's Translations! This Privacy Policy explains how we collect, use, and protect your personal information when you visit and use our website. We are committed to complying with the General Data Protection Regulation (GDPR) to protect your privacy rights.
 
 ## Data Collection and Use
 
