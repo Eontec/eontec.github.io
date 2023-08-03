@@ -1,6 +1,6 @@
 ---
 
-layout: privacy
+layout: policy
 title: Privacy Policy
 url: /privacy
 
@@ -8,52 +8,43 @@ url: /privacy
 
 # Privacy Policy
 
+Last Updated: [08/03/2023]
+
 ## Introduction
 
-This privacy policy describes how Sam's Translations collects, uses, and shares your personal information when you visit our website and use our services.
+Welcome to [Your Website Name]! This Privacy Policy explains how we collect, use, and protect your personal information when you visit and use our website. We are committed to complying with the General Data Protection Regulation (GDPR) to protect your privacy rights.
 
-## What Personal Information Do We Collect?
+## Data Collection and Use
 
-We collect the following types of personal information from you:
+### Google Analytics
 
-* **Contact information:** This includes your name, email address, and mailing address.
-* **Usage data:** This includes information about how you use our website, such as the pages you visit and the links you click.
-* **Technical data:** This includes information about your device, such as your IP address and browser type.
+We use Google Analytics to collect anonymous data about website traffic and user behavior. This data helps us understand how visitors interact with our site, such as the pages they visit, the time spent on each page, and the geographical location. Google Analytics uses cookies and other tracking technologies to gather this information. By using our website, you consent to the processing of data by Google Analytics in accordance with their [Privacy Policy](https://policies.google.com/privacy).
 
-## How Do We Use Your Personal Information?
+### Google AdSense
 
-We use your personal information for the following purposes:
+We also use Google AdSense to display relevant ads on our website. Google AdSense uses cookies to serve ads based on your interests and browsing behavior. By using our website, you consent to the processing of data by Google AdSense in accordance with their [Privacy Policy](https://policies.google.com/privacy).
 
-* **To provide you with the services you request:** This includes providing you with access to our website, sending you emails, and responding to your inquiries.
-* **To improve our website:** We use your usage data to improve our website and make it more user-friendly.
-* **To send you marketing communications:** We may send you marketing communications about our products and services, but you can opt out of receiving these communications at any time.
-* **To comply with the law:** We may use your personal information to comply with applicable laws and regulations.
+## Cookie Policy
 
-## How Do We Share Your Personal Information?
-
-We may share your personal information with the following third parties:
-
-* **Our service providers:** We may share your personal information with our service providers who help us operate our website and provide our services.
-* **Google Analytics:** We use Google Analytics to track website traffic and collect anonymous data about how visitors use our website. This data is used to improve our website and make it more user-friendly.
-* **Google AdSense:** We use Google AdSense to display ads on our website. Google AdSense may collect personal information about you, such as your IP address, in order to serve ads.
-
-## How Do We Protect Your Personal Information?
-
-We take measures to protect your personal information, including:
-
-* **Using industry-standard security measures to protect your personal information on our servers.**
-* **Restricting access to your personal information to authorized employees and contractors.**
-* **Requiring all third parties who have access to your personal information to protect it.**
+We use cookies and similar technologies to improve your browsing experience. By using our website, you consent to the use of cookies in accordance with our [Cookie Policy]({% link cookies.md %}).
 
 ## Your Rights
 
-You have the following rights with respect to your personal information:
+You have the right to access, rectify, and delete your personal information. If you wish to exercise these rights, please contact us using the contact form on the [About Page](https://eontec.github.io/about). We will respond to your request within a reasonable timeframe.
 
-* **The right to access your personal information:** You can request to see the personal information that we have about you.
-* **The right to correct your personal information:** You can request to correct any personal information that is inaccurate or incomplete.
-* **The right to delete your personal information:** You can request to delete your personal information.
-* **The right to object to the processing of your personal information:** You can object to the processing of your personal information for certain purposes, such as marketing.
+## Data Security
 
-## How to Contact Us
+We take data security seriously and implement appropriate measures to protect your personal information from unauthorized access or disclosure.
 
-If you have any questions about this privacy policy, please contact us at [https://eontec.github.io/about](https://eontec.github.io/about).
+## Third-Party Websites
+
+Our website may contain links to third-party websites. Please note that we are not responsible for the privacy practices or content of those websites. We recommend reviewing their respective privacy policies.
+
+## Updates to this Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will post the updated version on this page and revise the "Last Updated" date accordingly.
+
+## Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy or your personal information, please contact us using the contact form on the [About Page](https://eontec.github.io/about).
+

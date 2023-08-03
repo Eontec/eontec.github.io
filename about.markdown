@@ -4,13 +4,17 @@ title: About
 permalink: /about/
 ---
 <h1>{{ page.title }}</h1>
-Just a Hobbyist translator and hobbyist/beginner developer. I'm not so good at anything, but I'm trying my best
+Hobbyist translator and beginner developer. Doing my best to deliver the best content that i can.
 
-<h2>Privacy Policy</h2>
+
+<h3>Privacy Policy</h2>
 <p>The Privacy policy can be found <a href="https://eontec.github.io/privacy">here</a></p>
 
+### Cookie Policy
+The Cookie Policy can be accessed at {% link cookies.md %}
+
 <h2>Contact Me</h2>
-   <p>For feedback and Enquiry,  <a href="mailto:ogoinjasamuel+siteforms@gmail.com">email me</a>, create an issue on <a href="https://github.com/Eontec/eontec.github.io">GitHub</a> or Fill the contact form below.</p>
+   <p>For feedback, Enquiry and complaints<a href="mailto:ogoinjasamuel+siteforms@gmail.com">email me</a>, create an issue on <a href="https://github.com/Eontec/eontec.github.io">GitHub</a> or Fill the contact form below.</p>
 
 
 <form
