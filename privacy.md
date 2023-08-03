@@ -2,7 +2,7 @@
 
 layout: policy
 title: Privacy Policy
-url: /privacy
+permalink: /privacy
 
 ---
 

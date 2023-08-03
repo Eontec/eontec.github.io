@@ -2,7 +2,7 @@
 
 layout: policy
 title: Privacy Policy
-url: /cookie-policy
+permalink: /cookie-policy
 
 ---
 # Cookie Policy
