@@ -19,6 +19,7 @@ Tl: Sam
 
 　Having once been wounded by someone of a lower rank than himself, Bamocraft was ashamed of his own weakness.
 　In order not to be defeated again, he continued to grow stronger by fighting, defeating, and devouring powerful monsters in the lower and deeper levels of the dungeon.
+<!--more-->
 
 　Normally, monsters do not fight each other in dungeons.
 　This is because monsters born in dungeons have a "loose sense of camaraderice" with each other.

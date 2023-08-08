@@ -23,6 +23,7 @@ Tl: Sam
 
 "Are you full too, Riri?"
 "Riri!"
+<!--more-->
 
 　Riri, who had eaten so much that she was as round as a balloon, replied cheerfully.
 　She was rolling around, looking so cute. She tried to stand up a few times, but her short legs were not enough to support her round body, and each time she fell down.
