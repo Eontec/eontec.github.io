@@ -26,6 +26,7 @@ Tl: Sam
 　I don't really remember why.
 
 　I think it was because I was bullied or something like that.
+<!--more-->
 
 
 　My parents were concerned about me until I was in junior high school.

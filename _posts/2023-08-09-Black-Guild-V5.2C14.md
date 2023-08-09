@@ -23,6 +23,7 @@ Tl: Sam
 
 　Hoshino looked into the eyes of Bamocraft firmly.
 　Then, watching the movement of his gaze, she predicted his next move and avoided an axe attack.
+<!--more-->
 
 　This method of combat was something she had learned from Tanaka along the way.
 　Hoshino was like a dry sponge, absorbing what she learned from Tanaka and using it as her own strength. The speed of her growth was so fast that Tanaka found it enjoyable to watch.
