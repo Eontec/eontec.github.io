@@ -39,8 +39,11 @@ password: true
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
-      types: "pages", "novels", "posts"
+      path: ""
+      types:
+        - novels
+        - pages
+        - posts
     values:
       password: false
 
