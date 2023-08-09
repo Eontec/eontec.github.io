@@ -40,7 +40,7 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: "pages", "novels", "posts"
+      types: "pages", "novels", "posts"
     values:
       password: false
 
