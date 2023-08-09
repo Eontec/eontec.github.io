@@ -34,13 +34,7 @@ collections:
   novels:
     output: true
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      password: 'false'
+password: true
 
 navigation:
     - title: Home
