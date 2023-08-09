@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-08-Black-Guild-V5.2C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-08-Black-Guild-V5.2C12.md %}) \| [Next Chapter]({% link _posts/2023-08-09-Black-Guild-V5.2C14.md %})
 
 
 
@@ -128,4 +128,4 @@ Tl Note: Sorry for the unplanned break, I was feeling out of it. Exams are close
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-08-Black-Guild-V5.2C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-08-Black-Guild-V5.2C12.md %}) \| [Next Chapter]({% link _posts/2023-08-09-Black-Guild-V5.2C14.md %})

@@ -20,4 +20,19 @@ Hearing this, Tanaka is blown away and leaves the guild saying, "Then I'll quit.
 
 Tanaka, who has become unemployed, is active as a free dungeon broadcaster and becomes more and more famous.
 On the other hand, the guild that banished Tanaka was on the verge of collapse.
->
+
+
+
+<h3>Posts</h3>
+<div class="posts noList">
+    <ul>
+        {%- assign filtered_posts = site.posts | where: 'category', page.category -%}
+        {%- for post in filtered_posts -%}
+            <li>
+                <h5>
+                    <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+                </h5>
+            </li>
+        {%- endfor -%}
+    </ul>
+</div>

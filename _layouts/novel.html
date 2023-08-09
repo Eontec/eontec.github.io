@@ -13,16 +13,3 @@ layout: default
 
 {{ content }}
 
-<h3>Posts</h3>
-<div class="posts noList">
-    <ul>
-        {%- assign filtered_posts = site.posts | where: 'category', page.category -%}
-        {%- for post in filtered_posts -%}
-            <li>
-                <h5>
-                    <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-                </h5>
-            </li>
-        {%- endfor -%}
-    </ul>
-</div>

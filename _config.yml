@@ -34,6 +34,13 @@ collections:
   novels:
     output: true
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      password: false
 
 navigation:
     - title: Home
@@ -50,6 +57,7 @@ plugins:
     - jekyll-feed
     - jekyll-paginate
     - jekyll-sitemap
+    - jekyll-crypto
 paginate: 5
 
 
