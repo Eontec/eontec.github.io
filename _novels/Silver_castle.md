@@ -4,6 +4,7 @@ category: silver castle
 title: "The Silver Castle Shines Twice ~The Disabled Player Who Moved Together With The Giant Floating Castle Hideout Seems To Stick To The Justice Job Build Even In Another World~"
 name: "The Silver Castle Shines Twice ~The Disabled Player Who Moved Together With The Giant Floating Castle Hideout Seems To Stick To The Justice Job Build Even In Another World~"
 author: "Kumano Genkotsu"
+password: false
 ---
 
 The super-sized MMORPG "『 The Heroic Tale of Seven Sword Knights 《 Seven Knights Online 》』.

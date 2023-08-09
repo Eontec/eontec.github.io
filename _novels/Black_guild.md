@@ -4,6 +4,7 @@ category: black guild
 title: "Black Guild Company Employee Inadvertently Broadcasts Nationwide Video of Fighting Against S-Class Monsters on Company Line ~Corporate Slave Kensei Becomes a Streamer"
 name: "Black Guild Company Employee Inadvertently Broadcasts Nationwide Video of Fighting Against S-Class Monsters on Company Line ~Corporate Slave Kensei Becomes a Streamer"
 author: "Kumano Genkotsu"
+password: false
 ---
 
 Makoto Tanaka, an office worker belonging to the Black Guild.
