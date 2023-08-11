@@ -5,7 +5,8 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-08-Black-Guild-V5.2C13.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-08-Black-Guild-V5.2C13.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Black-Guild-V5.2C15.md %})
+
 
 
 
@@ -98,7 +99,8 @@ Booooo!"
 .....
 
 
-Tl Note: I've started another novel. By the same author, her newst work. I wanted to do more than one chapter, but I had to do some adjusting to the ssite, so it didn't work out. The chapters will be password protected with the password for each chapter on my patreon. As a bonus though, thr password for the first chapter is: 3GeDC1afGRbRVmit  
-It's quite the long chapter and took me a while to make You can find it [here](https://eontec.github.io/silver%20castle/Silver-Castle-C1.html)
+Tl Note: I've started another novel. By the same author, her newst work. I wanted to do more than one chapter, but I had to do some adjusting to the ssite, so it didn't work out. The chapters will be password protected with the password for each chapter on my patreon. As a bonus though, thr password for the first chapter is: 3GeDC1afGRbRVmit
+It's quite the long chapter and took me a while to make
+check it at https://eontec.github.io/silver
 
-##### [Previous Chapter]({% link _posts/2023-08-08-Black-Guild-V5.2C13.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-08-Black-Guild-V5.2C13.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Black-Guild-V5.2C15.md %})

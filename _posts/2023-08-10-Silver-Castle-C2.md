@@ -6,7 +6,7 @@ comments: true
 password: '07BTkJOgmLwqW1Op'
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-09-Silver-Castle-C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-09-Silver-Castle-C1.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-C3.md %})
 
 
 
@@ -389,4 +389,4 @@ We're in a game, right? We're in ｜Seven Knights Online, right?
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-09-Silver-Castle-C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-09-Silver-Castle-C1.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-C3.md %})
