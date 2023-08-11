@@ -6,7 +6,7 @@ comments: true
 password: 'HCoTtfs4NdrPP3oj'
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-10-Silver-Castle-C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-10-Silver-Castle-C2.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-C4.md %})
 
 
 
@@ -165,4 +165,4 @@ I haven't told you my name yet. My name is Wang Dyle.
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-10-Silver-Castle-C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-10-Silver-Castle-C2.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-C4.md %})
