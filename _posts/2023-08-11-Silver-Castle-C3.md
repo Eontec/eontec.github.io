@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SC - Chapter 3: Silver Castle"
+title: "SC - Chapter 3: Silver Castle(Password on Patreon)"
 category: silver castle
 comments: true
 password: 'HCoTtfs4NdrPP3oj'

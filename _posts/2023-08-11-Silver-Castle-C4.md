@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "SC - Chapter 4: Jimari Village"
+title: "SC - Chapter 4: Jimari Village(Password on Patreon)"
 category: silver castle
 comments: true
 password: 'BbjYYTnnPPA7qVqR'
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-C3.md %}) \| [Next Chapter]({ % link _posts/2023-08-11-Silver-Castle-C5.md %})
 
 
 
@@ -147,4 +147,4 @@ I pat Shea on the head and console her, and then head to the house with Gafas-sa
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-C3.md %}) \| [Next Chapter]({ % link _posts/2023-08-11-Silver-Castle-C5.md %})
