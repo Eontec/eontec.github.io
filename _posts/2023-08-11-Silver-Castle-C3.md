@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: patreon
 title: "SC - Chapter 3: Silver Castle(Password on Patreon)"
 category: silver castle
 comments: true

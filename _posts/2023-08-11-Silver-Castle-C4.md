@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: patreon
 title: "SC - Chapter 4: Jimari Village(Password on Patreon)"
 category: silver castle
 comments: true

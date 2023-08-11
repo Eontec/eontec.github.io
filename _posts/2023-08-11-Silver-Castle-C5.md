@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: patreon
 title: "SC - Chapter 5: Village Affairs(Password on Patreon)"
 category: silver castle
 comments: true
