@@ -1,12 +1,11 @@
 ---
-layout: patreon
-title: "SC - Chapter 5: Village Affairs(Password on Patreon)"
+layout: post
+title: "SC - Chapter 5: Village Affairs"
 category: silver castle
 comments: true
-password: 'Xn34Hz2k0NMpyhG7'
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C4.md %}) \| [Next Chapter]
 
 
 
@@ -192,4 +191,4 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C4.md %}) \| [Next Chapter]

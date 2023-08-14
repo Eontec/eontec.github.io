@@ -5,7 +5,7 @@ category: silver castle
 comments: true
 ---
 
-##### [Next Chapter]({% link _posts/2023-08-10-Silver-Castle-C2.md %})
+##### [Next Chapter]({% link _posts/2023-08-10-Silver-Castle-V1C2.md %})
 
 
 
@@ -684,4 +684,4 @@ The patrol mode had been turned off!　Damn, the rudder is broken. ......"
 Tl Note: Welcome to the new novel. Took a while to get this chapter translated, but it's worth it. enjoy!
 
 
-##### [Next Chapter]({% link _posts/2023-08-10-Silver-Castle-C2.md %})
+##### [Next Chapter]({% link _posts/2023-08-10-Silver-Castle-V1C2.md %})

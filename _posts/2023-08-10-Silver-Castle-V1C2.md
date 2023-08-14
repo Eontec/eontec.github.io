@@ -5,7 +5,7 @@ category: silver castle
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-09-Silver-Castle-C1.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-C3.md %})
+
 
 
 
@@ -387,5 +387,4 @@ We're in a game, right? We're in ｜Seven Knights Online, right?
 　I ran in the direction she pointed.
 
 
-
-##### [Previous Chapter]({% link _posts/2023-08-09-Silver-Castle-C1.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-C3.md %})
+##### [Previous Chapter]({% link _posts/2023-08-09-Silver-Castle-V1C1.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C3.md %})

@@ -1,11 +1,11 @@
 ---
 layout: patreon
-title: "SC - Chapter 3: Silver Castle(Password on Patreon)"
+title: "SC - Chapter 3: Silver Castle"
 category: silver castle
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-10-Silver-Castle-C2.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-C4.md %})
+##### [Previous Chapter]({% link _posts/2023-08-10-Silver-Castle-V1C2.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C4.md %})
 
 
 
@@ -163,5 +163,4 @@ I haven't told you my name yet. My name is Wang Dyle.
 　And so began my adventure into the unknown.
 
 
-
-##### [Previous Chapter]({% link _posts/2023-08-10-Silver-Castle-C2.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-C4.md %})
+##### [Previous Chapter]({% link _posts/2023-08-10-Silver-Castle-V1C2.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C4.md %})
