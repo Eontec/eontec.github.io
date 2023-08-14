@@ -3,7 +3,6 @@ layout: post
 title: "SC - Chapter 1: Former Glory"
 category: silver castle
 comments: true
-password: '3GeDC1afGRbRVmit'
 ---
 
 ##### [Next Chapter]({% link _posts/2023-08-10-Silver-Castle-C2.md %})

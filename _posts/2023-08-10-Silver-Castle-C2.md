@@ -3,7 +3,6 @@ layout: post
 title: "SC - Chapter 2: Different World"
 category: silver castle
 comments: true
-password: '07BTkJOgmLwqW1Op'
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-08-09-Silver-Castle-C1.md %}) \| [Next Chapter]({% link _posts/2023-08-11-Silver-Castle-C3.md %})
