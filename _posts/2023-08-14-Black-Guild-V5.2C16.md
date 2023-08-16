@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-11-Black-Guild-V5.2C15.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-11-Black-Guild-V5.2C15.md %}) \| [Next Chapter]({% link _posts/2023-08-16-Black-Guild-V5.2C17.md %})
 
 
 
@@ -163,4 +163,4 @@ Tl Note: The author has slowed down updates of this novel to focus on her newer 
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-11-Black-Guild-V5.2C15.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-11-Black-Guild-V5.2C15.md %}) \| [Next Chapter]({% link _posts/2023-08-16-Black-Guild-V5.2C17.md %})

@@ -191,4 +191,4 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C4.md %}) \| [Next Chapter]({% link _posts/2023-08-16-Silver-Castle-V1C6.md %})
