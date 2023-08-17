@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 5.2 Chapter 16: Tanake Rushes"
+title: "BG - Volume 5.2 Chapter 16: Tanaka Rushes"
 category: black guild
 comments: true
 ---
