@@ -5,7 +5,7 @@ category: silver castle
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C5.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C5.md %}) \| [Next Chapter]({% link _posts/2023-08-17-Silver-Castle-V1C7.md %})
 
 
 
@@ -191,4 +191,4 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C5.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-11-Silver-Castle-V1C5.md %}) \| [Next Chapter]({% link _posts/2023-08-17-Silver-Castle-V1C7.md %})
