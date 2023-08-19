@@ -5,7 +5,7 @@ category: silver castle
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-17-Silver-Castle-V1C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-17-Silver-Castle-V1C7.md %}) \| [Next Chapter]({% link _posts/2023-08-19-Silver-Castle-V2C2.md %})
 
 
 
@@ -136,4 +136,4 @@ Now, what kind of magic do you want me to do next ......?"
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-17-Silver-Castle-V1C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-17-Silver-Castle-V1C7.md %}) \| [Next Chapter]({% link _posts/2023-08-19-Silver-Castle-V2C2.md %})
