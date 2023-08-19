@@ -5,7 +5,7 @@ category: silver castle
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-16-Silver-Castle-V1C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-16-Silver-Castle-V1C6.md %}) \| [Next Chapter]({% link _posts/2023-08-19-Silver-Castle-V2C1.md %})
 
 
 
@@ -290,4 +290,4 @@ Yes, of course, Master Dyle!　Of course, Mr. Dyle!
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-16-Silver-Castle-V1C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-16-Silver-Castle-V1C6.md %}) \| [Next Chapter]({% link _posts/2023-08-19-Silver-Castle-V2C1.md %})
