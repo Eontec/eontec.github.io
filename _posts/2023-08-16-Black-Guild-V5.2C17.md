@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-14-Black-Guild-V5.2C16.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-14-Black-Guild-V5.2C16.md %}) \| [Next Chapter]({% link _posts/2023-08-19-Black-Guild-V5.2C18.md %})
 
 
 
@@ -122,4 +122,4 @@ The bamocraft tried to reach for Hoshino's body, but ...... its hand cut through
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-14-Black-Guild-V5.2C16.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-14-Black-Guild-V5.2C16.md %}) \| [Next Chapter]({% link _posts/2023-08-19-Black-Guild-V5.2C18.md %})
