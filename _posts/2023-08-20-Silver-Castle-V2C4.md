@@ -235,4 +235,4 @@ I caught the freed beastman's child. Incidentally, the ã€ŠPerfect Invincibilityã
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-20-Silver-Castle-V2C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-20-Silver-Castle-V2C3.md %}) \| [Next Chapter]
