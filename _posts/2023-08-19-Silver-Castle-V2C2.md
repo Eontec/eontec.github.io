@@ -5,7 +5,7 @@ category: silver castle
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-19-Silver-Castle-V2C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-19-Silver-Castle-V2C1.md %}) \| [Next Chapter]({% link _posts/2023-08-20-Silver-Castle-V2C3.md %})
 
 
 
@@ -269,4 +269,4 @@ Ah. They are strong, but they are not flexible. I want you to follow up on that.
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-19-Silver-Castle-V2C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-19-Silver-Castle-V2C1.md %}) \| [Next Chapter]({% link _posts/2023-08-20-Silver-Castle-V2C3.md %})
