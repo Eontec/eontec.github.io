@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "BG - Volume 5.2 Chapter 19: Tanake Becomes Shy"
+title: "BG - Volume 5.2 Chapter 19: Tanaka Becomes Shy"
 category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-19-Black-Guild-V5.2C18.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-19-Black-Guild-V5.2C18.md %}) \| [Next Chapter]({% link _posts/2023-08-28-Black-Guild-V5.2C20.md %})
 
 
 
@@ -109,4 +109,4 @@ Tl Note: The main herione comes again and affirms her postion. The one no one, n
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-19-Black-Guild-V5.2C18.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-19-Black-Guild-V5.2C18.md %}) \| [Next Chapter]({% link _posts/2023-08-28-Black-Guild-V5.2C20.md %})
