@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-09-02-Black-Guild-V6C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-02-Black-Guild-V6C3.md %}) \| [Next Chapter]
 
 
 
