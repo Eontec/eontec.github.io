@@ -25,6 +25,7 @@ Tl: Sam
 
 
 　The one who spoke to me was the beastman girl who had been attacked by bandits.
+<!--more-->
 
 　A child with white hair and strong-willed eyes.  She has a pretty face.
 
