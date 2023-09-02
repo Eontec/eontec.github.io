@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C1.md %}) \| [Next Chapter]({% link _posts/2023-09-02-Black-Guild-V6C3.md %})
 
 
 
@@ -94,4 +94,4 @@ Tl: Sam
 　They really stand tall. Their faces are somewhat proud.
 
 
-##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C1.md %}) \| [Next Chapter]({% link _posts/2023-09-02-Black-Guild-V6C3.md %})
