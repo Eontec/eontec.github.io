@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-02-Black-Guild-V6C2.md %}) \| [Next Chapter]
 
 
 
@@ -82,4 +82,4 @@ I took the documents and looked through them. I skimmed through it and found it 
 Tl Note: Just found out that my text editor was erasing my line breaks. And No one commented on the fact...
 Well, I'm going back and fixing the chapters. I might make some changes to my site's appearance, but I'll definitely change the picture on top, Send your submission on Discord (No copyrighted Images), And I'll run a poll on which one I'll use to replace the picture of the bicycle. You Can also submit in the comments of this chapter. 
 
-##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-02-Black-Guild-V6C3.md %}) \| [Next Chapter]

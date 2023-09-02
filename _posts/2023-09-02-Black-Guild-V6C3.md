@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C2.md %}) \| [Next Chapter]({% link _posts/2023-09-02-Black-Guild-V6C4.md %})
 
 
 
@@ -111,4 +111,4 @@ Tl: Sam
 Tl Note: Where do I even start this time? My examas will be over next week, so I'll no longer have any excuse to not translate, though it only really afffects The Silver Castle Novel and not this one(Because of the Author's slow realeases). Seems like someone posted a few Volume 1 Chapters on his site. Don't know how to feel about that. Would have been a little easier if he just copied from this site, but it's all his effort. I'm Probably going to contact him sooner or later, but I'm not keeping it on my mind cuz I have exams to study for. Need someone to help ask him what's going on on his site. And what he plans to do moving forward. I feel like he just started and pumped out 6 chapters at once, just to find ot the novel was active, and posted his chapters so at least his work won't be in vain. Love his site defsign though.
 
 
-##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C2.md %}) \| [Next Chapter]({% link _posts/2023-09-02-Black-Guild-V6C4.md %})
