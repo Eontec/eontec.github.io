@@ -21,6 +21,7 @@ Tl: Sam
 　I suddenly wondered that.
 
 "I understand that there are people who can't accept the fact that I have so many husbands...... because I've been told that a lot too."
+<!--more-->
 
 　Kujoin-san cut in with a sip of tea.   
 　I silently listened to her words.
