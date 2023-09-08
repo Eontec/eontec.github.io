@@ -5,7 +5,7 @@ category: silver castle
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-09-05-Silver-Castle-V2C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-05-Silver-Castle-V2C7.md %}) \| [Next Chapter]({% link _posts/2023-09-08-Silver-Castle-V2C9.md %})
 
 
 
@@ -145,4 +145,4 @@ comments: true
 　In the quiet forest, Shea smiled a bewitching smile.
 
 
-##### [Previous Chapter]({% link _posts/2023-09-05-Silver-Castle-V2C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-05-Silver-Castle-V2C7.md %}) \| [Next Chapter]({% link _posts/2023-09-08-Silver-Castle-V2C9.md %})
