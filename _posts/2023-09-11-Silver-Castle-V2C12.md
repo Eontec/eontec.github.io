@@ -116,4 +116,4 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-09-10-Silver-Castle-V2C11 .md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-10-Silver-Castle-V2C11.md %}) \| [Next Chapter]
