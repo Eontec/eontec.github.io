@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-09-05-Black-Guild-V6C5.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-05-Black-Guild-V6C5.md %}) \| [Next Chapter]({% link _posts/2023-09-13-Black-Guild-V6C7.md %})
 
 
 
@@ -109,4 +109,4 @@ Tl: Sam
 Tl Note: Tanaka really knows no normal people older than him. 
 
 
-##### [Previous Chapter]({% link _posts/2023-09-05-Black-Guild-V6C5.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-05-Black-Guild-V6C5.md %}) \| [Next Chapter]({% link _posts/2023-09-13-Black-Guild-V6C7.md %})
