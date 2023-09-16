@@ -83,8 +83,10 @@ MENU STYLING
 		li {
 			width: 100%;
 			display: block;
-			background: $background-color;
-			border-bottom: 2px solid lighten($background-color, 5%);
+			//background: $background-color;
+			background: #0E1319;
+			//border-bottom: 2px solid lighten($background-color, 5%);
+			border-bottom: 2px solid $background-color;
 
 			a {
 				color: white;
@@ -120,9 +122,9 @@ MENU STYLING
 	-o-user-select: none;
 	user-select: none;
 	float: right;
-	line-height: 2em;
+	line-height: 4em;
 	margin-top: 0.5em;
-	background-color: $background-color;
+	//background-color: $background-color;
 	border-radius: 4px;
 	padding: 0 0.5em;
 	color: white;
@@ -130,10 +132,13 @@ MENU STYLING
 	position: relative;
 	right: 2rem;
 	transition: all 0.2s ease-in-out;
+	height: 4em;
 
 	&:hover {
 		color: white;
-		background-color: darken($background-color, 10%);
+		//background-color: darken($background-color, 10%);
+		background-color: $background-color;
+
 	}
 }
 
@@ -186,7 +191,7 @@ HEADER STYLING
 	background-position: center center;
 	color: white;
 	padding: 0;
-	height: 3em;
+	height: 5em;
 
 	.container {
 		padding: 0;
@@ -198,7 +203,7 @@ HEADER STYLING
 		float: left;
 		padding-left: 2rem;
 		font-size: 1em;
-		line-height: 3em;
+		line-height: 5em;
 		font-family: $sans-serif;
 		font-weight: 800;
 		text-transform: uppercase;

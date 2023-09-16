@@ -60,65 +60,26 @@
  </div><!-- end .header -->
 <div class="content">
       <div class="container">
-         <div
-  class="jekyll-crypto"
-  data-salt="[124,107,122,60,39,90,156,122,105,73,161,69,105,94,24,35]"
-  data-iv="[107,248,170,218,46,35,155,116,209,169,33,34]"
-  data-iterations="20000"
-  data-auth-data="[248,11,193,45,238,137,181,206,255,154,214,7,199,180,227,14]">
+         <style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
 
-  <form>
-    <input type="password" name="password" autocomplete="off" required />
-    <input type="submit" />
-  </form>
+<div class="container">
+  <h1>404</h1>
 
-  <span class="ciphertext" style="word-wrap: break-word;display: none;">
-    [128,179,102,206,180,87,86,56,18,197,58,51,69,47,248,140,224,195,117,133,144,49,221,190,113,205,225,234,253,162,35,94,150,20,241,131,71,157,59,158,87,116,224,235,125,180,195,163,212,144,127,55,127,44,136,160,102,20,175,202,76,51,248,154,235,214,80,28,153,235,34,176,58,74,152,104,245,61,129,55,116,242,76,112,31,217,4,197,76,39,77,214,17,251,173,142,223,141,154,49,247,61,213,100,76,235,32,224,149,59,75,239,192,202,175,86,177,21,37,164,46,203,2,229,184,27,56,139,195,245,112,56,190,172,230,234,127,200,176,13,222,40,232,106,216,135,43,74,104,250,213,159,17,238,232,158,158,62,59,253,23,95,212,45,14,67,123,23,110,97,29,39,97,126,109,59,170,241,50,157,3,107,98,177,141,179,146,150,176,10,182,53,151,60,110,113,221,75,17,35,232,224,254,112,120,125,6,125,212,76,110,158,137,205,177,78,63,50,55,217,252,229,7,225,247,220,144,153,64,60,51,58,172,230,123,173,95,129,69,172,15,155,183,224,222,3,149,118,72,124,48,159,42,41,90,181,81,247,60,34,25,108,99,47,12,141,248,91,72,4,187,100,35,10,67,233,65,215,30,198,243,179,194,7,230,242,93,61,101,141,180,121,93,45,159,193,135,121,147,157,14,196,226,251,169,1,242,90,57,115,118,147,95,182,254,141,205,42,233,68,111,67,22,134,104,235,141,120,108,251,139,232,30,77,205,19,244,144,225,164,42,125,202,205,139,50,97,176,216,141,205,56,169,84,198,146,189,98,50,1,162,104,123,199,78,10,165,165,55,169,229,98,58,166,186,53,103,48,188,252,14,180,31,115,214,221,222,157,16]
-  </span>
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
 </div>
-
-<script type="text/javascript">
-  const jekyllCrypto = document.querySelectorAll('.jekyll-crypto');
-  const textEncoder = new TextEncoder();
-  const textDecoder = new TextDecoder();
-  const parseBytes = (bytesString) => Uint8Array.from(JSON.parse(bytesString));
-
-  jekyllCrypto.forEach(container => {
-    container.querySelector('form').addEventListener('submit', event => {
-      event.stopPropagation();
-      event.preventDefault();
-
-      const password = container.querySelector('input[name=password]').value;
-      const salt = parseBytes(container.dataset.salt);
-      const iv = parseBytes(container.dataset.iv);
-      const iterations = parseInt(container.dataset.iterations);
-      const authData = parseBytes(container.dataset.authData);
-      const cipherText = parseBytes(container.querySelector('.ciphertext').innerText);
-
-      window.crypto.subtle.importKey(
-        "raw", 
-        textEncoder.encode(password), 
-        { name: "PBKDF2" }, 
-        false, 
-        [ "deriveBits", "deriveKey" ]
-      ).then(keyMaterial => {
-        window.crypto.subtle.deriveKey(
-          { "name": "PBKDF2", salt: salt, "iterations": iterations, "hash": "SHA-256" },
-          keyMaterial,
-          { "name": "AES-GCM", "length": 256 },
-          false,
-          [ "encrypt", "decrypt" ]
-        ).then(derivedKey => {
-          window.crypto.subtle.decrypt(
-            { name: "AES-GCM", iv: iv, additionalData: authData, tagLength: 128 },
-            derivedKey,
-            cipherText
-          ).then(decrypted => container.innerHTML = textDecoder.decode(decrypted));
-        });
-      });
-    });
-  });
-</script>
 
       </div>
    </div><!-- end .content -->

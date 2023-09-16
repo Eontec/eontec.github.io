@@ -60,66 +60,18 @@
  </div><!-- end .header -->
 <div class="content">
       <div class="container">
-         <div
-  class="jekyll-crypto"
-  data-salt="[107,88,80,126,98,247,154,58,89,249,78,253,83,22,113,202]"
-  data-iv="[10,207,169,110,30,39,93,91,32,103,63,93]"
-  data-iterations="20000"
-  data-auth-data="[184,215,117,114,121,180,78,199,134,15,141,113,19,193,223,44]">
+         <h2>Novels</h2>
 
-  <form>
-    <input type="password" name="password" autocomplete="off" required />
-    <input type="submit" />
-  </form>
-
-  <span class="ciphertext" style="word-wrap: break-word;display: none;">
-    [84,107,33,141,225,189,52,81,205,42,213,66,209,16,171,252,205,8,239,209,51,221,217,14,52,115,112,79,25,209,162,171,184,155,201,61,121,53,214,178,138,115,34,28,142,221,228,233,3,27,5,235,51,40,238,237,250,164,23,169,73,219,38,123,166,92,167,213,214,246,227,170,51,151,157,226,123,175,203,169,74,7,237,120,58,210,191,74,58,243,139,127,250,232,226,124,229,69,25,42,149,220,3,62,60,74,174,132,247,73,114,32,19,160,58,57,246,249,176,191,114,105,80,17,57,217,170,79,22,71,84,64,156,132,137,228,202,100,32,232,120,136,183,129,176,151,195,49,14,85,56,13,115,29,247,125,254,217,229,21,253,30,91,40,235,227,164,106,138,169,98,109,152,106,152,53,111,205,71,52,119,199,78,18,209,8,191,215,159,15,112,43,29,159,84,242,138,89,188,71,255,81,23,162,51,160,30,50,36,166,165,217,163,242,1,179,204,170,148,251,28,202,36,70,147,35,137,192,14,171,86,200,98,130,21,224,10,204,67,232,236,6,56,142,105,91,10,161,163,178,195,17,105,137,23,77,225,95,167,186,132,110,165,243,60,141,61,103,16,181,255,126,124,185,9,105,169,132,151,88,154,87,236,135,164,214,42,229,17,34,111,163,49,56,172,37,98,196,109,46,88,235,108,104,49,50,120,173,120,121,128,246,7,122,249,175,57,123,121,131,67,166,215,238,240,126,147,64,139,83,238,233,122,192,97,176,172,130,64,51,202,69,11,42,175,111,17,71,129,93,17,136,118,120,35,60,148,214,19,89,114,75,46,102,92,249,13,10,220,165,78,176,73,159,38,95,25,160,144,135,207,173,248,6,49,179,90,5,8,180,197,21,173,92,82,188,217,238,143,106,168,135,142,29,214,173,226,118,94,15,66,127,244,127,21,94,135,35,151,108,78,125,201,88,242,37,163,74,126,59,213,239,186,94,244,139,91,252,30,246,143,17,30,173,231,81,40,40,8,32,218,13,72,110,199,221,40,129,47,244,30,252,248,86,201,251,227,4,67,109,100,242,250,188,73,120,51,49,216,143,68,93,102,183,48,106,102,195,36,51,77,135,86,188,75,63,202,130,107,196,59,74,236,87,131,49,76,15,20,151,230,134,124,252,75,98,108,53,255,50,58,20,110,168,95,128,95,0,183,168,125,50,237,239,71,237,146,78,107,180,253,4,200,183,164,227,111,135,22,45,135,22,179,117,157,189,112,254,163,16,90,150,135,137,118,104,111,188,141,189,208,155,191,7,188,4,20,33,16,24,244,13,86,215,40,199,105,158,216,48,100,126,189,65,97,157,98,142,120,185,211,47,154,172,16,62,190,65,32,100,49,139,124,125,229,83,149,30,9,125,106,21,191,35,19,228,67,187,222,220,43,10,195,121,164,57,18,175,20,185,122,119,145,15,248,161,103,128,133,74,151,133,189,56,135,242,56]
-  </span>
+<p><br>__________________</p>
+<div class="noList" style="padding-bottom: 15px;">
+    
+        <h4><a href="/novels/Black_guild.html">Black Guild Company Employee Inadvertently Broadcasts Nationwide Video of Fighting Against S-Class Monsters on Company Line ~Corporate Slave Kensei Becomes a Streamer</a></h4>
+        <p>__________________</p>
+    
+        <h4><a href="/novels/Silver_castle.html">The Silver Castle Shines Twice ~The Disabled Player Who Moved Together With The Giant Floating Castle Hideout Seems To Stick To The Justice Job Build Even In Another World~</a></h4>
+        <p>__________________</p>
+    
 </div>
-
-<script type="text/javascript">
-  const jekyllCrypto = document.querySelectorAll('.jekyll-crypto');
-  const textEncoder = new TextEncoder();
-  const textDecoder = new TextDecoder();
-  const parseBytes = (bytesString) => Uint8Array.from(JSON.parse(bytesString));
-
-  jekyllCrypto.forEach(container => {
-    container.querySelector('form').addEventListener('submit', event => {
-      event.stopPropagation();
-      event.preventDefault();
-
-      const password = container.querySelector('input[name=password]').value;
-      const salt = parseBytes(container.dataset.salt);
-      const iv = parseBytes(container.dataset.iv);
-      const iterations = parseInt(container.dataset.iterations);
-      const authData = parseBytes(container.dataset.authData);
-      const cipherText = parseBytes(container.querySelector('.ciphertext').innerText);
-
-      window.crypto.subtle.importKey(
-        "raw", 
-        textEncoder.encode(password), 
-        { name: "PBKDF2" }, 
-        false, 
-        [ "deriveBits", "deriveKey" ]
-      ).then(keyMaterial => {
-        window.crypto.subtle.deriveKey(
-          { "name": "PBKDF2", salt: salt, "iterations": iterations, "hash": "SHA-256" },
-          keyMaterial,
-          { "name": "AES-GCM", "length": 256 },
-          false,
-          [ "encrypt", "decrypt" ]
-        ).then(derivedKey => {
-          window.crypto.subtle.decrypt(
-            { name: "AES-GCM", iv: iv, additionalData: authData, tagLength: 128 },
-            derivedKey,
-            cipherText
-          ).then(decrypted => container.innerHTML = textDecoder.decode(decrypted));
-        });
-      });
-    });
-  });
-</script>
-
       </div>
    </div><!-- end .content -->
    <p><br><br></p><div style= "text-align: center;"><iframe src="https://discordapp.com/widget?id=1126194910589092010&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div><p><br></p><div style="text-align: center;"><a class="bb_link" href="https://www.patreon.com/bePatron?u=90469752" target="_blank" rel=" noopener" ><img src="https://imgur.com/sk3Rozn.png"></a></div><div class="footer">
