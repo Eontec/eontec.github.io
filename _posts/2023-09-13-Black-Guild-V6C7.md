@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-09-08-Black-Guild-V6C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-08-Black-Guild-V6C6.md %}) \| [Next Chapter]({% link _posts/2023-09-16-Black-Guild-V6C8.md %})
 
 
 
@@ -99,4 +99,4 @@ Tanaka-kun, show me the Shogos-kun that you..... you have with you!"
 
 
 
-##### [Previous Chapter]({% link _posts/2023-09-08-Black-Guild-V6C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-08-Black-Guild-V6C6.md %}) \| [Next Chapter]({% link _posts/2023-09-16-Black-Guild-V6C8.md %})
