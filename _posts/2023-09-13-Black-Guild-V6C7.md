@@ -36,7 +36,7 @@ Tl: Sam
 
 　Even as a junior high school student, she was already as knowledgeable as an adult researcher and was sought out by various research institutes. It was amazing that she was sometimes invited to famous universities overseas.
 
-　Maki's career as a researcher was going smoothly, but a turning point came when he was nineteen years old.   
+　Maki's career as a researcher was going smoothly, but a turning point came when she was nineteen years old.   
 　It was the advent of the dungeon. With a personality of curiosity wearing a white coat, Maki was fascinated by the charms of dungeons.   
 At first, Maki was doing research at a public institution, but ethical and safety concerns made it difficult to get approval for her experiments. Especially when it came to experiments on human subjects.
 
@@ -53,7 +53,7 @@ At first, Maki was doing research at a public institution, but ethical and safet
 "I would love to do five or six inhumane experiments on human beings. I've thought about getting out of here and going back into the underground. But...... the current situation is not so bad. It's a great way to get a little extra money for my research, and I don't have to worry about Dojima-san's eyes on me."
 
 　Maki-san laughed.   
-　I don't want you to say that you've thought about betraying me because it's bad for your heart.
+　I don't want you to say that you've thought about betraying us because it's bad for my heart.
 
 "By the way, Maki-san, I was wondering about your arm......."   
 "Oh, this one."
@@ -90,9 +90,9 @@ Tanaka-kun, show me the Shogos-kun that you..... you have with you!"
 　There are no other monsters friendly to humans, except for Riri, so it is only natural that Maki-san is interested in her.   
 　Riri's eyes fluttered in surprise. Naturally, her eyes met those of Maki-san, who was standing right in front of me.
 
-　Maki's expression hardens for a moment, and then he smiles.
+　Maki's expression hardened for a moment, and then she smiled.
 
-"Oh, well, well, well, well, well, well. It's so nice to finally meet you, cutie. I've been waiting for the day I'd meet you for ages."
+"Oh, well, well, well. It's so nice to finally meet you, cutie. I've been waiting for the day I'd meet you for ages."
 
 　At the sound of her mousy voice and gaze, Riri seemed to pull back a little, "Riri......."   
 　It was indeed Maki-san who could make Riri, who was always so easy-going, to pull away.
