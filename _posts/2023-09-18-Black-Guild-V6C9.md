@@ -45,14 +45,14 @@ Tl: Sam
 
 "What is it?"   
 "Even just three days can change a person; you've become quite reliable. Tachibana must be very proud."   
- #### (Tl: there's a chinese idiom here. The original story is a Chinese traditional story.   
- #### It is based on the story of a young Chinese man who surprised everyone by learning <the art of war> in a very short time.
-#### This is what the young man is said to have said to the surprised adults around him.
+###### (Tl: there's a chinese idiom here. The original story is a Chinese traditional story.   
+###### It is based on the story of a young Chinese man who surprised everyone by learning <the art of war> in a very short time.
+###### This is what the young man is said to have said to the surprised adults around him.
 
-#### ・男子、三日会わざれば刮目して見よ
-####　" If you have not seen the young man for more than three days, The next time you see him, look at him carefully. "
+###### ・男子、三日会わざれば刮目して見よ
+######　" If you have not seen the young man for more than three days, The next time you see him, look at him carefully. "
 
-#### The meaning is that a young person can grow into a different person in three days.)
+###### The meaning is that a young person can grow into a different person in three days.)
    
 "......Thank you very much."
 
