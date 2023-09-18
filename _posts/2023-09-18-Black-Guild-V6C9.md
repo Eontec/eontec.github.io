@@ -23,6 +23,7 @@ Tl: Sam
 　Were they natural phenomena? Or were they artificially created?
 　The more one investigates, the more one learns, and that is the biggest mystery of all.   
 　Maki may have solved part of that mystery.
+<!--more-->
 
 　If monsters came from a world different from ours, then dungeons would be no different. If we could prove that the dungeon came from a different world, many problems might be solved.
 
