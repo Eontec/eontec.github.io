@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-09-13-Black-Guild-V6C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-13-Black-Guild-V6C7.md %}) \| [Next Chapter]({% link _posts/2023-09-18-Black-Guild-V6C9.md %})
 
 
 
@@ -141,4 +141,4 @@ Tl Note: Just gave our site a new make over, coutsey a member Dave. You can prob
 
 
 
-##### [Previous Chapter]({% link _posts/2023-09-13-Black-Guild-V6C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-13-Black-Guild-V6C7.md %}) \| [Next Chapter]({% link _posts/2023-09-18-Black-Guild-V6C9.md %})
