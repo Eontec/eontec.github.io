@@ -21,10 +21,10 @@ Tl: Sam
 
 "Maki-san, you may examine Riri, but please don't do anything ...... violent, okay?"   
 <!--more-->
-Of course not, Tanaka-kun. This is a precious and valuable offering that only one person could have. I'll treat her with the utmost courtesy."
+"Of course not, Tanaka-kun. This is a precious and valuable offering that only one person could have. I'll treat her with the utmost courtesy."
 
-　Maki-san said with a smile on her face.   
-　Well, I didn't trust him. She's the type of person who can't see what's going on around her when she's in the heat of the moment. I kept a close watch on her.
+　Maki-san said with a smile on her face.     
+　Well, I didn't trust her. She's the type of person who can't see what's going on around her when she's in the heat of the moment. I kept a close watch on her.
 
 "Come this way, young lady."   
 "Ri......"
@@ -101,7 +101,7 @@ The eyes were covered with glass, so we couldn't see the face. I could guess 　
 "He was saying that our hypothesis was correct. Did you find out something important?"   
 "Aah. It is known that monsters born in dungeons usually have a DNA structure similar to that of the dungeon."   
 "The same DNA as in the dungeon?"   
-Yes. Each dungeon has its own DNA, and the monster born in the dungeon inherits a part of that DNA. Just like a parent and its child."   
+"Yes. Each dungeon has its own DNA, and the monster born in the dungeon inherits a part of that DNA. Just like a parent and its child."   
 "...... Wait a minute. Does that mean dungeons are "living things"?"   
 "Yes and no. Dungeons are still a mystery to us."
 
@@ -129,7 +129,7 @@ Yes. Each dungeon has its own DNA, and the monster born in the dungeon inherits 
 
 "I think of it this way. I believe that dungeons only create beings that are similar to monsters. So, the original monster must live somewhere.　At least, there is no such thing on earth. In other words ......"
 
-　Maki-san looks me in the eye and speaks of his hypothesis.
+　Maki-san looked me in the eye and spoke of her hypothesis.
 
 "They live in a different dimension, a different world than here. That's where the dungeons and magical elements came from."
 
