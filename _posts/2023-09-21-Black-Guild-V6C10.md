@@ -22,6 +22,7 @@ Tl: Sam
 　It was a different restaurant from the one we had been to last time, and it looked like a reasonably priced one.   
 　I wondered if the only choice in Adachi's mind was yakiniku, or if he thought I was a guy who would be in a good mood if he fed me yakiniku.   
 ...... Well, the second part was definitely true.
+<!--more-->
 
 "Um, I think I have a reservation under the name of Adachi. ......"
 
