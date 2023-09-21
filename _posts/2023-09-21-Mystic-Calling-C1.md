@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mystic's Calling- Chapter 1"
-category: mystic's calling
+category: mystic calling
 comments: true
 ---
 
