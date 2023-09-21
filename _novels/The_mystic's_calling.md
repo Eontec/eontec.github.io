@@ -3,7 +3,7 @@ layout: novel
 name: "The Mystic's Calling"
 title: "The Mystic's Calling"
 password: false
-category: mystic's calling
+category: mystic calling
 ---
 
 My original Sory
