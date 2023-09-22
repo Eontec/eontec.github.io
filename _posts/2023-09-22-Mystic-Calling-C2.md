@@ -12,6 +12,7 @@ Throughout school the next day, Nick could not but think about the experience he
 
 The day seemed exceptionally long as he waited long in anticipation for the final bell, that’d signify the end of school for the day. When the bell finally rang, he hurriedly packed up his things and left the classroom. He walked out of school and straight to his old house.
 Upon entering the house, he made his way straight to the study, and but the doorknob he had been given on the study door. A slight flash of light came out of the edges of the knob as it was now held in place on the door as if it were always part of it. He pulled the doorknob and the door opened to a sight he was familiar with but not yet used to – the strange office with the girl who identified herself as someone that knew his father, sitting on the chair, behind the office desk. She had a calm, mysterious smile plastered on her face.
+<!--more-->
 
 “So you came,” Eden said with a small laugh   
 
