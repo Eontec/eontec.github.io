@@ -5,7 +5,7 @@ category: mystic calling
 comments: true
 ---
 
-##### [Next Chapter]
+##### [Next Chapter]({% link _posts/2023-09-22-Mystic-Calling-C2.md %})
 
 
 Run...   
@@ -118,4 +118,4 @@ At this point, they were both returned to the office where Eden looked straight 
 
 Author's Note: So Yes, This is my original novel. I'm posting the first chapter as an early birthday present, I'll release a few more chapters for this first volume in the coming days, especiall tommorow, being my birthday and all. Don't forget to support on patreon
 
-##### [Next Chapter]
+##### [Next Chapter]({% link _posts/2023-09-22-Mystic-Calling-C2.md %})
