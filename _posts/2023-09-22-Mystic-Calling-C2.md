@@ -5,7 +5,7 @@ category: mystic calling
 comments: true
 ---
 
-##### [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-21-Mystic-Calling-C1.md %}) \| [Next Chapter]({% link _posts/2023-10-01-Mystic-Calling-C3.md %})
 
 
 Throughout school the next day, Nick could not but think about the experience he had the day before. He had just got to learn the kind of life his father had lived. And that his father was an active practitioner of magic. It didn’t even sound realistic in the slightest, but he had gotten first-hand experience and had no choice but to believe that it was the truth. And now, he had been given the learn magic just like his dad did.
@@ -131,4 +131,4 @@ Nick and his sisters reached their house in time for dinner, after which they al
 “Let’s just enjoy the movie” His uncle Dan said with a laugh. And they watched till the end of the movie then went to bed.
 
 
-##### [Previous Chapter]({% link _posts/2023-09-21-Mystic-Calling-C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-21-Mystic-Calling-C1.md %}) \| [Next Chapter]({% link _posts/2023-10-01-Mystic-Calling-C3.md %})
