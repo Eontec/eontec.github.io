@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-09-21-Black-Guild-V6C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-21-Black-Guild-V6C10.md %}) \| [Next Chapter]({% link _posts/2023-10-01-Black-Guild-V6C12.md %})
 
 
 
@@ -101,4 +101,4 @@ Tl: Sam
 Tl Note: Im back People!!! Well not completelly, I'll catch up to the Novel and Post a few chapters of mine. A site remake might happen again now that I've started posting original content, But there won't be much of a design change. Still, People, Checkk out my novel, It'd be really nice if you did, you can click on the "novels" tab on the menu, or [Here]({% link _novels/The_mystic's_calling.md %}) 
 
 
-##### [Previous Chapter]({% link _posts/2023-09-21-Black-Guild-V6C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-21-Black-Guild-V6C10.md %}) \| [Next Chapter]({% link _posts/2023-10-01-Black-Guild-V6C12.md %})
