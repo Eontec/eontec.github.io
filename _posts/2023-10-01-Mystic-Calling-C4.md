@@ -5,7 +5,7 @@ category: mystic calling
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-09-22-Mystic-Calling-C2.md %}) \| [Next Chapter]({% link _posts/2023-10-25-Mystic-Calling-C4.md %})
+##### [Previous Chapter]({% link _posts/2023-09-22-Mystic-Calling-C2.md %}) \| [Next Chapter]
 
 
 Elizabeth Williams is a 16-year-old Third-year high school student and Nick’s best friend since childhood. They were so close and did basically everything together for the better part of their childhood. They would usually meet up at his house and play throughout the day. He started becoming distant when his parents died. Though it wasn’t unexpected, she still tried her best. She’d visit him at his uncle’s place, and spent a lot of time and effort keeping their friendship. At this point, they were nearly inseparable – or at least that’s how it was supposed to be, but without a doubt, they were nowhere as close as they were in the years before. She could still do as much as tell if something was on his mind, she was still the closest friend he had, but the distance between them had been growing. He was getting more distant as the days went by. 
@@ -164,4 +164,4 @@ With his magic enhanced body, he was able to throw himself forward with quite th
 
 
 
-##### [Previous Chapter]({% link _posts/2023-09-22-Mystic-Calling-C2.md %}) \| [Next Chapter]({% link _posts/2023-10-25-Mystic-Calling-C4.md %})
+##### [Previous Chapter]({% link _posts/2023-09-22-Mystic-Calling-C2.md %}) \| [Next Chapter]
