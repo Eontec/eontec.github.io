@@ -1,167 +1,107 @@
 ---
 layout: post
-title: "Mystic's Calling- Chapter 3"
+title: "Mystic's Calling- Chapter 4"
 category: mystic calling
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-09-22-Mystic-Calling-C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-10-01-Mystic-Calling-C3.md %}) \| [Next Chapter]
 
 
-Elizabeth Williams is a 16-year-old Third-year high school student and Nick’s best friend since childhood. They were so close and did basically everything together for the better part of their childhood. They would usually meet up at his house and play throughout the day. He started becoming distant when his parents died. Though it wasn’t unexpected, she still tried her best. She’d visit him at his uncle’s place, and spent a lot of time and effort keeping their friendship. At this point, they were nearly inseparable – or at least that’s how it was supposed to be, but without a doubt, they were nowhere as close as they were in the years before. She could still do as much as tell if something was on his mind, she was still the closest friend he had, but the distance between them had been growing. He was getting more distant as the days went by. 
-<!--more-->
+With his mood sour because of his failure, Nick went back home, ate dinner, and went into his room to practice his magic.
 
-For the last two days, Nick seemed unusually distant; ever since she found him crying on the roof. The days after that, he’d leave school immediately after the bell rang, as though he had somewhere he was hurrying to. It was rare for him to just run off like that, as he usually enjoyed taking his time packing and getting ready before leaving the class. She decided she’d talk to him and figure out where he was running off to. It might seem a little intrusive, but considering their friendship, it’s just normal to want to know.
-Meanwhile, Nick was in his own world all that time. Utilizing the abilities of his magic eyes, he looked at the world around him which was now very colorful with the different magical energies around, in people, and the air.
-All the while practicing control over his own mana. It took a lot of concentration and due to this, he paid almost no attention to what was going on in the class around him.
+He first tried the control practice. He tried focusing as much of his mana as possible into his palm, then slowly released it out. It quickly dissipated. He had failed to hold it, but that didn’t stop him from trying again.
 
-After hours of feeling and moving his magical energy, his concentration was finally broken by a tap on his shoulder; it was Liz
+He continued endlessly till the middle of the night, endlessly trying till he was finally able to give some shape to the mana ball on his pal. The efficiency was terrible, and his mana leaking everywhere, but he had succeeded. He then went to bed.
+<--more-->
 
-“The lunch bell has rung… You’ve been spaced out all day. Are you okay?”, She said with a worried expression
+Like most people who sleep late, he overslept. Rushing to get ready to school, He dashed out of the house like a gale, bag in hand, and used his bicycle for the first time in a long while. Pedaling like his life depended on it, he navigated the streets on the way to his school. 
+He was no longer so far from school, when his bicycle hit a rock and capsized.”
 
-“I’m fine, no need to be so worried”, He answered with a little smile.
+“Why is there a rock on the road?” He asked the air in front of him. Looking over to the condition of his bike, it was almost gone. The pedal was off, the chain was out, there was no way he would be able to fix it in time. Luckily there was a place to park his bike, so he ditched it and started running.
 
-“You’ve been acting unusual recently, you’ve even been spaced out all this time, you leave school early. What happened to you?”, She said in one breath, all her current worries.
+Noticing he might not make it, he resorted to magic. Using the minimum possible amount of man and channeled it throughout his body. He instantly began feeling lighter. Trying his best to look inhuman or run out of man, he used the barest minimum amounts of magic, and did it mostly just to keep himself from getting tired or not being fast enough. Luckily enough, he reached the school gate just before it was closed. Running through the gate, he greeted the security guard about to close it, and caught his breath.
 
-“Oh that”, He said with a laugh.
+Surprisingly, his breath was a lot steadier than he thought, and he was not sweating as much as he thought he would be after running that distance.
 
-“I just got this really cool game, it’s plenty hard and I’m trying to clear it as fast as possible; I was thinking about playing strategies. You can come and check it out if you want”, he added.
+He made his way to his class and he was late. Entering the class, he ignored the gazes being sent is way by his classmates, and made his way to his sit.
 
-“Oh, then why was I even worried?” she said with a facepalm.
-The rest of the day continued smoothly with him with Nick putting most of his concentration on trying to control his magic power.
 
-‘What about his schoolwork?’, one may think. But Nick already had a good enough cumulative grade. One term of slacking wouldn’t harm him so much. And either way, he wasn’t the type that failed tests, so he was sure to get by just fine. Losing a few marks wasn’t going to deter him from learning magic.
+“Stayed up late?”, Liz asked as he took his seat.
 
-At the end of school, he left for the old house like the last two times and entered Eden’s office from the study door.
+“Yeah, I couldn’t get past a level, so I spent time grinding. The quest is literally a beginner trap, but I’ll get past it”, he replied with determination in his voice
 
+‘The things boys waste their time on’ Liz thought with a sigh, and took her attention back to the ongoing class. 
 
-“You came,” Eden said from her chair
+Nick on the other hand, while taking notes as much as he cold, tried practicing the mana building exercise. It was a lot better than some cultivation or meditation techniques that require extreme levels of concentration. 
 
-“Of course, I did” Nick replied in a matter-of-fact tone.
+He focused most of is mana out of his body at once, and just as it was about to disconnect from him, he reabsorbed it. Naturally, with his level of mana control, the reabsorption was quite inefficient and a lot of mana, wasted. The mana amulet, that boosted mana recovery helped the process a lot.
 
-“Or was I not supposed to come?” He asked
+When the mana leaves and the recovery starts, the vessel is seen as empty, and the body starts absorbing mana from the air, though slowly, when reabsorbing mana, a lot of mana from the atmosphere is mixed in. Normally absorbing this mana directly from the air is impossible without insanely high levels of skill, because the magical energies inside and outside the body are different and needs to be converted before being absorbed, but his father discovered a loophole. When you release so much mana into the air at once, a lot of it is mixed with the mana in the air, and the mana around you, gets branded, as yours. So, when you reabsorb, you’re actually getting in more mana than you let out. Normally, absorbing more mana than your capacity usually has problems, and that’s where the timing comes in. By absorbing the mana just before it gets disconnected from you, your body perceives that the mana never left the body, and the vessel will just conveniently expand to accept the extra mana. Normally, this technique wouldn’t have been beginner friendly, because, a beginner wouldn’t even be able to control their mana to the extent of releasing and reabsorbing all of it. There’s another loophole that is exploited then. As the mana leaves the vessel, The natural recovery starts. And when the mana comes back in, it adds to the amount of mana that has been recovered. That’s where the amulet shined. It recovered is mana so fast, that his mana was increasing by a good enough amount each time, despite all the wastes. By the end of school, his mana was around ten times its original amount, and his mana control was incomparable to the day before. This growth was quite impressive. But ten times the amount of mana as a regular human, though it sounded impressive, wasn’t a large amount. 
 
-“Well, you can come anytime so it doesn’t really matter” She replied.
 
-“So where do we start today?”, Nick asked with anticipation showing clearly, in his eyes.
-“Hmmm,” She thought for a while. 
+Leaving school immediately the bell rang, we went back to meet Eden.
 
-“Your mana is a lot more stable than yesterday, meaning you must have practiced a whole lot. So, I’ll give you a special service” She finally said.
+Opening the door and looking at her with determination written all over his face, said, “Ok, send me to the Labyrinth”.
 
-“What could that be?”, He enquired further.
+“Ok”, Eden said with a beaming smile as she opened the portal, “You’ve grown a lot in a single day, let’s see if that growth is enough.” She added as he walked through the portal.
 
-"master in magic”.
 
-“Cool,” he said, very interested in the sound of what she was saying.
+Looking at the hall in front of him, he knew that neither his mana, nor mana control, was his mana enough to get him to the end; walking that is.
 
-“Ok then,” She said, opening a portal beside him,
+Taking a few steps back, he channeled his mana for body enhancement. He felt a lot lighter than the last time; almost as if he was floating. He took a deep breath and set of running. Reaching the cue point, he took a leap. He landed a little past where seemed to be two thirds of the place. Taking a few more steps still with the force and speed he had gathered from the jump, he reached the end which opened up into a very wide room, seemingly as big as a football field at first glance. The ceiling was completely dark and was impossible to see and though there was almost no visibility, with his magic eyes activated, he could see at least the limits of his room in terms of length and breadth of the room. Before he could complete his appraisal of the room, he heard a whooshing sound, and managed to catch sight of something flying towards him with astonishing speed. Instinctively, he side-stepped but as his foot touched the ground, it gave way to a pitfall. He managed to grab on to the edge in time to avoid falling into the trap. Looking down, he found spikes about two meters high, ready to impale him if he were to fall. He took a big gulp and climbed up out of hole and saw that there was an arrow pierced where he stood. It was about as long as the spikes, pierced into a floor that seemed harder than concrete.
 
-“Get going. It’s not going to be easy. But don’t worry, you most likely won’t die” She said with her voice becoming low at the last part.
+At this point, he realized the kind of room he was in. It was completely filled with traps; any wrong step might be instant death. What he hadn’t noticed however, was that albeit at a slower rate, his mana was still being absorbed, and faster than it was recovering. With the most caution he had displayed so far, he took a step. A bright flash covered his eyes and he was back in the office, laying on the floor.
 
-“What do you mean probably?” He asked, starting to panic
+“You went a lot farther than I expected” Eden said, honestly impressed by his performance. 
 
-“I mean I’ll save you if you’re about to die or unless you fall for an instant-death attack or trap. And why are you worried? Aren’t you the main character?” Eden said with a smirk.
+“Never expected you to be able to pull it off, but you did” She added.
 
-“What’s that smug face for?” Nick asked Irked
+“What is that place?” Nick asked, without getting up from the floor, “It’s like everything wants to kill you”.
 
-“And what do you mean by the main character? And there are instant-death traps?” He asked clearly annoyed by the fact that she was literally playing with his life.
+“Don’t worry, you have a big advantage in that second room, enough to call it a cheat”, Eden said with a smirk, “Normally, you’re suppose to rely on your ability to sense mana and mana flows to detect traps. Most people’s mana detection is non-visual, so this is usually a very big challenge. With your ability to perceive these mana flows visually, it should be easier for you to detect the traps if you just pay attention.”
 
-“I mean, you really fit the bill to be an MC, I mean I could put your story in a book; It’d do great”, She said with a hearty laugh.
 
-“And I was just joking, you won’t actually die; Just like a dream, you’ll be ejected at the point of death. I’ll also fix all the damage to your body and clothes, can’t say anything about the mental fatigue though, so get going. I’ll guide you from this side” she said as she pushed him through the portal.
+Helping him get up, Eden opened up the portal and sent him through with a pat on the back.
 
+He arrived at the beginning again. It wasn’t as convenient as games where you lad where you stopped last; He was dropped at the very beginning. Using his body strengthening and holding his mana inside, he made it past the first hall with less mana lost than the last time. Looking into the second room, he activated his magic eyes and looked round he room for irregularities. Soon enough, he found a lot of them, littered all around the room, in the air, on the floor and seemingly from the ceiling that was too far to see clearly even with his magic eyes. His mana was still being drained, though a lot slower than in the first hall, he wouldn’t be able to stay for long. Halfway through the room there were what seemed like multiple capsules in the ground; they seemed to be part of another trap.
+‘I should be okay as long as I avoid everything’ he thought as he took a step; suddenly, the whooshing sound came again which he avoided, by stepping to the side to where he had determined to be safe ground. As he landed, a hand came out of the ground beside where he stood and grabbed his leg. Before he could even react, spikes came out of the and stabbed into his leg. He screamed in pain and his consciousness fa away.
 
-On the other side, was a wide hallway. It was lit dimly with some light-emitting rocks lining the edges of the ceiling on both sides, emitting a warm light. 
+“Oh, it’s not just about seeing the traps, the traps are all different, and have different activation requirements. You can’t get though by just seeing the traps, you have to be able to tell when and how the traps will activate, or be able to avoid at the last moment”, Eden said as he regained his consciousness.
 
-He took a step forward and something strange happened. He felt his magic power depleting very quickly. Activating his magic eyes, he noticed. There was no light except him. He was the only source of mana in this cave.
+“Don’t you think you should have told me, BEFORE you sent me to that death box?”, Nick said with a tired expression still sprawled on the floor. He didn’t even have the strength to sound angry. His foot may have been in perfect condition, but the pain he felt was real. He could still feel the cold hard hand on his leg and the spikes digging through his skin and bones.
+Then he heard a loud laughter. It was coming from Eden, but it didn’t sound like her. It was very loud, almost to the point of a maniacal cackle. 
 
+“Did you really think it would be so easy?”, She started, “You think there’d be no pain involved?” She said as she laughed even harder.
+After a few seconds she stopped talking and on cue, the atmosphere around her became cold, along with her tone 
 
-“So, you noticed” Came Eden’s voice from seemingly nowhere.
+“This path is a harsh one with many obstacles. It’s anything but easy. If you lack the resolve, you may quit.”, She turned her back on him and opened the door using magic. It opened into the front door of the old house.
 
-“This hallway has special properties of absorbing all the mana around and in it. Though it absorbs quickly, if you can completely stop your mana from leaking, it won’t be absorbed. In other words, if you can confine your mana in your body, you’ll be able to get through”, She explained.
+“If you can’t bear a little pain, there’s no way you can become a master of magic”, she said with literally no emotion at this point.
+Laying on the floor, Nick gritted his teeth. He felt weak, angry, both his heart and pride had been broken along with his spirit.
 
-“Ok then,” Nick said and then took another step forward, then proceeded to fall to the floor, losing his consciousness in the process.
+Standing up, Nick clenched his fists. He was weak and he got ahead of himself because of his growth, but he wasn’t going to back down; for the sake of his father.
 
+He walked over to the door – and closed it. And looked over to Eden. And with newly found determination, he called out.
 
-He woke up a while later, on the floor in Eden’s office, to the cold uncomfortable feeling of the floor on his back. Eden was standing over him and looking down at him. 
+“Hey, what do I have to learn next to clear that annoying room?” He said with a slightly arrogant voice.
+Eden beamed a bright smile; one that made it seem like the cold attitude just then was a lie. It didn’t fail to catch him off guard and crashed his expression along with the front he was putting up.
 
-“I overestimated you,” she said,
+“You’ll have to learn another sensory-type magic. It’s a basic one, but it’ll take some practice in order to use in the labyrinth. You release your mana into the air, without breaking its link from you, that allows you to be connected with your mana in the air. With this, it’ll be easier to sense movements and presence, especially those related to magic.” Eden explained.
 
-“It was a mistake on my path. Your mana was so stable I assumed that you could at least manipulate it properly by now. But it was just you getting more accustomed to moving your mana. Think of it this way. You do a lot of basic finger exercises using a keyboard. But it’s finger exercise, not keyboard playing exercise. You’d be very used to moving your fingers around a keyboard, but that doesn’t mean you’ll be able to play any music. In the same way, you’ve been actively trying to feel and move your mana so much, and you’re quite good at it, or you’re wasting a lot of time practicing. Because of this, your mana is a lot more stable than it should be. But in reality, though now it’ll be a lot easier to use magic, your mana control is still worse than someone who spent years meditating even with no thoughts whatsoever of magic” she said.
+Nick tried as she said, but was unable to reman linked with his mana as it left his body.
 
-“I’m just surprised you could say all that in one breath,” Nick said while sitting up. 
+“It’ll take a few days to get it down. We’ll be growing your mana and practicing your mana control wile trying to get it down.” She suggested.
 
-“And it was quite rude” he added as he sat on the floor.
+“The aim…” She starts as she pointed to the ceiling, “…is hundred times your current amount of mana”
 
-“So, all I have to do is not let my mana leak, right?” He asked, with a determined look on his face as he got up to his feet.
+“Hundred times? Wouldn’t that make it one thousand times the normal amount of a human?”, Nick asked confused
 
-“Sure,” Eden said with a bright smile and she opened the portal again, then he walked through for his second attempt.
-At the beginning of the hallway-like cave, he took a deep breath. 
+“Yes of course, and you need to be able to control all that mana, else it could get unstable and make you go kaboom”, Eden answered with a matter-of-fact tone.   
 
-‘Concentrate feel the mana, confine the mana, don’t let it escape’
+And this, would be the start of a journey; one that Nick had never before imagined was possible.
 
-After a couple of seconds, he stepped forward for his second try at the very first part of the Labyrinth of trials, which ended as quickly as it started; He had barely taken a few steps before his mana rushed out of his body, which like a puppet whose strings had been cut, fell to the ground. It was a complete failure.
-Waking up again, he looked at Eden who was squatting beside him. 
 
-“Send me back,” he said.
 
-“ok” Eden replied with a sigh and opened the portal
-Entering again, He took some steps back and noticed that he didn’t go back through the portal. He took more steps back and started sprinting.
 
-‘If I can’t reach the end normally, I just have to get there before my mana is completely drained’
-Reaching the point that was supposed to be the beginning of the Labyrinth, he lunged forward. The result was – another failure. Couldn’t put enough concentration into holding his mana, and ended up losing his mana mid-air, making him crash brilliantly into the ground.
-
-“I think sending you there was a bit unfair,” Eden said with a troubled expression
-
-“The labyrinth of trials isn’t as easy as it seems. I may say all you have to do is learn to control your mana, but to be able to control your mana to that extent that the Labyrinth won’t be able to take it, requires extreme amounts of skill. Though it’s not impossible to get past, it’s a game with set difficulty at impossible, especially for a beginner”, she explained.
-
-“Well, I guess, we’ll go for some more basic exercise before you challenge it again”, she said.
-He could only see this as a challenge, a challenge to his pride that had just been massively wounded. He couldn’t but think she did this purposefully.
-
-“Ok,” he said, reluctantly.
-
-“Ok, now I’ll teach you the most basic form of magic. It’s so basic, that even people that don’t recognize magic can do it. Well, those people would be people that have dedicated their whole lives to meditation or martial arts” she started.
-
-“It’s body strengthening using mana. Normally, mana is an internal force one does not interact with, but it can have a lot of effects if you can manipulate it to any extent. There’s even a whole school of magic that just specialize in using magic flowing in the body. Though it’ll be better to just call it a martial art school that stumbled unto magic. You just bring the mana out from its regular astral flow and make it flow in your physical body. You should picture pulling the mana out, and you should probably focus on doing it for particular body parts rather than your whole body at first” She explained
-With determination in his eyes, and with his last bit of pride, he closed his eyes. He had already tried something like this before. He was able to send mana to power his magic eyes, so something like this wouldn’t be a problem.
-Concentrating deeply, he tried it. Picturing his mana coming into his body, his body felt slightly lighter. He focused all the energy to his hand.
-
-“Good,” Eden said.
-
- After a few seconds, his body became exhausted, his mana had run out.
-
-“You don’t have much mana right now, you’re still a novice. But there’s something that can help. It’s a method your dad used to increase his mana up to insane levels” Eden said.
-
-“How good exactly was my dad?”, He asked. It was a question that always crossed his mind, but he never asked, until now. His curiosity had gotten the better of his fears.
-
-“Your dad”, Eden said, then paused to take a deep breath
-
-“In terms of raw power, he could sink a small country on a whim without much. If it was his mana control, Lemme just say, there was a time he was in a meeting of sorts with other powerful magicians. His mana was so well concealed, they overlooked him at first, till someone recognized him by face.”, she said with an expression as if she was in the past.
-
-"There was never a dull moment. Everyone was always on their toes, waiting for the next crazy thing he’d do. One moment he was in another world, the next, he’d be lost somewhere in time. He did settle down when he met your mom”
-
-
-“Ok” Nick said with newly found determination.
-
-“Open the portal”
-
-Eden did as he said, and opened the portal again which he walked through to face the labyrinth for the third time.
-Concentrating the most he could, he gathered as much of his mana as possible into his feet for body strengthening, went into a crouching position and leaped into the hallway.
-
-With his magic enhanced body, he was able to throw himself forward with quite the force, but there were problems. His mana had drained quickly, leaving his body to crash in the middle of the hallway with all that force and slide a bit on the floor.
-
-“That was a great attempt,” Eden said, looking at him when he woke up.
-
-“Normally someone that just started learning magic wouldn’t be able to pull off those levels of mana control you just showed. And you don’t have much mana. You haven’t done any mana building exercise and you’re basically a regular human in terms of mana quantity, so you won’t even be able to last in the Labyrinth either way.” She started
-
-“Now for the mana exercise that your dad used, it’s called ‘Reharness cultivation’. It takes a lot of concentration and mana control to pull it off. You expel all your mana, and just before your body disconnects from it, you pull it back. It’s a simple exercise, but it works wonders. And to train your mana control outside your body, gather mana just above your hand and give it a shape, preferably round, then keep it for as long as possible” she said as she bid him farewell and threw him an amulet
-
-“What’s this?” He asked
-
-“It’s a mana recovery amulet, it gathers mana from the air and channels it into your body for faster recovery, it should help your training. It also has an extra protection ability to make a very powerful barrier. You could give it to a friend that needs protection when the time comes” She answered.
-
-“Ok then, bye” he said as he wore the amulet and walked out the door. Like the last time, he was in front of the house. And with his pride completely broken, he went back home.
-
-
-
-##### [Previous Chapter]({% link _posts/2023-09-22-Mystic-Calling-C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-10-01-Mystic-Calling-C3.md %}) \| [Next Chapter]
