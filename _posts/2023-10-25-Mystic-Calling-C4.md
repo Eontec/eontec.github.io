@@ -13,7 +13,7 @@ With his mood sour because of his failure, Nick went back home, ate dinner, and 
 He first tried the control practice. He tried focusing as much of his mana as possible into his palm, then slowly released it out. It quickly dissipated. He had failed to hold it, but that didn’t stop him from trying again.
 
 He continued endlessly till the middle of the night, endlessly trying till he was finally able to give some shape to the mana ball on his pal. The efficiency was terrible, and his mana leaking everywhere, but he had succeeded. He then went to bed.
-<--more-->
+<!--more-->
 
 Like most people who sleep late, he overslept. Rushing to get ready to school, He dashed out of the house like a gale, bag in hand, and used his bicycle for the first time in a long while. Pedaling like his life depended on it, he navigated the streets on the way to his school. 
 He was no longer so far from school, when his bicycle hit a rock and capsized.”
