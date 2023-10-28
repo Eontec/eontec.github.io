@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "BG - Volume 5.2 Chapter 15: Hoshino Awakens"
+title: "BG - Volume 6 Chapter 15: Hoshino Awakens"
 category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-08-09-Black-Guild-V5.2C14.md %}) \| [Next Chapter]({% link _posts/2023-08-14-Black-Guild-V5.2C16.md %})
+##### [Previous Chapter]({% link _posts/2023-08-09-Black-Guild-V6C14.md %}) \| [Next Chapter]({% link _posts/2023-08-14-Black-Guild-V6C16.md %})
 
 
 
@@ -148,4 +148,4 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-08-09-Black-Guild-V6C14.md %}) \| [Next Chapter]({% link _posts/2023-08-14-Black-Guild-V5.2C16.md %})
+##### [Previous Chapter]({% link _posts/2023-08-09-Black-Guild-V6C14.md %}) \| [Next Chapter]({% link _posts/2023-08-14-Black-Guild-V6C16.md %})
