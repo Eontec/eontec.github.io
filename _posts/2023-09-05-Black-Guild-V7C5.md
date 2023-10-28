@@ -108,4 +108,4 @@ Tl: Sam
 
 Tl Note: Riri Is da real MVP lol. Have a chemistry exam, but I'm not particularly bothered, so I'm putting out some content
 
-##### [Previous Chapter]({% link _posts/2023-09-02-Black-Guild-V7C4.md %}) \| [Next Chapter]({% link _posts/2023-09-08-Black-Guild-V7C6s.md %})
+##### [Previous Chapter]({% link _posts/2023-09-02-Black-Guild-V7C4.md %}) \| [Next Chapter]({% link _posts/2023-09-08-Black-Guild-V7C6.md %})
