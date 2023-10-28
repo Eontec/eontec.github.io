@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-07-22-Black-Guild-V5C6.md %}) \| [Next Chapter]({% link _posts/2023-07-25-Black-Guild-V5.2C1.md %})
+##### [Previous Chapter]({% link _posts/2023-07-22-Black-Guild-V5C6.md %}) \| [Next Chapter]({% link _posts/2023-07-25-Black-Guild-V6C1.md %})
 
 
 Tl: Sam
@@ -125,4 +125,4 @@ Tl: Sam
 　Saying this, Sumi-san smiled at me in the same way I remember my mother smiling at me.
 
 
-##### [Previous Chapter]({% link _posts/2023-07-22-Black-Guild-V5C6.md %}) \| [Next Chapter]({% link _posts/2023-07-25-Black-Guild-V5.2C1.md %})
+##### [Previous Chapter]({% link _posts/2023-07-22-Black-Guild-V5C6.md %}) \| [Next Chapter]({% link _posts/2023-07-25-Black-Guild-V6C1.md %})
