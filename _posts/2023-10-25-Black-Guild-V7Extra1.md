@@ -138,4 +138,4 @@ What do you think?
 <div class="strawpoll-embed" id="strawpoll_40Zmq70BwZa" style="height: 516px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_40Zmq70BwZa" src="https://strawpoll.com/embed/40Zmq70BwZa" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>
 
 
-##### [Previous Chapter]({% link _posts/2023-10-01-Black-Guild-V6C13.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-10-01-Black-Guild-V7C13.md %}) \| [Next Chapter]({% link _posts/2023-10-28-Black-Guild-V8C1.md %})
