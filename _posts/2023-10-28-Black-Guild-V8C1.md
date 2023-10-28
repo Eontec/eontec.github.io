@@ -23,6 +23,7 @@ Tl: Sam
 「I've been waiting for you.」   
 「Oha Ken!」(Tl: Oha from "Ohayo" for good morning)   
 「It's started!」   
+<!--more-->
 「I've been waiting for this since the day before yesterday!」   
 「Is someone not with us this time?」
 
