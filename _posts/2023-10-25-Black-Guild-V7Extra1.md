@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "BG - Volume 6 Slow commentary “Dungeon streamer Makoto Tanaka”"
+title: "BG - Volume 7 Slow commentary “Dungeon streamer Makoto Tanaka”"
 category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-10-01-Black-Guild-V6C13.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-10-01-Black-Guild-V7C13.md %}) \| [Next Chapter]({% link _posts/2023-10-28-Black-Guild-V8C1.md %})
 
 
 
