@@ -33,7 +33,7 @@ Tl: Sam
 　The headless torso fell with a thud onto the roots, and after wiggling around for a while, it fell to the bottom of the hole.
 
 「Oooooh!　he beat it!」   
-「That's what I'm talking about, Shachiken!」
+「That's what I'm talking about, Shachiken!」  
 「One hit lol」   
 「Well, the opponent is only A-rank after all」   
 「No, A-rank monsters are usually very strong. ......」   
