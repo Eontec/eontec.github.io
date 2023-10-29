@@ -19,6 +19,8 @@ Tl: Sam
 　I gave my usual greeting to the drone floating in the air and began the dungeon delivery.   
 　Thanks in part to the advance notice, the number of viewers grew rapidly.
 
+<div data-banner-id="424152"></div>
+
 「He's here!」   
 「I've been waiting for you.」   
 「Oha Ken!」(Tl: Oha from "Ohayo" for good morning)   
