@@ -36,6 +36,8 @@ Tl: Sam
 　As I said that, Riri the Shoggoth came out of my breast pocket and looked at me with a "Ri?".   
 　I'm always with her wherever I go, because it's too dangerous to leave her at home. I think it would be good if I could leave him with Adachi or something. ...... Well, if he can stand Riri's acid, that is.
 
+<div id="container-aaae9f1061c7c37f010177a79ad54f13"></div>
+
 「Riri!」   
 「Cute!」   
 「Shogo-tan hahaha!」   
