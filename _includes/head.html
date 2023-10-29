@@ -80,7 +80,8 @@
 		rel="canonical"
 		href="{{ page.url | replace:'index.html','' | prepend: site.url }}"
 	/>
-	{%- if page.layout != 'patreon' -%}{%- include google_ads.html -%}{%- endif -%}
+	{%- if page.layout != 'patreon' -%}{%- include google_ads.html -%}
+	{%- include monetag.html -%}{%- endif -%}
 	
 	{%- include google_analytics.html -%}
 </head>
