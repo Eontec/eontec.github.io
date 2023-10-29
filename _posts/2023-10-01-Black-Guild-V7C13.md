@@ -28,6 +28,8 @@ Tl: Sam
 "If that's the case, you can do a part-time job at our guild. It's like a rough internship. You can work there for a while, compare it with other companies, and if you still like it here, you can join us. Hey, Mr. President."   
 "Oh, yes. You're absolutely right."
 
+<div data-nat="424166"></div>
+
 　I jumped on Adachi's helping hand as fast as I could.   
 　The guild's management would go on like this, I could feel it.
 
@@ -84,6 +86,8 @@ Tl: Sam
 
 "Hey, Adachi!　What are you looking at?"   
 "Damn, you got me."
+
+<div data-nat="424166"></div>
 
 　Adachi came in with a disappointed look on his face.   
 　How long has this guy been spying on us?　I didn't feel any sign of him at all.

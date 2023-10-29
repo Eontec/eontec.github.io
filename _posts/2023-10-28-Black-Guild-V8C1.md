@@ -52,7 +52,7 @@ Tl: Sam
 
 "Well, I have a report to make to you all, and I will make it before we dive into the dungeon."
 
-  <div data-nat="424150"></div>
+  <div data-nat="424166"></div>
 
 「What?」   
 「I'm so excited!」   
@@ -134,6 +134,8 @@ Tl: Sam
 「It's not as bad as the Black Dog Black Dog Guild, but there are still black guilds out there.」   
 「A new wind is blowing in the industry.」   
 「I'm rooting for you.」
+
+<div data-nat="424166"></div>
 
 　Having said everything I had planned to say, I heaved a sigh.   
 　We now had five million viewers, many of whom were foreigners. That's enough publicity for both domestic and international audiences.   

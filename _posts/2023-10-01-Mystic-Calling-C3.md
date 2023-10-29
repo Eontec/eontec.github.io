@@ -15,6 +15,8 @@ For the last two days, Nick seemed unusually distant; ever since she found him c
 Meanwhile, Nick was in his own world all that time. Utilizing the abilities of his magic eyes, he looked at the world around him which was now very colorful with the different magical energies around, in people, and the air.
 All the while practicing control over his own mana. It took a lot of concentration and due to this, he paid almost no attention to what was going on in the class around him.
 
+<div data-nat="424166"></div>
+
 After hours of feeling and moving his magical energy, his concentration was finally broken by a tap on his shoulder; it was Liz
 
 “The lunch bell has rung… You’ve been spaced out all day. Are you okay?”, She said with a worried expression
@@ -121,6 +123,8 @@ He could only see this as a challenge, a challenge to his pride that had just be
 “Ok,” he said, reluctantly.
 
 “Ok, now I’ll teach you the most basic form of magic. It’s so basic, that even people that don’t recognize magic can do it. Well, those people would be people that have dedicated their whole lives to meditation or martial arts” she started.
+
+<div data-nat="424166"></div>
 
 “It’s body strengthening using mana. Normally, mana is an internal force one does not interact with, but it can have a lot of effects if you can manipulate it to any extent. There’s even a whole school of magic that just specialize in using magic flowing in the body. Though it’ll be better to just call it a martial art school that stumbled unto magic. You just bring the mana out from its regular astral flow and make it flow in your physical body. You should picture pulling the mana out, and you should probably focus on doing it for particular body parts rather than your whole body at first” She explained
 With determination in his eyes, and with his last bit of pride, he closed his eyes. He had already tried something like this before. He was able to send mana to power his magic eyes, so something like this wouldn’t be a problem.

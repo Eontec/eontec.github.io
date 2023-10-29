@@ -30,6 +30,8 @@ Tl: Sam
 
 "What a subtle reaction!　My future plan is perfect, isn't it?"
 
+<div data-nat="424166"></div>
+
 "I'm sorry, Reiyu, but being a dungeon distributor is not such an easy job."
 
 "......Eh?　But the recently famous Shachiken had over 10 million subscribers right away, you know?　If someone that dull can do it, I'm sure it'll be a piece of cake for me too!"
@@ -90,6 +92,7 @@ Ah, Yeah, you have a point. If you work 350 hours of overtime a month in the dun
 "Yeah. On the other hand, Shachiken seems to be on a roll these days. His suscriber count has exceeded 10 million and he is becoming the most famous individual in Japan. There are rumors that he is planning to start a new guild." (
 TL: Gossip spreads wayy too fast)
 
+<div data-nat="424166"></div>
 
 "That's awesome!　I wonder if I can be a part of it?"
 

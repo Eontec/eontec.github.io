@@ -18,11 +18,15 @@ He continued endlessly till the middle of the night, endlessly trying till he wa
 Like most people who sleep late, he overslept. Rushing to get ready to school, He dashed out of the house like a gale, bag in hand, and used his bicycle for the first time in a long while. Pedaling like his life depended on it, he navigated the streets on the way to his school. 
 He was no longer so far from school, when his bicycle hit a rock and capsized.”
 
+<div data-nat="424166"></div>
+
 “Why is there a rock on the road?” He asked the air in front of him. Looking over to the condition of his bike, it was almost gone. The pedal was off, the chain was out, there was no way he would be able to fix it in time. Luckily there was a place to park his bike, so he ditched it and started running.
 
 Noticing he might not make it, he resorted to magic. Using the minimum possible amount of man and channeled it throughout his body. He instantly began feeling lighter. Trying his best to look inhuman or run out of man, he used the barest minimum amounts of magic, and did it mostly just to keep himself from getting tired or not being fast enough. Luckily enough, he reached the school gate just before it was closed. Running through the gate, he greeted the security guard about to close it, and caught his breath.
 
 Surprisingly, his breath was a lot steadier than he thought, and he was not sweating as much as he thought he would be after running that distance.
+
+<div data-nat="424166"></div>
 
 He made his way to his class and he was late. Entering the class, he ignored the gazes being sent is way by his classmates, and made his way to his sit.
 
@@ -39,6 +43,7 @@ He focused most of is mana out of his body at once, and just as it was about to 
 
 When the mana leaves and the recovery starts, the vessel is seen as empty, and the body starts absorbing mana from the air, though slowly, when reabsorbing mana, a lot of mana from the atmosphere is mixed in. Normally absorbing this mana directly from the air is impossible without insanely high levels of skill, because the magical energies inside and outside the body are different and needs to be converted before being absorbed, but his father discovered a loophole. When you release so much mana into the air at once, a lot of it is mixed with the mana in the air, and the mana around you, gets branded, as yours. So, when you reabsorb, you’re actually getting in more mana than you let out. Normally, absorbing more mana than your capacity usually has problems, and that’s where the timing comes in. By absorbing the mana just before it gets disconnected from you, your body perceives that the mana never left the body, and the vessel will just conveniently expand to accept the extra mana. Normally, this technique wouldn’t have been beginner friendly, because, a beginner wouldn’t even be able to control their mana to the extent of releasing and reabsorbing all of it. There’s another loophole that is exploited then. As the mana leaves the vessel, The natural recovery starts. And when the mana comes back in, it adds to the amount of mana that has been recovered. That’s where the amulet shined. It recovered is mana so fast, that his mana was increasing by a good enough amount each time, despite all the wastes. By the end of school, his mana was around ten times its original amount, and his mana control was incomparable to the day before. This growth was quite impressive. But ten times the amount of mana as a regular human, though it sounded impressive, wasn’t a large amount. 
 
+<div data-nat="424166"></div>
 
 Leaving school immediately the bell rang, we went back to meet Eden.
 
