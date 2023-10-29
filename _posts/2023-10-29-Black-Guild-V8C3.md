@@ -40,7 +40,7 @@ Tl: Sam
 「Shachiken is the strongest! Shachiken is the strongest!」   
 「But there are still nearly 30 of them. Can he make it?」   
 「I'm also worried about the unstable footing.」   
-「I mean, this is the upper level. Only Shachiken can take them down.」
+「I mean, this is the upper level. Only Shachiken can take them down.」  
 
 　I was hoping that if I killed one of them, the others would run away, but unfortunately that didn't happen.   
 　Either they were taking revenge on us, or they were just hungry. The Venom Serpents didn't run away, but instead approached us jitterily.   
