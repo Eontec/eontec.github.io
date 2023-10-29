@@ -45,6 +45,8 @@ Don't look so frightened, Tanaka. I didn't do it without thinking, and I told my
 Adachi, you're on......."    
 "I don't gamble, which means I quit my job because I'm convinced this is a win-win situation. So ...... you stop worrying about trivialities and just look ahead. If you owe me even a small favor."
 
+<div data-nat="424166"></div>
+
 　Adachi said and finally smiled.   
 　...... haha. After being told this much, I have no choice but to unclench my fists. I was going to hit him until his face changed shape and make him retract his resignation. (Tl: How much I wished this was a mistranslation)
 

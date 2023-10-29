@@ -51,6 +51,8 @@ Tl: Sam
 　Suddenly, the sword emitted a sound effect and my voice.   
 　After that, every time Adachi pressed the button, it would say something like, "You were strong, but you had the wrongopponent!"
 
+<div data-nat="424166"></div>
+
 "Oh, hey, what's this? It's just like a Sentai merchandise!"   
 "It's just a prototype, but it's good, isn't it?　The product name is 『 DX Deluxe Shachiken sword 』, and I'm sure the boys of the world will be drooling over it!"
 

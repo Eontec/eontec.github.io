@@ -28,8 +28,6 @@ Tl: Sam
 "If that's the case, you can do a part-time job at our guild. It's like a rough internship. You can work there for a while, compare it with other companies, and if you still like it here, you can join us. Hey, Mr. President."   
 "Oh, yes. You're absolutely right."
 
-<div data-nat="424166"></div>
-
 　I jumped on Adachi's helping hand as fast as I could.   
 　The guild's management would go on like this, I could feel it.
 
@@ -59,6 +57,8 @@ Tl: Sam
 　It was awkward..... I didn't know what to talk about when it was just the two of us. I felt like I was able to talk naturally until a while ago, but right before the confession happened, I had a hard time looking her in the eye and talking.   
 　But, as an adult, I couldn't just sit here and be happy. I took a breath and looked at Hoshino who was sitting beside me.
 
+<div data-nat="424166"></div>
+
 "Hoshino, about the other day......"   
 "Oh, uh, yes!"
 
@@ -87,7 +87,6 @@ Tl: Sam
 "Hey, Adachi!　What are you looking at?"   
 "Damn, you got me."
 
-<div data-nat="424166"></div>
 
 　Adachi came in with a disappointed look on his face.   
 　How long has this guy been spying on us?　I didn't feel any sign of him at all.

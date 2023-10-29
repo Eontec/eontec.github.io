@@ -73,6 +73,8 @@ Turning away from her, he closed his eyes and tried her suggestion.
 
 After a while, he got it right. He was able to make the mana flow to some parts of his body where it normally didn’t reach.
 
+<div data-nat="424166"></div>
+
 ‘She said something about the eyes’ He thought and channeled the mana into his eyes. And his vision was covered in many different colors, even as his eyes were closed. It looked like an artwork. It faintly traced out real objects in some places but wasn’t it enough for him to get a full grasp of his surroundings as he couldn’t understand what he was seeing. He opened his eyes and saw how the colors interacted with the world around him – it was beautiful. Then he turned around and saw Eden, but she looked different. She still had her regular expression, but there was massive deep blue around her; like it was supposed to be an aura, but it was too much. It made her look divine, like a being out of this world. He couldn’t but stare in awe. Her lips seemed to move, but he couldn’t make out the words she was saying, he was just captured by the moment. It looked too beautiful to exist, and her in the picture just made it look like it was out of a fairy tale. With a facepalm, she muttered something again and the blue hue around her died down and became very small, just like a highlight around her figure and barely visible. This brought him back into the real world.
 “Ah, sorry I forgot to control how much magical energy I was letting leak out into the surroundings,” she said, with a look as if she was in thought.
 

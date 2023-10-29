@@ -30,7 +30,6 @@ Tl: Sam
 
 "What a subtle reaction!　My future plan is perfect, isn't it?"
 
-<div data-nat="424166"></div>
 
 "I'm sorry, Reiyu, but being a dungeon distributor is not such an easy job."
 
@@ -85,14 +84,14 @@ Ah, Yeah, you have a point. If you work 350 hours of overtime a month in the dun
 
 "I see. ...... but that guild is terrible!　It's better to destroy it as soon as possible!"
 
+<div data-nat="424166"></div>
+
 "Don't worry Reiyu. The Black Dog Guild that Shachiken was in has already been shut down and its president has already been caught. He's been charged with a lot of other crimes, so he won't be able to come out for a while."
 
 "That's great"
 
 "Yeah. On the other hand, Shachiken seems to be on a roll these days. His suscriber count has exceeded 10 million and he is becoming the most famous individual in Japan. There are rumors that he is planning to start a new guild." (
 TL: Gossip spreads wayy too fast)
-
-<div data-nat="424166"></div>
 
 "That's awesome!　I wonder if I can be a part of it?"
 

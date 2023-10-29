@@ -83,6 +83,8 @@ he read it aloud
 "One who guards the gates of the beyond   
 Open in this wall, a door for this one to seek wisdom"
 
+<div data-nat="424166"></div>
+
 On reading it, the letters started releasing a light. At first, it was so faint that he could barely notice, but it continued growing brighter and stronger. He took a couple of steps back from the fireplace as the light continued glowing until it engulfed the whole fireplace in a blinding light - his eyes shut instinctively.    
 His eyelids finally opened sometime after the light had died down. But instead of a fireplace, what he saw was a door. Taking a gulp, he reached for the doorknob; but on turning it, his vision suddenly warped and he was in a different place. It was like an office.  There was a fridge, a table, and a chair that was facing the opposite wall. and from where the chair was, an unfamiliar voice spoke to him words that would change his life forever, and in quite the cheerful manner.
 

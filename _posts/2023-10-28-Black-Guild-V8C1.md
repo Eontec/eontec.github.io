@@ -19,7 +19,6 @@ Tl: Sam
 　I gave my usual greeting to the drone floating in the air and began the dungeon delivery.   
 　Thanks in part to the advance notice, the number of viewers grew rapidly.
 
-<div data-nat="424166"></div>
 
 「He's here!」   
 「I've been waiting for you.」   
@@ -52,7 +51,6 @@ Tl: Sam
 
 "Well, I have a report to make to you all, and I will make it before we dive into the dungeon."
 
-  <div data-nat="424166"></div>
 
 「What?」   
 「I'm so excited!」   
@@ -92,6 +90,8 @@ Tl: Sam
 
 "I'm going to take the position of president, but I'm not going to change the content of my activities. Rest assured that I will continue to stream. There are two employees at the moment, myself and a friend, and we have no plans to recruit at this time. But we may recruit if we need to in the future."
 
+  <div data-nat="424166"></div>
+  
 「Understood.」   
 「I see.」   
 「You'll keep streaming. Good.」   
@@ -135,7 +135,6 @@ Tl: Sam
 「A new wind is blowing in the industry.」   
 「I'm rooting for you.」
 
-<div data-nat="424166"></div>
 
 　Having said everything I had planned to say, I heaved a sigh.   
 　We now had five million viewers, many of whom were foreigners. That's enough publicity for both domestic and international audiences.   
