@@ -85,5 +85,5 @@ Tl Note: I've corrected the Volume numbers with this release, I'll try to get ev
 
 
 
-##### [Previous Chapter]({% link _posts/2023-10-25-Black-Guild-V8C1.md %}) \| [Next Chapter]({% link _posts/2023-10-29-Black-Guild-V8C3.md %})
+##### [Previous Chapter]({% link _posts/2023-10-28-Black-Guild-V8C1.md %}) \| [Next Chapter]({% link _posts/2023-10-29-Black-Guild-V8C3.md %})
 
