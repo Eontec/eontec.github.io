@@ -52,6 +52,8 @@ Tl: Sam
 
 "Well, I have a report to make to you all, and I will make it before we dive into the dungeon."
 
+  <div data-nat="424150"></div>
+
 「What?」   
 「I'm so excited!」   
 「No way. ......」   
@@ -168,5 +170,3 @@ Tl Note: I've corrected the Volume numbers with this release, I'll try to get ev
 
 ##### [Previous Chapter]({% link _posts/2023-10-25-Black-Guild-V7Extra1.md %}) \| [Next Chapter]
 
-<div id="container-aaae9f1061c7c37f010177a79ad54f13"></div>
-<div data-nat="424150"></div>
