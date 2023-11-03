@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-10-29-Black-Guild-V8C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-10-29-Black-Guild-V8C2.md %}) \| [Next Chapter]({% link _posts/2023-11-03-Black-Guild-V8C4.md %})
 
 
 
@@ -141,5 +141,5 @@ The first one to bare its fangs.
 Tl Note: Two Chapters today instead of 1, I'll post another chapter later in the week. If you look around the site, you'llnotice some ads; I've tried to make the annoyance as little as possible. You'll see 2 popups per page or per 2 minuites, just close them and continue reading, Then there's one ad in the middle of the chapters, and the ads at athe bottom.
 
 
-##### [Previous Chapter]({% link _posts/2023-10-29-Black-Guild-V8C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-10-29-Black-Guild-V8C2.md %}) \| [Next Chapter]({% link _posts/2023-11-03-Black-Guild-V8C4.md %})
 
