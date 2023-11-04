@@ -200,6 +200,11 @@ I'll have to make her stronger so she doesn't get hurt.
 "Yes!"
 
 
+.....
+
+Tl Note: Hi guys, I’m the new assistant to sam-sama.   
+My translations aren’t as good as his, so please bear with me, yoroshiku Onegaismasu.
+(Sam: Yeah, but His work is okay, and I'm barely editing it, to pay no mind)
 
 
 ##### [Previous Chapter]({% link _posts/2023-09-13-Silver-Castle-V2C13.md %}) \| [Next Chapter] 
