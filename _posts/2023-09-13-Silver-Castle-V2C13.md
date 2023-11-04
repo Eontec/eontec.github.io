@@ -5,7 +5,7 @@ category: silver castle
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-09-11-Silver-Castle-V2C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-11-Silver-Castle-V2C12.md %}) \| [Next Chapter]({% link _posts/2023-11-04-Silver-Castle-V2C14.md %})
 
 
 
@@ -280,4 +280,4 @@ I went from being a troublesome outsider to being treated like a hero all at onc
 
 
 
-##### [Previous Chapter]({% link _posts/2023-09-11-Silver-Castle-V2C12.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-09-11-Silver-Castle-V2C12.md %}) \| [Next Chapter]({% link _posts/2023-11-04-Silver-Castle-V2C14.md %})
