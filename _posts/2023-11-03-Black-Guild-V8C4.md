@@ -5,7 +5,8 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-10-29-Black-Guild-V8C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-10-29-Black-Guild-V8C3.md %}) \| [Next Chapter]({% link _posts/2023-12-03-Black-Guild-V8C5.md %})
+
 
 
 
@@ -139,5 +140,5 @@ It would be easier to understand if I say that it resembled a HDD hard disk driv
 
 
 
-##### [Previous Chapter]({% link _posts/2023-10-29-Black-Guild-V8C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-10-29-Black-Guild-V8C3.md %}) \| [Next Chapter]({% link _posts/2023-12-03-Black-Guild-V8C5.md %})
 
