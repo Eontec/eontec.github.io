@@ -22,6 +22,7 @@ Tl: Sam
 「Oops!」   
 「Ororororo」   
 「Fun!」   
+<!---more-->
 「You guys need to work on your semicircular canals more ...... uppu.」   
 「So many soft guys, is this your first time here?」   
 「You guys need to work on your semicircular canals lol.」
@@ -166,6 +167,8 @@ It has a hard body and high vitality. It is indeed a dragon.
 　I thought it was water falling from above, but it was not. I looked back in wonder.
 
 　There, I saw a mysterious life form that had emerged from the ...... subterranean lake to the surface.
+
+  <div data-nat="424166"></div>
 
 "............"
 
