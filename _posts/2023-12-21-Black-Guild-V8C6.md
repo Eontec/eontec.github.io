@@ -112,5 +112,5 @@ Government Note: No cases found.
 
 
 
-##### [Previous Chapter]({% link _posts/2023-12-03-Black-Guild-V8C4.md %}) \| [Next Chapter]({% link _posts/2023-12-21-Black-Guild-V8C7.md %})
+##### [Previous Chapter]({% link _posts/2023-12-03-Black-Guild-V8C5.md %}) \| [Next Chapter]({% link _posts/2023-12-21-Black-Guild-V8C7.md %})
 
