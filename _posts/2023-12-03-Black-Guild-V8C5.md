@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-11-03-Black-Guild-V8C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-11-03-Black-Guild-V8C4.md %}) \| [Next Chapter]({% link _posts/2023-12-21-Black-Guild-V8C6.md %})
 
 
 
@@ -206,13 +206,15 @@ It has a hard body and high vitality. It is indeed a dragon.
 
 "Nice ......, I'm going to get my first good workout in a while."
 
-　Without drawing my sword, I approached the fisherman with my fists clanging.
+　Without drawing my sword, I approached the fishman with my fists clanging.
 
+
+.....
 
 
 TL Note: Heyy Everyone, so I decided tpo actuelly work on a chapter instead of just doing an announcement post. Sorry for the silence, I've been busy with schoolwork for the past month(Yes, It's exactly one month since my last post). Well, no one asked me to study engineering, Might as well suffer it, My exams start this week and will run till the 19th. I'll make a big comeback by then.
 
 
 
-##### [Previous Chapter]({% link _posts/2023-11-03-Black-Guild-V8C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-11-03-Black-Guild-V8C4.md %}) \| [Next Chapter]({% link _posts/2023-12-21-Black-Guild-V8C6.md %})
 
