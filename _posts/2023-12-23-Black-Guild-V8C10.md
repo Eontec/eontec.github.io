@@ -3,7 +3,7 @@ layout: post
 title: "BG - Volume 8 Chapter 10: Tanaka Makes A Decision"
 category: black guild
 comments: true
-date: 2023-12-23 21:32:02 +0100
+date: 2023-12-23 21:00:02 +0100
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-12-23-Black-Guild-V8C9.md %}) \| [Next Chapter]
