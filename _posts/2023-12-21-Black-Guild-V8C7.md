@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-12-21-Black-Guild-V8C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-12-21-Black-Guild-V8C6.md %}) \| [Next Chapter]({% link _posts/2023-12-23-Black-Guild-V8C8.md %})
 
 
 
@@ -145,5 +145,5 @@ Tl: Sam
 Tl Note: I'm back people, for real this time, I'm back home and releases will continue after today, Would have given more chapters, but i don't want to release after midnight. Happy holidays.
 
 
-##### [Previous Chapter]({% link _posts/2023-12-21-Black-Guild-V8C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-12-21-Black-Guild-V8C6.md %}) \| [Next Chapter]({% link _posts/2023-12-23-Black-Guild-V8C8.md %})
 
