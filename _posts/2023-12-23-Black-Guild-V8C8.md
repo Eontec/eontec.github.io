@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-12-21-Black-Guild-V8C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-12-21-Black-Guild-V8C7.md %}) \| [Next Chapter]({% link _posts/2023-12-23-Black-Guild-V8C9.md %})
 
 
 
@@ -110,5 +110,5 @@ Tl Note: Isekai Route has been compplete. If I wasn't so tired, I'd have done th
 
 
 
-##### [Previous Chapter]({% link _posts/2023-12-21-Black-Guild-V8C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-12-21-Black-Guild-V8C7.md %}) \| [Next Chapter]({% link _posts/2023-12-23-Black-Guild-V8C9.md %})
 
