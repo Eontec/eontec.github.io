@@ -96,7 +96,7 @@ Tl: Sam
 
 Tl Note: Guys, It's four chapter day, Becauce of Christmas(OG's will say it's just a regular day from back then). I would have done more chapters, but I'm very close to the author, and There's still A week Left in the year.
 So We have our Isekai, And even an elf...
-Support me on Patreon, It'll go a long way of me on upgrading my pc, and/or being able to visit my very close friend next year.
+Support me on Patreon, or just click on an ad, that works too It'll go a long way of me on upgrading my pc, and/or being able to visit my very close friend next year.
 
 Merry Christmas!!!
 
