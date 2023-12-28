@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2023-12-24-Black-Guild-V8C13.md %}) \| [Next Chapter]({% link _posts/2023-12-28-Black-Guild-V8C14.md %})
+##### [Previous Chapter]({% link _posts/2023-12-24-Black-Guild-V8C13.md %}) \| [Next Chapter]({% link _posts/2023-12-28-Black-Guild-V8C15.md %})
 
 
 Tl: Sam
@@ -100,5 +100,5 @@ Support me on Patreon, or just click on an ad, that works too It'll go a long wa
 
 Merry Christmas!!!
 
-##### [Previous Chapter]({% link _posts/2023-12-24-Black-Guild-V8C13.md %}) \| [Next Chapter]({% link _posts/2023-12-28-Black-Guild-V8C14.md %})
+##### [Previous Chapter]({% link _posts/2023-12-24-Black-Guild-V8C13.md %}) \| [Next Chapter]({% link _posts/2023-12-28-Black-Guild-V8C15.md %})
 
