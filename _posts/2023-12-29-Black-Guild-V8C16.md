@@ -130,5 +130,5 @@ Tl: Sam
 
 
 
-##### [Previous Chapter]({% link _posts/2023-12-24-Black-Guild-V8C15.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2023-12-28-Black-Guild-V8C15.md %}) \| [Next Chapter]
 
