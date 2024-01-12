@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-01-Black-Guild-V8C17.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-01-Black-Guild-V8C17.md %}) \| [Next Chapter]({% link _posts/2024-01-12-Black-Guild-V8C19.md %})
 
 
 
@@ -154,5 +154,5 @@ Tl: Sam
 Tl Note: Hapy New Year Everyone, This Little project of mine is now a few months old, and I have to say, I'm very proud of the fact that the site is still running, I'll make an anctual New Years post, And LInk it Here once it's up. Thanks to all the commenters and supporotes that are still here.
 
 
-##### [Previous Chapter]({% link _posts/2024-01-01-Black-Guild-V8C17.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-01-Black-Guild-V8C17.md %}) \| [Next Chapter]({% link _posts/2024-01-12-Black-Guild-V8C19.md %})
 
