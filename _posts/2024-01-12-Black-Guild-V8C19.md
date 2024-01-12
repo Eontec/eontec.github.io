@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-01-Black-Guild-V8C18.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-01-Black-Guild-V8C18.md %}) \| [Next Chapter]({% link _posts/2024-01-12-Black-Guild-V8C20.md %})
 
 
 
@@ -189,5 +189,5 @@ Reservations have started on mail order sites, etc., so we would be happy if you
 Tl Note: I'm back for the year, I've had this chapter down for a while, but had to reinstall my windows, along side some stuff, so I couldn't post till now, but now I'm back.
 I checked my site analytics and this novel is doing a lot better than I would have ever expected, considering I didn't post anything. Thank you all that contributed to that, If we keep going this way, we might go back to the glory days, like a few months back. I'll post another 1 or two chapters later today,(I already have one down, just delaying the post for visibility reasons). Happy New year again, and have a great year. 
 
-##### [Previous Chapter]({% link _posts/2024-01-01-Black-Guild-V8C18.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-01-Black-Guild-V8C18.md %}) \| [Next Chapter]({% link _posts/2024-01-12-Black-Guild-V8C20.md %})
 
