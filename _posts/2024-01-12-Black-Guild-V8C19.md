@@ -23,7 +23,7 @@ Tl: Sam
 「It's about time.」    
 「You've got to deal with Lucifer-kun.」
 <!--more-->
-
+  
 "So much for showing some leeway. Black Dawn"
 
 　Lucifer held up his hand, and a storm of black magic power erupted, blowing Tanaka out of the space.      

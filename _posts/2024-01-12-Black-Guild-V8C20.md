@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-12-Black-Guild-V8C19.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-12-Black-Guild-V8C19.md %}) \| [Next Chapter]({% link _posts/2024-01-13-Black-Guild-V8C21.md %}) 
 
 
 Tl: Sam
@@ -118,5 +118,5 @@ Tl Note: OKay Guys, second and last chapter today. I forgot my laptop charger, s
 Also I'm planning on looking into game development this year, any help, resources or interest, you can just comment here, or use the contact me form
 
 
-##### [Previous Chapter]({% link _posts/2024-01-12-Black-Guild-V8C19.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-12-Black-Guild-V8C19.md %}) \| [Next Chapter]({% link _posts/2024-01-13-Black-Guild-V8C21.md %}) 
 
