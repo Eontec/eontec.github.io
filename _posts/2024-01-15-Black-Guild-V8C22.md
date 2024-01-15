@@ -5,7 +5,8 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-13-Black-Guild-V8C21.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-13-Black-Guild-V8C21.md %}) \| [Next Chapter]({% link _posts/2024-01-15-Black-Guild-V8C23.md %})
+
 
 
 Tl: Sam
@@ -120,5 +121,5 @@ TL Note: Extra Chapters coming up, because I couldn't translate yesterday.
 If you like my translations, consider Supportting me on Patreon, or click on an ad. 
 
 
-##### [Previous Chapter]({% link _posts/2024-01-13-Black-Guild-V8C21.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-13-Black-Guild-V8C21.md %}) \| [Next Chapter]({% link _posts/2024-01-15-Black-Guild-V8C23.md %})
 
