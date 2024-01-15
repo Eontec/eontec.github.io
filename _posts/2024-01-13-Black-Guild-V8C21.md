@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-12-Black-Guild-V8C20.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-12-Black-Guild-V8C20.md %}) \| [Next Chapter]({% link _posts/2024-01-15-Black-Guild-V8C22.md %})
 
 
 Tl: Sam
@@ -157,5 +157,5 @@ He also remembered the strong pain all over his body due to the side effects of 
 
 
 
-##### [Previous Chapter]({% link _posts/2024-01-12-Black-Guild-V8C20.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-12-Black-Guild-V8C20.md %}) \| [Next Chapter]({% link _posts/2024-01-15-Black-Guild-V8C22.md %})
 
