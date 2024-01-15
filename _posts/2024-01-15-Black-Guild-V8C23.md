@@ -180,7 +180,7 @@ Thank you for your cooperation!
 .......
 
 
-TL Note: I'm probably going to take up these mini novels on my patreon, I'll post them here with some delay though, so yeah. The stories we've all been waiting for are here, I don't really care about the Hoshino novel tho, but I'l translate it for you guys
+TL Note: I'm probably going to take up these mini novels on my patreon, I'll post them here with some delay though, so yeah. The stories we've all been waiting for are here, I don't really care about the Hoshino novel tho, but I'l translate it for you guys. First I have to find a way to buy the book
 
 
 
