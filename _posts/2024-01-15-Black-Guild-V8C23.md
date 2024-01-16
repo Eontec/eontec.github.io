@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-15-Black-Guild-V8C22.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-15-Black-Guild-V8C22.md %}) \| [Next Chapter]({% link _posts/2024-01-16-Black-Guild-V8C24.md %})
 
 
 Tl: Sam
@@ -184,5 +184,5 @@ TL Note: I'm probably going to take up these mini novels on my patreon, I'll pos
 
 
 
-##### [Previous Chapter]({% link _posts/2024-01-15-Black-Guild-V8C22.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-15-Black-Guild-V8C22.md %}) \| [Next Chapter]({% link _posts/2024-01-16-Black-Guild-V8C24.md %})
 
