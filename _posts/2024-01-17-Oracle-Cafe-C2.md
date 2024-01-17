@@ -116,6 +116,8 @@ My mother did not get angry, although her tone unintentionally became dissatisfi
 "I heard she was looking forward to coming with Mr Lutger again today."
 ...... I see..."
 
+<div data-nat="424166"></div>
+
 When I heard this, for the first time my heart ached.
 I felt like I could now have feelings other than bewilderment at Grandpa's death.
 
