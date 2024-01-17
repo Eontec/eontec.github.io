@@ -25,6 +25,7 @@ But I never had a chance to see Grandpa working as an oracle until the very end.
 I never had the chance to see him work as an oracle. I mean, did he ever do that even once?     
 It's doubtful from there. However, I heard that the oracle qualification itself is an official qualification     
 I heard that the oracle's qualification itself is an official one from the state. It's not that I had any doubts.
+<!--more-->
 
 It's just that the job of an oracle was outdated...
 
