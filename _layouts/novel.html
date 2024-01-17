@@ -4,6 +4,12 @@ layout: default
 
 <h1 class="postTitle">{{ page.name }}</h1>
 
+{%- if page.image -%}
+<div class="featuredImage">
+    <img src="{{ '/assets/img/' | append: page.image }}" alt="" />
+  </div>
+{%- endif -%}
+
 <h6>Author: {{ page.author }}</h6>
 
 <p><br><br><br></p>
