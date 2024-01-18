@@ -5,7 +5,7 @@ category: oracle cafe
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-17-Oracle-Cafe-C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-17-Oracle-Cafe-C1.md %}) \| [Next Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C3.md %})
 
 
 Tl: Sam
@@ -162,4 +162,4 @@ TL Note: I Love this novel so much. With so little, it has managed to send such 
 
 
 
-##### [Previous Chapter]({% link _posts/2024-01-17-Oracle-Cafe-C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-17-Oracle-Cafe-C1.md %}) \| [Next Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C3.md %})
