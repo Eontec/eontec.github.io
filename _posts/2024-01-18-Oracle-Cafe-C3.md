@@ -5,7 +5,7 @@ category: oracle cafe
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-17-Oracle-Cafe-C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-17-Oracle-Cafe-C2.md %}) \| [Next Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C4.md %})
 
 
 
@@ -120,4 +120,4 @@ I'll make it happen.
 
 
 
-##### [Previous Chapter]({% link _posts/2024-01-17-Oracle-Cafe-C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-17-Oracle-Cafe-C2.md %}) \| [Next Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C4.md %})
