@@ -165,5 +165,10 @@ This is what we call our determination.
 
 
 
+......
+
+
+_Read Advanced chapters on Patreon_
+
 
 ##### [Previous Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C4.md %}) \| [Next Chapter]
