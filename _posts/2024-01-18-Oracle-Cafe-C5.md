@@ -168,7 +168,7 @@ This is what we call our determination.
 ......
 
 
-_Read Advanced chapters on Patreon_
+_Read Advanced chapters on [Patreon]( https://www.patreon.com/bePatron?u=90469752 )_
 
 
 ##### [Previous Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C4.md %}) \| [Next Chapter]
