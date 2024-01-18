@@ -5,7 +5,7 @@ category: oracle cafe
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C3.md %}) \| [Next Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C5.md %})
 
 
 
@@ -203,4 +203,4 @@ The words of the pronouncement rang in my ears with cruel clarity.
 
 
 
-##### [Previous Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C3.md %}) \| [Next Chapter]({% link _posts/2024-01-18-Oracle-Cafe-C5.md %})
