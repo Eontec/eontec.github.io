@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OC - Chapter 2: The Oracle Grandpa"
+title: "OC - Chapter 3: Me, Nemil and Grandpa"
 category: oracle cafe
 comments: true
 ---
