@@ -5,7 +5,7 @@ category: oracle cafe
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-209-Oracle-Cafe-C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-20-Oracle-Cafe-C7.md %}) \| [Next Chapter]
 
 
 
