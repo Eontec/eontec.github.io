@@ -5,7 +5,7 @@ category: oracle cafe
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-19-Oracle-Cafe-C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-19-Oracle-Cafe-C6.md %}) \| [Next Chapter]({% link _posts/2024-01-21-Oracle-Cafe-C8.md %})
 
 
 
@@ -205,4 +205,4 @@ It was an afternoon when the birds chirping in the garden sounded strangely clea
 _Read Advanced chapters on [Patreon]( https://www.patreon.com/bePatron?u=90469752 )_
 
 
-##### [Previous Chapter]({% link _posts/2024-01-19-Oracle-Cafe-C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-19-Oracle-Cafe-C6.md %}) \| [Next Chapter]({% link _posts/2024-01-21-Oracle-Cafe-C8.md %})
