@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-15-Black-Guild-V8C23.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-15-Black-Guild-V8C23.md %}) \| [Next Chapter]({% link _posts/2024-01-21-Black-Guild-V8C25.md %})
 
 
 Tl: Sam
@@ -163,5 +163,5 @@ TL Note: I just checked my Google Search metrics, and Turns out I've finally cla
 
 
 
-##### [Previous Chapter]({% link _posts/2024-01-15-Black-Guild-V8C23.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-15-Black-Guild-V8C23.md %}) \| [Next Chapter]({% link _posts/2024-01-21-Black-Guild-V8C25.md %})
 
