@@ -5,7 +5,7 @@ category: oracle cafe
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-21-Oracle-Cafe-C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-21-Oracle-Cafe-C8.md %}) \| [Next Chapter]({% link _posts/2024-01-22-Oracle-Cafe-C10.md %})
 
 
 
@@ -222,4 +222,5 @@ The silence outside the window was deafening at this moment.
 _Read Advanced chapters on [Patreon]( https://www.patreon.com/bePatron?u=90469752 )_
 
 
-##### [Previous Chapter]({% link _posts/2024-01-21-Oracle-Cafe-C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-21-Oracle-Cafe-C8.md %}) \| [Next Chapter]({% link _posts/2024-01-22-Oracle-Cafe-C10.md %})
+
