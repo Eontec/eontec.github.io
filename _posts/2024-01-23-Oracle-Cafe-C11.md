@@ -5,7 +5,7 @@ category: oracle cafe
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-22-Oracle-Cafe-C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-22-Oracle-Cafe-C10.md %}) \| [Next Chapter]({% link _posts/2024-01-26-Oracle-Cafe-C12.md %})
 
 
 
@@ -180,4 +180,4 @@ I knew that the most important thing right now was to talk to this person.
 _Read Advanced chapters on [Patreon]( https://www.patreon.com/bePatron?u=90469752 )_
 
 
-##### [Previous Chapter]({% link _posts/2024-01-22-Oracle-Cafe-C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-22-Oracle-Cafe-C10.md %}) \| [Next Chapter]({% link _posts/2024-01-26-Oracle-Cafe-C12.md %})
