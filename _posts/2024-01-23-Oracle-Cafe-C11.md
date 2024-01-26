@@ -177,6 +177,8 @@ I knew that the most important thing right now was to talk to this person.
 ......
 
 
+Tl Note: Sorry for the break in uploads, I was pepareing for a presentetion I had yesterdy morning. I had to stay up all night, but I was able to get it done. I did very wel, and I'm really proud of myself. After class, I pretty much slept till the next day. So Yeah, chapter today. I'll be able to ge more work done tommorow, and I'll probaly post multiple chapters
+
 _Read Advanced chapters on [Patreon]( https://www.patreon.com/bePatron?u=90469752 )_
 
 
