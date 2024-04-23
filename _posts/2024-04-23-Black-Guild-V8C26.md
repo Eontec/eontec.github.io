@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 8 Chapter 25: Tanaka Gets Stranded"
+title: "BG - Volume 8 Chapter 26: Tanaka Fights The Government"
 category: black guild
 comments: true
 ---
