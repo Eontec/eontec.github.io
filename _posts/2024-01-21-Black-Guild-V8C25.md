@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-01-16-Black-Guild-V8C24.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-16-Black-Guild-V8C24.md %}) \| [Next Chapter]({% link _posts/2024-04-23-Black-Guild-V8C25.md %})
 
 
 Tl: Sam
@@ -106,5 +106,5 @@ Okay, okay. I trust Tanaka."
 Tl Note: Author posted new chpter yesterday, but I translated it today cuz, I was occupied theoughout yesterday. Also Check out [the new novel I picked up]({% link _novels/Oracle_cafe.md %}). It's movin quite slowly, but I promise it'll be worth it. Also Consider checking out the etra chapters on [Patreon]( https://www.patreon.com/bePatron?u=90469752 ) if you feel like.
 Let's get the numbers up for the new novel. Also, if i get any donations at all above $25, I'll continue my original novel and post it on here.
 
-##### [Previous Chapter]({% link _posts/2024-01-16-Black-Guild-V8C24.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-01-16-Black-Guild-V8C24.md %}) \| [Next Chapter]({% link _posts/2024-04-23-Black-Guild-V8C25.md %})
 
