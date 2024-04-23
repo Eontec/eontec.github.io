@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 8 Chapter 24: Tanaka Escapes"
+title: "BG - Volume 8 Chapter 24: Tanaka Gets Stranded"
 category: black guild
 comments: true
 ---
