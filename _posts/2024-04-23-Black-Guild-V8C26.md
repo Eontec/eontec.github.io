@@ -27,6 +27,7 @@ I am sure you are right. Our ancestors were the ["Oniwabanshu"]( https://en.wiki
 
 　Wow, I didn't realize they really were NINJA.    
 　The foreign viewers would have gone crazy if they had been on the delivery. The delivery must have stopped because they must have jammed it in some way. So the modern NINJA can use high technology too.
+<!--more-->
 
 "---- Ha!"
 
