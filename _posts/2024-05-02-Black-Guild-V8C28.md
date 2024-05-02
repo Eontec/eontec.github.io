@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 8 Chapter 28: Tanaka REturns"
+title: "BG - Volume 8 Chapter 28: Tanaka Returns"
 category: black guild
 comments: true
 ---
