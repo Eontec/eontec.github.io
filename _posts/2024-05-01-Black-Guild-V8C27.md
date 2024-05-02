@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-04-23-Black-Guild-V8C26.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-04-23-Black-Guild-V8C26.md %}) \| [Next Chapter]({% link _posts/2024-05-02-Black-Guild-V8C28.md %})
 
 
 
@@ -97,5 +97,5 @@ I did what I had to do. I'm sorry for all the trouble you've been going through 
 
 
 
-##### [Previous Chapter]({% link _posts/2024-04-23-Black-Guild-V8C26.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-04-23-Black-Guild-V8C26.md %}) \| [Next Chapter]({% link _posts/2024-05-02-Black-Guild-V8C28.md %})
 
