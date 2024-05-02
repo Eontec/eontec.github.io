@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 8 Chapter 26: Tanaka Gets Helped"
+title: "BG - Volume 8 Chapter 27: Tanaka Gets Helped"
 category: black guild
 comments: true
 ---
