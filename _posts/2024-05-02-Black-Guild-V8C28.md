@@ -20,6 +20,7 @@ Tl: Sam
 　The amount of people waiting for us to leave the dungeon is always great, but today it was even greater. Dozens of awakened guards were holding them back, but it looked like it was going to collapse at any moment.      
 　
 Well, today there are two otherworldly people and the delivery got cut off in the middle. I guess people who were curious came rushing in.
+<!--more-->
 
 "Hey!　Shachiken's coming out!”       
 "Seriously?　Welcome back!"     
