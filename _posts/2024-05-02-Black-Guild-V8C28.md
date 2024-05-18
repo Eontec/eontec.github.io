@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-05-01-Black-Guild-V8C27.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-05-01-Black-Guild-V8C27.md %}) \| [Next Chapter]({% link _posts/2024-05-18-Black-Guild-V8C28.md %})
 
 
 
@@ -106,5 +106,5 @@ Every country would love to hear from her. Is it any wonder that the bigwigs got
 　Fed up with the horribly packed schedule, I left the room with Mr. Dojima.
 
 
-##### [Previous Chapter]({% link _posts/2024-05-01-Black-Guild-V8C27.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-05-01-Black-Guild-V8C27.md %}) \| [Next Chapter]({% link _posts/2024-05-18-Black-Guild-V8C28.md %})
 
