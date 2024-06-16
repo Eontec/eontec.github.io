@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 8 Chapter 29: Tanaka Tries To Go Home"
+title: "BG - Volume 8 Chapter 30: Princess Stream"
 category: black guild
 comments: true
 ---
