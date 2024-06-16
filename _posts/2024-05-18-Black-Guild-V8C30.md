@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-05-02-Black-Guild-V8C28.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-05-02-Black-Guild-V8C28.md %}) \| [Next Chapter]({% link _posts/2024-06-16-Black-Guild-V8C30.md %})
 
 
 
@@ -111,5 +111,5 @@ Living under one roof sounds like a romantic comedy."
 
 
 
-##### [Previous Chapter]({% link _posts/2024-05-02-Black-Guild-V8C28.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-05-02-Black-Guild-V8C28.md %}) \| [Next Chapter]({% link _posts/2024-06-16-Black-Guild-V8C30.md %})
 
