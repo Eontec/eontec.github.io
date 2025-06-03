@@ -54,6 +54,9 @@ navigation:
       url: /about
     - title: Novels
       url: /novels
+    - title: Resume
+      url: /resume.html
+      
 
 markdown: kramdown
 highlighter: rouge
