@@ -48,6 +48,8 @@ Tl: Sam
 "I'm sure you understand who we are, don't you?　The Ministry of Monster Control is not that valuable to those otherworldly people. I don't think it's wise to antagonize them with trivial chivalry.”     
 “I received a message from Minister Dojima saying, 'Come here a day before' The Ministry of Monster Control will be responsible for the custody of the two individuals. We will share the information we have obtained with the government without concealment. If you understand, then go home.”
 
+<div data-nat="424166"></div>
+
 　As Amatsuki said this, the ice covering their feet instantly melted.     
 　However, they did not let their guard down yet, and their bodies are still releasing strong magical elements. It seemed as if they would be able to release the magic they had just used right away.
 

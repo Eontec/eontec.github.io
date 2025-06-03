@@ -60,6 +60,8 @@ Well, today there are two otherworldly people and the delivery got cut off in th
 "What is this iron box, brother?　It's a strange shape for a carriage."      
 “Oh, this chair is so soft ......!　It started shaking, Tanaka!　What's going on?"
 
+<div data-nat="424166"></div>
+
 　The two otherworlders were having fun with their first reactions to the car. Apparently, science hasn't developed in the other world.          
 　The two of them were reacting as if they were time slips from the past, I closed my eyes in the car and took a rest for the first time in a long time.
 

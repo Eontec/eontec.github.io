@@ -94,6 +94,8 @@ Even if the other party is from the government, it is even more so.
 　While the opponent was puzzled, I slice off the tip of the spear with my hand.     
 　Then, I firmly grasp the neck of the man who is holding just a stick with my right hand. The guy tries to let go of the stick and force my hand off, but I'm putting so much force into it that I can't get it off.   
 
+<div data-nat="424166"></div>
+
 　Okay, that's it, I'm in control.    
 　I look at him and speak,
 
