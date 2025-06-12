@@ -25,6 +25,8 @@ description: >- # this means to ignore newlines until "url:"
 
 url: https://eontek.me
 
+author: Sam
+
 permalink: none
 
 sass:
