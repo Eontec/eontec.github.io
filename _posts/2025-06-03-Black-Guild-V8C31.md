@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2024-06-16-Black-Guild-V8C30.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-06-16-Black-Guild-V8C30.md %}) \| [Next Chapter]({% link _posts/2025-06-12-Black-Guild-V8C32.md %})
 
 
 
@@ -66,6 +66,7 @@ Since the birth of dungeons, the culture of marriage has become more casual than
 
 <div data-nat="424166"></div>
 
+
 "The most important thing for us elves is not beauty or ugliness, but the strength of our magic. Tanaka's magical power exceeds that of even the demon king Lucif. If he came to our country, all the female elves in the country would not leave him alone."
 
 　The magic power is probably the magical element in our world.  
@@ -95,4 +96,4 @@ Lilicia said strongly, her heart pounding in her chest.
 
 
 
-##### [Previous Chapter]({% link _posts/2024-06-16-Black-Guild-V8C30.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2024-06-16-Black-Guild-V8C30.md %}) \| [Next Chapter]({% link _posts/2025-06-12-Black-Guild-V8C32.md %})
