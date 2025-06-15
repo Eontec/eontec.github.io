@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-06-12-Black-Guild-V8C32.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-12-Black-Guild-V8C32.md %})  \| [Next Chapter]({% link _posts/2025-06-15-Black-Guild-V9C2.md %})
 
 
 
@@ -211,4 +211,4 @@ Tl Note: I'm not fully back yet, But in about a week's time, I'll have free time
 
 
 
-##### [Previous Chapter]({% link _posts/2025-06-12-Black-Guild-V8C32.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-12-Black-Guild-V8C32.md %}) \| [Next Chapter]({% link _posts/2025-06-15-Black-Guild-V9C2.md %})
