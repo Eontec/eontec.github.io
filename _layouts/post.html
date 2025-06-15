@@ -17,6 +17,10 @@ layout: default
   <div id="container-aaae9f1061c7c37f010177a79ad54f13"></div>
   <div data-nat="424150"></div>
 
+{%- if site.disqus.shortname -%}
+  {%- include disqus_comments.html -%}
+{%- endif -%}
+
   <!-- POST NAVIGATION -->
   <footer class="postNav clearfix">
     {%- if page.previous.url -%}
@@ -36,6 +40,5 @@ layout: default
   </footer>
 </article>
 
-{%- if site.disqus.shortname -%}
-  {%- include disqus_comments.html -%}
-{%- endif -%}
+
+
