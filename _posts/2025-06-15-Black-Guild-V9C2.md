@@ -26,12 +26,11 @@ Seriously, where did she even learn about marriage registration forms? I suspect
 
 Lilicia whined. When she's in public, she acts like a dignified princess, but in the office, she's like a big child. She's completely recognized this place as her own home.       
 That in itself makes me happy. It would be pitiful if she felt lonely and anxious ever since coming from another world.       
-However... dealing with her is not easy.     
+However... dealing with her is not easy.<!--more-->      
 If I were to say something like this on a stream or social media, her fans would probably go wild with jealousy and burn me at the stake.      
 
 "Why won't you marry me, Tanaka!"      
-"I've told you many times, haven't I? You and I just met. It’s too soon to get married. Besides, you don't even have a nationality yet. The city office wouldn't accept the marriage registration form even if you wrote it."<!--more-->
-
+"I've told you many times, haven't I? You and I just met. It’s too soon to get married. Besides, you don't even have a nationality yet. The city office wouldn't accept the marriage registration form even if you wrote it."
 I said, pointing at the marriage registration form she held.     
 In the name field, "Lilicia" was written in a clumsy hand. It seems she's still studying to write.
 
