@@ -31,6 +31,7 @@ If I were to say something like this on a stream or social media, her fans would
 
 "Why won't you marry me, Tanaka!"      
 "I've told you many times, haven't I? You and I just met. It’s too soon to get married. Besides, you don't even have a nationality yet. The city office wouldn't accept the marriage registration form even if you wrote it."
+
 I said, pointing at the marriage registration form she held.     
 In the name field, "Lilicia" was written in a clumsy hand. It seems she's still studying to write.
 
