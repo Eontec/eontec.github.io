@@ -38,6 +38,12 @@ layout: default
       </a>
     {%- endif -%}
   </footer>
+  <!--category-->>
+  <div class="postCategory">
+    {%- if page.category -%}
+      <span class="category">Category: </span>
+      <a href="{{ site.baseurl }}/category/{{ page.category | slugify }}">{{ page.category }}</a>
+    {%- endif -%}
 </article>
 
 
