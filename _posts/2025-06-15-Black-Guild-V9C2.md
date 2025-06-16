@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-06-12-Black-Guild-V9C1.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-12-Black-Guild-V9C1.md %})  \| [Next Chapter]({% link _posts/2025-06-16-Black-Guild-V9C3.md %})
 
 
 
@@ -119,4 +119,4 @@ I sighed, looking at the face of my former boss on the TV, a face I had thought 
 
 
 
-##### [Previous Chapter]({% link _posts/2025-06-12-Black-Guild-V9C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-12-Black-Guild-V9C1.md %}) \| [Next Chapter]({% link _posts/2025-06-16-Black-Guild-V9C3.md %})
