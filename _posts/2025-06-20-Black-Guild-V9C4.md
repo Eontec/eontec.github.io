@@ -88,6 +88,10 @@ Dangerous dungeons cannot be overlooked, and besides, the Ministry of Monster Co
 I answered Dojima-san, "Leave it to me," and accepted the job.
 
 
+....
+
+Tl Note: I'm finally home from school, and I can finally get back to translating. I'll try to make releases more stable from now on.
+
 
 
 
