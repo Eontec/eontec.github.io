@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-06-15-Black-Guild-V9C2.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-15-Black-Guild-V9C2.md %})  \| [Next Chapter]({% link _posts/2025-06-20-Black-Guild-V9C4.md %})
 
 
 
@@ -131,4 +131,4 @@ The masked man declared to Suda as they ran along their pre-determined escape ro
 
 
 
-##### [Previous Chapter]({% link _posts/2025-06-15-Black-Guild-V9C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-15-Black-Guild-V9C2.md %}) \| [Next Chapter]({% link _posts/2025-06-20-Black-Guild-V9C4.md %})
