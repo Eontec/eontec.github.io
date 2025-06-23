@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "BG - Volume 9 Chapter 2: Tanaka is Apologized to"
+title: "BG - Volume 9 Chapter 4: Tanaka is Apologized to"
 category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-06-16-Black-Guild-V9C3.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-16-Black-Guild-V9C3.md %})  \| [Next Chapter]({% link _posts/2025-06-23-Black-Guild-V9C5.md %}) 
 
 
 
@@ -95,4 +95,4 @@ Tl Note: I'm finally home from school, and I can finally get back to translating
 
 
 
-##### [Previous Chapter]({% link _posts/2025-06-16-Black-Guild-V9C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-16-Black-Guild-V9C3.md %}) \| [Next Chapter]({% link _posts/2025-06-23-Black-Guild-V9C5.md %})

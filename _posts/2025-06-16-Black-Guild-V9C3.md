@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 9 Chapter 2: Suda, Escorted"
+title: "BG - Volume 9 Chapter 3: Suda, Escorted"
 category: black guild
 comments: true
 ---
