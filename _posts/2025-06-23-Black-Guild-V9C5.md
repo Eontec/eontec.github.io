@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-06-20-Black-Guild-V9C4.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-20-Black-Guild-V9C4.md %})  \| [Next Chapter]({% link _posts/2025-06-23-Black-Guild-V9C6.md %})
 
 
 
@@ -102,4 +102,4 @@ I'm actually looking forward to it a little.
 
 
 
-##### [Previous Chapter]({% link _posts/2025-06-20-Black-Guild-V9C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-20-Black-Guild-V9C4.md %}) \| [Next Chapter]({% link _posts/2025-06-23-Black-Guild-V9C6.md %})
