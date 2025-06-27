@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-06-23-Black-Guild-V9C5.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-23-Black-Guild-V9C5.md %})  \| [Next Chapter]({% link _posts/2025-06-28-Black-Guild-V9C7.md %})
 
 
 
@@ -72,4 +72,4 @@ That's what I thought, but in the week leading up to our dive into the seabed du
 
 
 
-##### [Previous Chapter]({% link _posts/2025-06-23-Black-Guild-V9C5.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-23-Black-Guild-V9C5.md %}) \| [Next Chapter]({% link _posts/2025-06-28-Black-Guild-V9C7.md %})
