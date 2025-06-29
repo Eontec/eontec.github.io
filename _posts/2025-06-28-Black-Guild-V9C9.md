@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-06-28-Black-Guild-V9C8.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-28-Black-Guild-V9C8.md %})  \| [Next Chapter]({% link _posts/2025-06-29-Black-Guild-V9C10.md %})
 
 
 
@@ -121,4 +121,4 @@ Our destination is 200m below the surface. Let's finish this quickly and return 
 
 
 
-##### [Previous Chapter]({% link _posts/2025-06-28-Black-Guild-V9C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-28-Black-Guild-V9C8.md %}) \| [Next Chapter]({% link _posts/2025-06-29-Black-Guild-V9C10.md %})
