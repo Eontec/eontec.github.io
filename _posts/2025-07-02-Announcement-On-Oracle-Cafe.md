@@ -3,7 +3,7 @@ layout: post
 title: "Announcement On Oracle Cafe"
 category: announcement
 comments: true
-time: 2025-07-02 19:00:00 
+date: 2025-07-02 19:00:00 
 ---
 
 

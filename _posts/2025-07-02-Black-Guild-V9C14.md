@@ -3,7 +3,6 @@ layout: post
 title: "BG - Volume 9 Chapter 14: Tanaka Advances Through Dungeon"
 category: black guild
 comments: true
-time: 2025-07-02 10:00:00 
 ---
 
 ##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C13.md %})  \| [Next Chapter]({% link _posts/2025-07-02-Black-Guild-V9C15.md %})

@@ -3,7 +3,6 @@ layout: post
 title: "BG - Volume 9 Chapter 15: Tanaka Goes Fishing"
 category: black guild
 comments: true
-time: 2025-07-02 10:00:00 
 ---
 
 ##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C14.md %})  \| [Next Chapter]({% link _posts/2025-07-02-Black-Guild-V9C16.md %})  
