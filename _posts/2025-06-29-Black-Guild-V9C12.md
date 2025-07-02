@@ -5,9 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-06-29-Black-Guild-V9C11.md %})  \| [Next Chapter]
-
-
+##### [Previous Chapter]({% link _posts/2025-06-29-Black-Guild-V9C11.md %})  \| [Next Chapter]({% link _posts/2025-07-02-Black-Guild-V9C13.md %})
 
 
 
@@ -16,7 +14,9 @@ comments: true
 
 Tl: Sam
 
+
 …
+
 
 
 "It's surprisingly normal inside..."
@@ -75,6 +75,8 @@ Ignoring the fuming Dojima-san, I averted my gaze and saw Rin examining the wate
 "No, it's just that there are some marks on this sand."
 
 Looking closer, there indeed seemed to be marks of something large and flat moving across the sand. The marks continued into the water. It looked like a large creature had moved between land and water.
+
+<div data-nat="424166"></div>
 
 "Did a monster come out? It doesn't look like a monster disaster is happening."
 
@@ -156,4 +158,4 @@ Thank you for your support!(Tl: I’m very much behind with releases, maybe I’
 
 
 
-##### [Previous Chapter]({% link _posts/2025-06-29-Black-Guild-V9C11.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-06-29-Black-Guild-V9C11.md %}) \| [Next Chapter]({% link _posts/2025-07-02-Black-Guild-V9C13.md %})
