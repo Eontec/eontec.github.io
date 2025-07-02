@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C14.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C14.md %})  \| [Next Chapter]({% link _posts/2025-07-02-Black-Guild-V9C16.md %})  
 
 
 
@@ -107,4 +107,4 @@ I wasn't planning on competing, but I can't show a pathetic sight in front of Ri
 
 
 
-##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C14.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C14.md %}) \| [Next Chapter]({% link _posts/2025-07-02-Black-Guild-V9C16.md %}) 
