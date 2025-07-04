@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C15.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C15.md %})  \| [Next Chapter]({% link _posts/2025-07-04-Black-Guild-V9C17.md %})
 
 
 
@@ -185,4 +185,4 @@ Join the discord, It's somewhat easier to make announcements there, and I respon
 
 
 
-##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C15.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-02-Black-Guild-V9C15.md %}) \| [Next Chapter]({% link _posts/2025-07-04-Black-Guild-V9C17.md %})
