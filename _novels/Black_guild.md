@@ -55,7 +55,7 @@ On the other hand, the guild that banished Tanaka was on the verge of collapse.
         {%- endcomment -%}
         {%- assign volume_title = first_chapter.volume_title -%}
 
-        <h3>Volume {{ volume.name }}: {{ volume_title | default: " " }}</h3>
+        <h4>Volume {{ volume.name }}: {{ volume_title | default: " " }}</h4>
         <ul>
             {%- for post in chapters_sorted_by_number -%}
                 <li>
