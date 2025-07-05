@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 9 Chapter 1: Tanaka, Living a New Daily Life"
 category: black guild
 comments: true
+volume_title: "Tanaka Is Getting Married"
 ---
 
 ##### [Previous Chapter]({% link _posts/2025-06-12-Black-Guild-V8C32.md %})  \| [Next Chapter]({% link _posts/2025-06-15-Black-Guild-V9C2.md %})
