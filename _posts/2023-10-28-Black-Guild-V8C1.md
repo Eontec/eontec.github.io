@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 8 Chapter 1: Tanaka Makes An Announcement"
 category: black guild
 comments: true
+volume_title: "Tanaka Dives Into The Yoyogi World Tree Dungeon"
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-10-25-Black-Guild-V7Extra1.md %}) \| [Next Chapter]({% link _posts/2023-10-29-Black-Guild-V8C3.md %})

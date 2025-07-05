@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 6 Chapter 1: Tanaka Does a Joint Stream"
 category: black guild
 comments: true
+volume_title: "Tanaka Does a Colab"
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-07-23-Black-Guild-V5C7.md %}) \| [Next Chapter]({% link _posts/2023-07-25-Black-Guild-V6C2.md %})

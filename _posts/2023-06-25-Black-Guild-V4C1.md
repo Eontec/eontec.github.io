@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 4 Chapter 1: Tanaka Goes Out"
 category: black guild
 comments: true
+volume_title: "Tanaka Goes On A Date"
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-06-24-Black-Guild-V3C12.md %}) \| [Next Chapter]({% link _posts/2023-06-26-Black-Guild-V4C2.md %})

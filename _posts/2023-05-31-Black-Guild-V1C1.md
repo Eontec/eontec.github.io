@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 1 Chapter 1: Tanaka dives into the dungeon"
 category: black guild
 comments: true
+volume_title: "Tanaka Retires"
 ---
 
 ##### [Next Chapter]({% link _posts/2023-05-31-Black-Guild-V1C2.md %})

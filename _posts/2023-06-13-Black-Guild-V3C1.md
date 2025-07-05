@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 3 Chapter 1: Tanaka Heads to the Monsters Ministry"
 category: black guild
 comments: true
+volume_title: "Tanaka Gets Called By The Minister"
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-06-12-Black-Guild-V2C26.md %}) \| [Next Chapter]({% link _posts/2023-06-15-Black-Guild-V3C2.md %})
@@ -15,7 +16,7 @@ Tl: Sam
 
 　The day after the day I enjoyed yakiniku.
 
-I was dressed in a suit and headed for the "Ministry of Monster Countermeasures" in Chiyoda Ward, Tokyo.
+I was dressed in a suit and headed for the "Ministry of Monster Control" in Chiyoda Ward, Tokyo.
 
 
 "I'm sleepy."
@@ -62,7 +63,7 @@ I was dressed in a suit and headed for the "Ministry of Monster Countermeasures"
 "Ah, I'm here."
 
 
-The "Ministry of Monster Countermeasures" stands proudly by the Imperial Palace.
+The "Ministry of Monster Control" stands proudly by the Imperial Palace.
 
 　This building, the cornerstone of national defense, is a very sturdy and magnificent structure.
 
@@ -73,7 +74,7 @@ The "Ministry of Monster Countermeasures" stands proudly by the Imperial Palace.
 "He said there would be someone to meet me, but who?　Is it someone I know?"
 
 
-　I move my gaze around in front of the Ministry of Demon Control.
+　I move my gaze around in front of the Ministry of Monster Control.
 
 　I was thinking that I had to find the pick-up person as soon as possible.
 
@@ -178,7 +179,7 @@ The "Ministry of Monster Countermeasures" stands proudly by the Imperial Palace.
 "...... Yes, I understand. We'll talk later. Then this way, please."
 
 
-　I was taken by Rin, who looked a little disappointed, and we stepped inside the Ministry of Monster Countermeasures.
+　I was taken by Rin, who looked a little disappointed, and we stepped inside the Ministry of Monster Control.
 
 ...
 

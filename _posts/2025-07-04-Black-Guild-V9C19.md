@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-07-04-Black-Guild-V9C18.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-04-Black-Guild-V9C18.md %})  \| [Next Chapter]({% link _posts/2025-07-05-Black-Guild-V10C1.md %})
 
 
 
@@ -164,4 +164,4 @@ No doubt about it, this person is also from a different world, just like Dagosuk
 
 
 
-##### [Previous Chapter]({% link _posts/2025-07-04-Black-Guild-V9C18.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-04-Black-Guild-V9C18.md %}) \| [Next Chapter]({% link _posts/2025-07-05-Black-Guild-V10C1.md %})

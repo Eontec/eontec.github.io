@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 7 Chapter 1: Tanaka Starts The Procedures"
 category: black guild
 comments: true
+volume_title: "Tanaka Goes To The MAgic Research Institute"
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-08-28-Black-Guild-V6C20.md %}) \| [Next Chapter]({% link _posts/2023-08-28-Black-Guild-V7C2.md %})

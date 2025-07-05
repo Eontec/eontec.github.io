@@ -3,6 +3,7 @@ layout: post
 title: "BG - Volume 5 Chapter 1: Tanaka Introduces His Pet"
 category: black guild
 comments: true
+volume_title: "Tanaka Does A Home Stream"
 ---
 
 ##### [Previous Chapter]({% link _posts/2023-07-18-Black-Guild-V4-Chatacters.md %}) \| [Next Chapter]({% link _posts/2023-07-21-Black-Guild-V5C2.md %})
