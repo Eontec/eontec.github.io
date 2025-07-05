@@ -53,6 +53,10 @@ On the other hand, the guild that banished Tanaka was on the verge of collapse.
           in the front matter of the first chapter's post. 
           Make sure to add 'volume_title: "Your Title"' to the front matter of each volume's first chapter. 
         {%- endcomment -%}
+        {%- comment -%} Get the first chapter of the volume {%- endcomment -%}
+        
+        {%- assign first_chapter = chapters_sorted_by_number | first -%}
+        
         {%- assign volume_title = first_chapter.volume_title -%}
 
         <h3>Volume {{ volume.name }}: {{ volume_title | default: " " }}</h3>
