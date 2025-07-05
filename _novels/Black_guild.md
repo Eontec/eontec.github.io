@@ -38,8 +38,8 @@ On the other hand, the guild that banished Tanaka was on the verge of collapse.
 {%- endcomment -%}
 {%- assign posts_by_volume = filtered_posts | group_by_exp: "post", "post.name | split: 'V' | last | to_integer" -%}
 
-{%- comment -%} Sort the volumes numerically {%- endcomment -%}
-{%- assign sorted_volumes = posts_by_volume | sort_natural: "name" -%}
+{%- comment -%} Sort the volumes numerically using the 'sort' filter {%- endcomment -%}
+{%- assign sorted_volumes = posts_by_volume | sort: "name" -%}
 
 {%- for volume in sorted_volumes -%}
     {%- comment -%} Make sure the volume name (number) exists {%- endcomment -%}
@@ -55,7 +55,7 @@ On the other hand, the guild that banished Tanaka was on the verge of collapse.
         {%- endcomment -%}
         {%- assign volume_title = first_chapter.volume_title -%}
 
-        <h4>Volume {{ volume.name }}: {{ volume_title | default: " " }}</h4>
+        <h3>Volume {{ volume.name }}: {{ volume_title | default: " " }}</h3>
         <ul>
             {%- for post in chapters_sorted_by_number -%}
                 <li>
