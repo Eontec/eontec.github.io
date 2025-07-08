@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C1.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C1.md %})  \| [Next Chapter]({% link _posts/2025-07-05-Black-Guild-V10C3.md %}) 
 
 
 
@@ -208,4 +208,4 @@ Didn't he throw up and pass out? He suddenly got energetic.
 
 
 
-##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C1.md %}) \| [Next Chapter]({% link _posts/2025-07-05-Black-Guild-V10C3.md %}) 

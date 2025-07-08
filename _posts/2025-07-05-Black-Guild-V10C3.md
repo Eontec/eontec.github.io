@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C1.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C2.md %})  \| [Next Chapter]({% link _posts/2025-07-08-Black-Guild-V10C4.md %})
 
 
 
@@ -116,4 +116,4 @@ Is this the boss here...? What on earth is this thing?(Tl: This is definitely ti
 
 
 
-##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C2.md %}) \| [Next Chapter]({% link _posts/2025-07-08-Black-Guild-V10C4.md %})
