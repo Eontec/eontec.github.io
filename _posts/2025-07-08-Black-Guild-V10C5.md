@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C3.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-08-Black-Guild-V10C4.md %})  \| [Next Chapter]({% link _posts/2025-07-10-Black-Guild-V10C6.md %})
 
 
 
@@ -67,7 +67,7 @@ It seems to be observing our reaction.
 「It's too scary, please really do something...!」      
 「If Tanaka doesn't do it, who will!?」
 
-<div data-nat="424164"></div>
+<div data-nat="424166"></div>
 
 "No doubt about it. That evil god is the cause of the magic energy circulation anomaly. If we defeat it, the monster disaster will not occur."
 
@@ -119,4 +119,4 @@ TL Note: CALL ME A PROPHET
 
 
 
-##### [Previous Chapter]({% link _posts/2025-07-05-Black-Guild-V10C3.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-08-Black-Guild-V10C4.md %}) \| [Next Chapter]({% link _posts/2025-07-10-Black-Guild-V10C6.md %})

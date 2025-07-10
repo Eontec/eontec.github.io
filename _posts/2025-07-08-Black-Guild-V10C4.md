@@ -90,7 +90,7 @@ Dojima-san pondered for a moment after hearing my idea of fishing, but perhaps u
 "Understood! I'll leave it to you!"      
 "Thank you."
 
-<div data-nat="424165"></div>
+<div data-nat="424166"></div>
 
 Having received permission, I readied my fishing rod.       
 And aiming for a spot where tentacles frequently appeared, I dropped the hook.
