@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-07-10-Black-Guild-V10C7.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-10-Black-Guild-V10C7.md %})  \| [Next Chapter]({% link _posts/2025-07-11-Black-Guild-V10C9.md %})
 
 
 
@@ -156,4 +156,4 @@ At this rate, a monster disaster will occur...
 
 
 
-##### [Previous Chapter]({% link _posts/2025-07-10-Black-Guild-V10C7.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-10-Black-Guild-V10C7.md %}) \| [Next Chapter]({% link _posts/2025-07-11-Black-Guild-V10C9.md %})
