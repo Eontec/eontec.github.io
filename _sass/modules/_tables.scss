@@ -27,6 +27,19 @@ tr {
 	}
 }
 
+// Manual theme overrides for tables
+[data-theme="light"] {
+	tr:nth-child(even) {
+		background-color: lighten($grey, 30%) !important;
+	}
+}
+
+[data-theme="dark"] {
+	tr:nth-child(even) {
+		background-color: lighten(#000, 10%) !important;
+	}
+}
+
 td,
 th {
 	text-align: left;

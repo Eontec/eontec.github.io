@@ -84,4 +84,14 @@
 	{%- include ads.html -%}{%- endif -%}
 	
 	{%- include google_analytics.html -%}
+	
+	<!-- Theme initialization to prevent flash -->
+	<script>
+	(function() {
+		const savedTheme = localStorage.getItem('theme');
+		if (savedTheme) {
+			document.documentElement.setAttribute('data-theme', savedTheme);
+		}
+	})();
+	</script>
 </head>
