@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-07-10-Black-Guild-V10C8.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-10-Black-Guild-V10C8.md %})  \| [Next Chapter]({% link _posts/2025-07-14-Black-Guild-V10C10.md %})
 
 
 
@@ -178,4 +178,4 @@ Tl Note: I like the way this novel shows people's trauma response. First with Yu
 
 
 
-##### [Previous Chapter]({% link _posts/2025-07-10-Black-Guild-V10C8.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2025-07-10-Black-Guild-V10C8.md %}) \| [Next Chapter]({% link _posts/2025-07-14-Black-Guild-V10C10.md %})
