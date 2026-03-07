@@ -1,0 +1,187 @@
+---
+url: /chalkos/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChalkOS | Bridging the Digital Divide</title>
+    <meta name="description" content="ChalkOS: An immutable educational operating system that revives old hardware and survives curious students.">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Nav -->
+    <nav class="navbar glass-panel">
+        <div class="container nav-content">
+            <div class="logo">
+                <span class="logo-text">Chalk<span class="highlight">OS</span></span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#mission">The Mission</a></li>
+                <li><a href="#scraps">Runs on Scraps</a></li>
+                <li><a href="#break">Built to Break</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero" id="home">
+        <div class="hero-bg">
+            <img src="assets/hero.png" alt="Abstract technology core" class="bg-image">
+            <div class="bg-gradient"></div>
+        </div>
+        
+        <div class="container hero-content text-center mx-auto">
+            <div class="badge fade-in-up">STOPPING E-WASTE. EMPOWERING STUDENTS.</div>
+            <h1 class="fade-in-up delay-1">Bridging the <br><span class="highlight">Digital Divide</span></h1>
+            <p class="subtitle max-w-lg mx-auto fade-in-up delay-2">We turn discarded, decade-old laptops into indestructible learning environments. Built for underfunded schools to survive the chaotic curiosity of students.</p>
+            <div class="cta-group justify-center fade-in-up delay-3">
+                <a href="#mission" class="btn-primary">See Our Impact</a>
+            </div>
+        </div>
+        
+        <div class="scroll-indicator">
+            <div class="mouse">
+                <div class="wheel"></div>
+            </div>
+        </div>
+    </header>
+
+    <!-- The Mission Section -->
+    <section class="section" id="mission">
+        <div class="container grid-2">
+            <div class="text-content reveal">
+                <h2 class="section-title">The <span class="highlight">Hardware Crisis</span></h2>
+                <p class="lead">Underfunded schools cannot afford to buy new computers every three years.</p>
+                
+                <p class="mt-2 text-muted">A modern computer science education is essential, but the hardware barrier is insurmountable for millions of students. Relying on heavy, bloated operating systems forces schools into an expensive cycle of forced obsolescence.</p>
+                
+                <div class="quote-block mt-4 glass-panel glow-border-green">
+                    <p>"We're throwing away laptops that are mechanically fine, simply because modern software demands more RAM than schools can afford."</p>
+                </div>
+            </div>
+            
+            <div class="visual-content reveal delay-2">
+                <div class="stat-card glass-panel bad-state text-center">
+                    <span class="stat-number">40M+</span>
+                    <p class="stat-label">Tons of e-waste generated globally every year, including viable educational hardware.</p>
+                </div>
+                <div class="stat-card glass-panel bad-state text-center mt-2">
+                    <span class="stat-number">$0</span>
+                    <p class="stat-label">The budget most under-resourced IT departments have for laptop replacement cycles.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Runs on Scraps Section -->
+    <section class="section dark-bg" id="scraps">
+        <div class="container text-center max-w-lg mx-auto reveal">
+            <h2 class="section-title text-center">It Runs on <span class="highlight">Scraps</span></h2>
+            <p class="subtitle mt-2">By heavily optimizing a read-only Linux core base, ChalkOS requires a fraction of the resources of Windows or ChromeOS.</p>
+        </div>
+
+        <div class="container features-grid mt-6 reveal delay-2">
+            <div class="feature-card glass-panel">
+                <div class="feature-icon glow">♻️</div>
+                <h3>Reviving 10-Year-Old Tech</h3>
+                <p>That stack of 2014 laptops sitting in the school's storage closet? ChalkOS brings them back to life with sub-10 second boot times.</p>
+            </div>
+            
+            <div class="feature-card glass-panel glow-border-blue">
+                <div class="feature-icon glow">🚀</div>
+                <h3>Ditching the Bloatware</h3>
+                <p>We eliminated every unnecessary background service. ChalkOS compresses the entire core operating system into a highly optimized, read-only archive.</p>
+            </div>
+            
+            <div class="feature-card glass-panel">
+                <div class="feature-icon glow">💻</div>
+                <h3>Hardware Agnostic</h3>
+                <p>Whether it's an old SATA hard drive or a donated NVMe, the ChalkOS installer dynamically maps itself to any storage block device.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Built to Break Section -->
+    <section class="section" id="break">
+         <div class="container grid-2-reverse">
+             <div class="visual-content reveal delay-2">
+                <div class="architecture-diagram glass-panel">
+                    <div class="arch-layer sandbox">
+                        <span class="label">The Sandbox (Read/Write)</span>
+                        <p>Where students play, code, and inevitably break configurations.</p>
+                    </div>
+                    <div class="arch-layer core">
+                        <span class="label">The Core (Read-Only)</span>
+                        <p>The mathematically perfect, invincible operating system base.</p>
+                    </div>
+                    <div class="arch-layer persist">
+                        <span class="label">Student Files (Protected)</span>
+                        <p>Isolated homework and projects.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-content reveal">
+                <h2 class="section-title">Built to <span class="highlight">Take a Beating</span></h2>
+                <p class="lead">Students learn by exploring, and exploring means breaking things.</p>
+                
+                <p class="text-muted mt-2">Traditional systems lock students out of administrative rights entirely, stifling curiosity. ChalkOS uses a unique "Sandwich Architecture" that gives them full control over an isolated Sandbox layer.</p>
+                
+                <div class="action-card mt-4 glass-panel glow-border-red">
+                    <h3>The 10-Second Recovery</h3>
+                    <p>When a student inevitably deletes a critical system file or accidentally bricks the OS, recovery is instantaneous. A simple reboot wipes the active Sandbox layer, reverting the laptop to a pristine state in under ten seconds. Zero IT tickets required. Zero lost learning time.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Deployment Section -->
+    <section class="section dark-bg">
+        <div class="container text-center reveal">
+            <h2 class="section-title">Scaling for <span class="highlight">Overworked IT</span></h2>
+            <p class="subtitle max-w-lg mx-auto mt-2">ChalkOS is engineered for rapid fleet deployment by under-resourced technicians.</p>
+            
+            <div class="deployment-steps mt-6">
+                <div class="step glass-panel">
+                    <span class="step-num">1</span>
+                    <h4>Self-Healing Install</h4>
+                    <p>Clone the core OS to any drive; legacy data is automatically eradicated.</p>
+                </div>
+                <div class="step-arrow">→</div>
+                <div class="step glass-panel">
+                    <span class="step-num">2</span>
+                    <h4>Auto-Networking</h4>
+                    <p>Hostnames generate dynamically from physical MAC addresses. No collisions.</p>
+                </div>
+                 <div class="step-arrow">→</div>
+                <div class="step glass-panel">
+                    <span class="step-num">3</span>
+                    <h4>Zero Maintenance</h4>
+                    <p>Stateless recovery means you never image a bricked laptop again.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container text-center">
+            <div class="logo">
+                <span class="logo-text">Chalk<span class="highlight">OS</span></span>
+            </div>
+            <p class="mt-2" style="color: var(--text-muted); font-size: 0.9rem;">Bridging the digital divide with resilient software.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
