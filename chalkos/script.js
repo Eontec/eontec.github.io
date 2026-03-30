@@ -65,4 +65,90 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
+
+    // --- Simulator for ChalkOS Fleet Command Dashboard ---
+    const deviceGrid = document.getElementById('simulated-device-grid');
+    if (deviceGrid) {
+        const numDevices = 30; // 30-laptop lab
+        const devices = [];
+        let onlineCount = 0;
+        let offlineCount = 0;
+        
+        // Generate devices
+        for (let i = 1; i <= numDevices; i++) {
+            const isOffline = Math.random() > 0.85;
+            if (isOffline) { offlineCount++; } else { onlineCount++; }
+            
+            const battery = isOffline ? '--' : Math.floor(Math.random() * 40 + 60);
+            const storage = isOffline ? 0 : Math.floor(Math.random() * 20 + 2);
+            const load = isOffline ? '0.00' : (Math.random() * 2 + 0.1).toFixed(2);
+            const uptimeH = Math.floor(Math.random() * 10);
+            const uptimeM = Math.floor(Math.random() * 60);
+            
+            const card = document.createElement('div');
+            const statusClass = isOffline ? 'offline' : 'online';
+            const statusText = isOffline ? 'Offline' : 'Online';
+            const name = i === 1 ? 'debian' : (i === 2 ? 'test-lab' : `chalk-${i.toString().padStart(2, '0')}`);
+            
+            card.className = `dash-card ${statusClass}`;
+            card.innerHTML = `
+                <div class="dash-card-header">
+                    <div class="dc-icon">💻</div>
+                    <div class="dc-info">
+                        <div class="dc-name">${name}</div>
+                        <div class="dc-mac">d8:43:ae:7c:${(10+i).toString(16)}:52</div>
+                    </div>
+                    <div class="dc-badge ${statusClass}">${statusText}</div>
+                </div>
+                <div class="dash-card-body">
+                    <div class="dc-row">
+                        <span>Kolibri</span>
+                        <span class="dc-btn-run">RUNNING</span>
+                    </div>
+                    <div class="dc-row" style="margin-top: 5px;">
+                        <span>Storage</span>
+                        <span>${storage}%</span>
+                    </div>
+                    <div class="dc-storage"><div class="dc-storage-fill" style="width: ${storage}%"></div></div>
+                    
+                    <div class="dc-stats">
+                        <div class="dc-stat-box">
+                            <div class="dc-stat-lbl">UPTIME</div>
+                            <div class="dc-stat-val">${isOffline ? '0' : uptimeH}h ${isOffline ? '0' : uptimeM}m</div>
+                        </div>
+                        <div class="dc-stat-box">
+                            <div class="dc-stat-lbl">LOAD</div>
+                            <div class="dc-stat-val">📈 ${load}</div>
+                        </div>
+                    </div>
+                    <div class="dc-last">Last seen: 00:35</div>
+                </div>
+                <div class="dash-card-footer">
+                    <div class="dc-action-btn">⚡ Actions ⌄</div>
+                </div>
+            `;
+            deviceGrid.appendChild(card);
+            devices.push({ element: card, battery: battery, isOffline: isOffline });
+        }
+        
+        document.getElementById('online-count').innerText = onlineCount;
+        document.getElementById('offline-count').innerText = offlineCount;
+
+        // Simulate telemetry blink
+        setInterval(() => {
+            const randomDevice = devices[Math.floor(Math.random() * devices.length)];
+            if (!randomDevice.isOffline) {
+                const el = randomDevice.element;
+                const badge = el.querySelector('.dc-badge');
+                if (badge) {
+                    badge.style.transform = 'scale(1.05)';
+                    badge.style.boxShadow = '0 0 10px rgba(0,200,116,0.6)';
+                    setTimeout(() => {
+                        badge.style.transform = 'scale(1)';
+                        badge.style.boxShadow = 'none';
+                    }, 300);
+                }
+            }
+        }, 1500);
+    }
 });
