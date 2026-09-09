@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-09-30-Black-Guild-V11C6.md %})  \| [Next Chapter]({% link _posts/2025-09-30-Black-Guild-V11C7.md %})
+##### [Previous Chapter]({% link _posts/2026-09-30-Black-Guild-V11C6.md %})  \| [Next Chapter]
 
 
 
@@ -118,4 +118,4 @@ I'll give a more detailed update on my life o nthe discord.
 
 
 
-##### [Previous Chapter]({% link _posts/2025-09-30-Black-Guild-V11C6.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-09-30-Black-Guild-V11C6.md %}) \| [Next Chapter]

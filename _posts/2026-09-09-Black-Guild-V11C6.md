@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-09-30-Black-Guild-V11C5.md %})  \| [Next Chapter]({% link _posts/2025-09-30-Black-Guild-V11C7.md %})
+##### [Previous Chapter]({% link _posts/2026-09-30-Black-Guild-V11C5.md %})  \| [Next Chapter]({% link _posts/2026-09-30-Black-Guild-V11C7.md %})
 
 
 
@@ -89,4 +89,4 @@ Remembering the face of my childhood friend who had fallen beyond the point of n
 
 
 
-##### [Previous Chapter]({% link _posts/2025-09-30-Black-Guild-V11C5.md %}) \| [Next Chapter]({% link _posts/2025-09-30-Black-Guild-V11C7.md %})
+##### [Previous Chapter]({% link _posts/2026-09-30-Black-Guild-V11C5.md %}) \| [Next Chapter]({% link _posts/2026-09-30-Black-Guild-V11C7.md %})
