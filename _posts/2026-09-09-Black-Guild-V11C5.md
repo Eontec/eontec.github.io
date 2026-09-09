@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2025-09-30-Black-Guild-V11C4.md %})  \| [Next Chapter]({% link _posts/2026-09-30-Black-Guild-V11C6.md %})
+##### [Previous Chapter]({% link _posts/2025-09-30-Black-Guild-V11C4.md %})  \| [Next Chapter]({% link _posts/2026-09-09-Black-Guild-V11C6.md %})
 
 
 
@@ -119,4 +119,4 @@ Some people must have been terrified after being attacked by monsters. Including
 
 
 
-##### [Previous Chapter]({% link _posts/2025-09-30-Black-Guild-V11C4.md %}) \| [Next Chapter]({% link _posts/2026-09-30-Black-Guild-V11C6.md %})
+##### [Previous Chapter]({% link _posts/2025-09-30-Black-Guild-V11C4.md %}) \| [Next Chapter]({% link _posts/2026-09-09-Black-Guild-V11C6.md %})
