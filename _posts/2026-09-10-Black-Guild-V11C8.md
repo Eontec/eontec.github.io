@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BG - Volume 11 Chapter : Word Is, Tanaka Is Going to Fight  "
+title: "BG - Volume 11 Chapter 8: Word Is, Tanaka Is Going to Fight  "
 category: black guild
 comments: true
 ---
