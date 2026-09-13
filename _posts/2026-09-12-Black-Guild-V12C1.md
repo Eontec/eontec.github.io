@@ -6,7 +6,7 @@ comments: true
 volume_title: "Tanaka Gets Into A fight."
 ---
 
-##### [Previous Chapter]({% link _posts/2026-09-12-Black-Guild-V11C10.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-09-12-Black-Guild-V11C10.md %})  \| [Next Chapter]({% link _posts/2026-09-13-Black-Guild-V12C2.md %})
 
 
 
@@ -136,4 +136,4 @@ https://magazine.jp.square-enix.com/sqexnovel/special/2024/shachikukensei03_ss.h
 
 
 
-##### [Previous Chapter]({% link _posts/2026-09-12-Black-Guild-V11C10.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-09-12-Black-Guild-V11C10.md %}) \| [Next Chapter]({% link _posts/2026-09-13-Black-Guild-V12C2.md %})
