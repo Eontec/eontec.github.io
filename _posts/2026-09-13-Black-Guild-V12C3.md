@@ -5,7 +5,7 @@ category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2026-09-13-Black-Guild-V12C2.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-09-13-Black-Guild-V12C2.md %})  \| [Next Chapter]({% link _posts/2026-09-14-Black-Guild-V12C4.md %})
 
 
 
@@ -123,4 +123,4 @@ As its leader, despite possessing power at the very pinnacle of Awakened individ
 
 
 
-##### [Previous Chapter]({% link _posts/2026-09-13-Black-Guild-V12C2.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-09-13-Black-Guild-V12C2.md %}) \| [Next Chapter]({% link _posts/2026-09-14-Black-Guild-V12C4.md %})
