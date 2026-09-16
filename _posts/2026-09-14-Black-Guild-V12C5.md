@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "BG - Volume 12 Chapter 3: Tanaka Gets Into A Brawl"
+title: "BG - Volume 12 Chapter 5: Tanaka Gets Into A Brawl"
 category: black guild
 comments: true
 ---
 
-##### [Previous Chapter]({% link _posts/2026-09-14-Black-Guild-V12C4.md %})  \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-09-14-Black-Guild-V12C4.md %})  \| [Next Chapter]({% link _posts/2026-09-16-Black-Guild-V12C6.md %})
 
 
 
@@ -147,4 +147,4 @@ Still, what on earth is Adachi planning to say?
 
 
 
-##### [Previous Chapter]({% link _posts/2026-09-14-Black-Guild-V12C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-09-14-Black-Guild-V12C4.md %}) \| [Next Chapter]({% link _posts/2026-09-16-Black-Guild-V12C6.md %})
