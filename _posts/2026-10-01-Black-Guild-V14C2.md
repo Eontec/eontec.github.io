@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-##### [Previous Chapter]({% link _posts/2026-10-01-Black-Guild-V14C1.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-10-01-Black-Guild-V14C1.md %}) \| [Next Chapter]({% link _posts/2026-10-03-Black-Guild-V14C3.md %})
 
 
 
@@ -183,4 +183,4 @@ I didn't know whether this guy was the boss monster or not, but having other mon
     
     
     
-    
+##### [Previous Chapter]({% link _posts/2026-10-01-Black-Guild-V14C1.md %}) \| [Next Chapter]({% link _posts/2026-10-03-Black-Guild-V14C3.md %})
