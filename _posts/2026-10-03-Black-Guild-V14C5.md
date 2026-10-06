@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "BG - Volume 14 Chapter 4: Tanaka Regroups with Mikami"
+title: "BG - Volume 14 Chapter 5: Tanaka Regroups with Mikami"
 category: black guild
 comments: true
 ---
 
 
-##### [Previous Chapter]({% link _posts/2026-10-03-Black-Guild-V14C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-10-03-Black-Guild-V14C4.md %}) \| [Next Chapter]({% link _posts/2026-10-06-Black-Guild-V14C6.md %})
 
 
 
@@ -133,5 +133,5 @@ Now then... with the Salamanders dealt with, guess I'll hear what Mikami has to 
 
 
 
-##### [Previous Chapter]({% link _posts/2026-10-03-Black-Guild-V14C4.md %}) \| [Next Chapter]
+##### [Previous Chapter]({% link _posts/2026-10-03-Black-Guild-V14C4.md %}) \| [Next Chapter]({% link _posts/2026-10-06-Black-Guild-V14C6.md %})
 
